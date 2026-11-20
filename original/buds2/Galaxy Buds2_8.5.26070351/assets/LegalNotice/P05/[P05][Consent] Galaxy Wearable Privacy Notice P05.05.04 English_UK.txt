@@ -1,0 +1,45 @@
+﻿Consent for Collection and Use of Personal Information (Applicable to Galaxy Wearable)
+
+
+Samsung Electronics fully understands that personal information is important to you and will do the best to ensure the safety and reliability of your personal information.
+Before you use Galaxy Wearable, please carefully read and agree to the Samsung %1$sPrivacy Policy%2$s and the details listed below.
+
+1.Basic Features
+If you disagree to our collection and use of your personal information when you use the basic features of Galaxy Wearable, Galaxy Wearable will not function properly and we will not be able to provide you with these functions.
+
+If you want to withdraw your consent for the collection and use of personal information when you use the Product (or Service), please reset your device and delete Galaxy Wearable.
+
+□ Collection and use of personal information
+
+- Personal information: information about your device, such as the device type, device model, operating system type and version, device identifier and other unique identifiers, unique device identification information, mobile network provider, and device configurations and settings
+- Purpose: The information is used to update software.
+- Method: The information is collected automatically when the device is used, and stored securely in China.
+- Retention period: The information is retained only during software update.
+
+- Personal information: information about your device, such as the device type, device model, operating system type and version, software version, device identifier and other unique identifiers, unique device identification information, mobile network provider, mobile network code (MNC), mobile country code (MCC), Bluetooth address, device configurations and settings, and device settings for accessing Galaxy Wearable
+- Purpose: The information is used to register the device and identify the device activation status.
+- Method: The information is collected automatically when the device is used and stored securely in China.
+- Retention period: The information is retained only during the software update.
+
+- Personal information: information about your device, such as the device type, device model, operating system type and version, software version, device identifier and other unique identifiers, mobile network provider, MNC, MCC, Bluetooth address, device configurations and settings, and device settings for accessing Galaxy Wearable
+- Receiver: Samsung Electronics Co., Ltd
+- Purpose: The information is used to register the device and identify the device activation status.
+- Method: The information is collected automatically when the device is used and stored securely in China.
+- Privacy Policy of the Receiver (Link): https://account.samsung.cn/membership/terms/privacypolicy
+
+2.Extended Feature– Send diagnostic data to Samsung
+Before you use the Send diagnostic data to Samsung feature of Galaxy Wearable, please carefully read the details listed below.
+
+If you disagree to our collection and use of your personal information, the Send diagnostic data to Samsung feature of Galaxy Wearable will not function properly and we will not be able to provide you with these functions. However, you can use other basic features properly. When you require the Send diagnostic data to Samsung feature, we will ask for your consent again.
+
+If you want to withdraw your consent for the collection and use of personal information when you use the Product (or Service), open Galaxy Wearable, choose **Settings** > **About** > **Legal information**, and disable **Send diagnostic data to Samsung**.
+
+□ Collection and use of personal information
+- Personal information: information about your device, such as the device type, device model, operating system type and version, device identifier and other unique identifiers, mobile network provider, device configurations and settings, diagnosis, technical, error, and usage information (for example, when and how long you use Galaxy Wearable), installed applications, when you open and close applications, and how long you use applications
+- Purpose: The information is used to collect diagnosis data and guarantee product and service quality.
+- Method: The information is collected automatically when the device is used and stored securely in China.
+- Retention period: The information is retained for four years.
+
+
+
+Version: P05.05.04

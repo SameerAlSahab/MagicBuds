@@ -1,0 +1,57 @@
+﻿Notificare privind confidențialitatea Galaxy Wearable
+
+Ultima actualizare: 1 august 2021
+
+Samsung Electronics Co., Ltd. acordă o deosebită atenție confidențialității clienților noștri. Am elaborat prezenta Notificare privind confidențialitatea pentru a ne asigura că înțelegeți cum colectăm și utilizăm informațiile dvs. cu caracter personal. 
+
+Politica noastră de confidențialitate – pe care o puteți consulta la https://account.samsung.com/membership/terms/privacypolicy - se aplică, de asemenea, utilizării de către dvs. a Galaxy Wearable. Politica noastră de confidențialitate include mai multe informații despre modul în care utilizăm datele dvs. Aceasta include, de asemenea, informații despre modul în care ne puteți contacta. Vă rugăm să citiți Politica noastră de confidențialitate împreună cu această Notificare privind confidențialitatea. Cu toate acestea, această Notificare privind confidențialitatea va prevala, în permanență, asupra Politicii de confidențialitate.
+
+CE INFORMAȚII COLECTĂM?
+
+Prin intermediul Galaxy Wearable, colectăm și păstrăm informații despre dvs. în diferite moduri. 
+
+Informații pe care le furnizați direct
+
+• Când vă conectați la Samsung account pe dispozitivul dvs. Galaxy Wearable, informațiile despre Samsung account, cum ar fi ID-ul Samsung account.
+
+Informații despre utilizarea de către dvs. a Galaxy Wearable
+
+• Informații despre dispozitivele dvs., cum ar fi tipul dispozitivului, modelul dispozitivului, tipul și versiunea sistemului de operare, identificatorii dispozitivului și alți identificatori unici, furnizorii de rețele mobile, configurațiile și setările dispozitivului;
+• Informații referitoare la locația dvs. prin intermediul semnalelor GPS, Bluetooth și Wi-Fi. Unele caracteristici ale dispozitivului Galaxy Wearable necesită colectarea geolocalizării precise a dispozitivului dvs., iar în aceste cazuri vom colecta geolocalizarea, dar numai cu permisiunea dvs. Dispozitivul dvs. vă va anunța când o caracteristică Galaxy Wearable trebuie să colecteze geolocalizarea precisă. Vă rugăm să rețineți că, dacă nu permiteți Galaxy Wearable să colecteze geolocalizarea precisă, este posibil să nu puteți utiliza toate caracteristicile Galaxy Wearable; 
+• Dacă dispozitivul dvs. oferă caracteristica Conexiune la distanță (disponibilă pe Galaxy Watch3 și modelele anterioare), cum ar fi conectarea dispozitivului mobil la dispozitivul dumneavoastră Galaxy Wearable prin Wi-Fi sau date mobile în loc de Bluetooth astfel încât Galaxy Wearable poate primi mesaje de pe telefonul dvs., informații despre aplicațiile instalate pe dispozitivul dvs. mobil, cum ar fi notificările și conținutul mesajelor și e-mailurilor primite (inclusiv conținutul mesajelor și fișierelor media); 
+• Dacă utilizați funcția Backup și Restabilire, versiunea software-ului, codul de vânzări, lista aplicațiilor instalate și utilizate recent, datele și setările aplicațiilor instalate, setările ecranului acasă, inclusiv fața de ceas, aplicațiile și widget-urile, setările de notificare, setările sistemului, inclusiv afișajul, sunetele și vibrațiile; și
+• Dacă ați fost de acord să trimiteți date de diagnosticare, informații despre diagnostic, tehnice, de eroare și de utilizare, cum ar fi ora și durata de utilizare a Galaxy Wearable, aplicațiile instalate de dvs., precum și cât timp și când deschideți sau închideți aplicațiile;
+
+De asemenea, putem să colectăm alte informații despre dvs., Galaxy Wearable și aplicațiile, dispozitivele dumneavoastră conectate la Galaxy Wearable, precum și utilizarea de către dvs. a Galaxy Wearable în modalitățile descrise la momentul colectării și, oricând este necesar, vom obține consimțământul dvs.
+
+CUM UTILIZĂM INFORMAȚIILE DVS.?
+
+• Pentru a vă ajuta să vă înregistrați și să utilizați Galaxy Wearable. 
+• Pentru a furniza serviciile și caracteristicile pe care le solicitați. 
+• Pentru a răspunde solicitărilor și întrebărilor dvs. și pentru a comunica cu dvs. despre Galaxy Wearable, inclusiv oferirea serviciilor de asistență atunci când solicitați asistență tehnică legată de Galaxy Wearable. 
+• Pentru a vă permite să interacționați cu aplicații, caracteristici și servicii selectate de la Samsung sau terți. De exemplu, puteți face o copie de rezervă a informațiilor despre aplicații și setări în Samsung Cloud sau puteți utiliza Samsung Health pe dispozitivul dvs. Galaxy Wearable.
+• Pentru a furniza conținut personalizat și servicii legate de dispozitivul dvs. Galaxy Wearable. 
+• Pentru a pune la dispoziție promoții și oferte, prin comunicări de marketing direct (cum ar fi prin notificări de tip push, e-mailuri și mesaje text), numai în cazul în care ne-ați acordat consimțământul dvs. separat.
+• Pentru a executa, evalua și îmbunătăți dispozitivul Galaxy Wearable și activitatea noastră comercială (inclusiv dezvoltarea de noi produse și servicii; extinderea și îmbunătățirea produselor și serviciilor noastre; gestionarea comunicațiilor noastre; analizarea produselor, serviciilor și bazei noastre de clienți; efectuarea unor studii de piață; analizarea datelor; și efectuarea funcțiilor de contabilitate, audit și a altor funcții interne).
+• Pentru a vă solicita opinia privind produsele și serviciile noastre și pentru a realiza sondaje cu clienții; în acest caz, pe baza consimțământului dvs. separat.
+• Pentru a oferi actualizări ale software-ului, servicii de întreținere și asistență pentru Galaxy Wearable.
+• Pentru a proteja împotriva, a identifica și preveni frauda și alte activități infracționale, plângeri și obligații.
+• Pentru a respecta și pune în aplicare cerințele prevăzute prin lege, standardele industriale relevante și politicile noastre, inclusiv prezenta Notificare privind confidențialitatea și Politica de confidențialitate.
+
+Dispozitivul dumneavoastră Galaxy Wearable poate oferi posibilitatea de a vă conecta sau de a utiliza alte aplicații, servicii și caracteristici Samsung sau terțe. Spre exemplu, aveți posibilitatea să utilizați Samsung Health sau Bixby Voice pe dispozitivul dumneavoastră Galaxy Wearable. Aceste aplicații, servicii și caracteristici Samsung și terțe pot avea propriile notificări de confidențialitate. Consultați-le pentru a vă asigura că înțelegeți modul în care aceste servicii vă prelucrează informațiile. În măsura în care orice altă aplicație, serviciu și altă caracteristică, pentru care se indică un link sau care sunt afișate, nu sunt deținute sau controlate de noi, nu suntem răspunzători pentru conținutul, utilizarea sau practicile privind confidențialitatea acestora.
+
+CU CINE PARTAJĂM INFORMAȚIILE DVS.?
+
+Vom divulga informațiile dvs. la nivel intern în cadrul departamentelor noastre și către următoarele entități, însă numai în scopurile descrise mai sus.
+
+• Afiliați: alte companii membre ale Grupului Samsung Electronics, pe care le controlăm sau le deținem;
+• Furnizori de servicii: companii atent selectate, care oferă servicii pentru sau în numele nostru, cum ar fi servere de date care întrețin datele în numele nostru. Acești prestatori s-au angajat, la rândul lor, să vă protejeze informațiile; 
+• Alte entități, dacă acest lucru este solicitat prin lege sau astfel cum este necesar pentru protejarea Galaxy Wearable: de exemplu, poate fi necesar conform legii, procedurilor judiciare sau în baza unui ordin judecătoresc emis de autoritățile guvernamentale privind divulgarea informațiilor dvs. De asemenea, acestea ne pot solicita informațiile dvs. în scopul aplicării legii, în scopuri de securitate națională, pentru combaterea terorismului sau pentru alte obiective de securitate publică; 
+• Alte entități, în legătură cu operațiuni corporative: putem divulga informațiile dvs. unui terț, ca parte a unei fuziuni, transfer, achiziții sau vânzări, sau în cazul falimentului; și
+• Alte entități, cu consimțământul sau conform îndrumărilor dvs.: pe lângă divulgările descrise în prezenta Notificare privind confidențialitatea, putem partaja informațiile care vă privesc cu terții, în momentul în care consimțiți la aceasta în mod separat sau când solicitați o astfel de partajare.
+
+ACTUALIZĂRI ALE ACESTEI NOTIFICĂRI PRIVIND CONFIDENȚIALITATEA
+
+Această Notificare privind confidențialitatea poate fi actualizată pentru a vă informa cu privire la modificările modului în care colectăm și prelucrăm informațiile dvs. pentru Galaxy Wearable sau modificările legilor și regulamentelor relevante. Data cea mai recentă la care documentul a fost actualizat este afișată în partea de sus a prezentei Notificări privind confidențialitatea. 
+
+Version:P01.03.01

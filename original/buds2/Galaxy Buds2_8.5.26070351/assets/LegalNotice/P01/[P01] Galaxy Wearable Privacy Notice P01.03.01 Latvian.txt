@@ -1,0 +1,57 @@
+﻿Galaxy Wearable Privātuma paziņojums
+
+Pēdējoreiz atjaunināts: 2021. gada 1. augustā
+
+Samsung Electronics Co., Ltd. zina, cik svarīgs mūsu klientiem ir privātums. Mēs izveidojām šo Privātuma paziņojumu, lai pārliecinātos, ka saprotat, kā mēs apkopojam un izmantojam Jūsu personas datus. 
+
+Mūsu Privātuma politika, kuru var apskatīt vietnē https://account.samsung.com/membership/terms/privacypolicy, attiecas arī uz Jūsu Galaxy Wearable lietošanu. Mūsu Privātuma politika ietver plašāku informāciju par to, kā mēs izmantojam Jūsu datus. Tajā ir ietverta arī mūsu kontaktinformācija. Lūdzu, izlasiet mūsu Privātuma politiku papildus šim Privātuma paziņojumam. Tomēr šis Privātuma paziņojums visos gadījumos prevalē pār Privātuma politiku.
+
+KĀDUS DATUS MĒS APKOPOJAM?
+
+Izmantojot Galaxy Wearable, mēs apkopojam informāciju par Jums dažādos veidos. 
+
+Informācija, kuru Jūs sniedzat tiešā veidā
+
+• Kad savā Galaxy Wearable ierīcē piesakieties Samsung account, informācija par Samsung account, piemēram, Samsung account ID.
+
+Informācija par to, kā izmantojat savu Galaxy Wearable
+
+• Informācija par Jūsu ierīcēm, piemēram, ierīces tips, ierīces modelis, operētājsistēmas tips un versija, ierīču identifikatori un citi unikālie identifikatori, mobilā tīkla pakalpojumu sniedzēji, ierīču konfigurācijas un iestatījumi.
+• Informācija, kas saistīta ar Jūsu atrašanās vietu, izmantojot GPS, Bluetooth un Wi-Fi signālus. Dažām Jūsu Galaxy Wearable funkcijām ir jāapkopo precīza ierīces atrašanās vietas noteikšana, un šādos gadījumos mēs apkoposim Jūsu atrašanās vietu, taču tikai ar Jūsu atļauju. Jūsu ierīce Jums paziņos, kad Galaxy Wearable funkcijai būs jāapkopo Jūsu precīza ģeogrāfiskā atrašanās vieta. Lūdzu, ņemiet vērā, ka tad, ja Jūs neatļausiet sistēmai Galaxy Wearable apkopot precīzus datus par Jūsu ģeogrāfisko atrašanās vietu, iespējams, Jūs nevarēsiet izmantot visas Galaxy Wearable funkcijas. 
+• Ja Jūsu ierīce piedāvā funkciju Attālais savienojums (pieejams Galaxy Watch3 un iepriekšējos modeļos), piemēram, mobilās ierīces pievienošanu Galaxy Wearable ierīcei, izmantojot Wi-Fi vai mobilos datus, nevis Bluetooth, lai Jūsu Galaxy Wearable varētu saņemt ziņojumus no tālruņa, informācija par mobilajā ierīcē instalētajām programmām, piemēram, paziņojumi un saņemto ziņojumu un e-pasta ziņojumu saturs (tostarp ziņojumi un multivides failu saturs). 
+• Ja izmantojat funkciju Dublēšana un atjaunošana, programmatūras versija, pārdošanas kods, instalēto un nesen izmantoto programmu saraksts, instalēto programmu dati un iestatījumi, sākuma ekrāna iestatījumi, tostarp ciparnīcas, programmas un logrīki, paziņojumu iestatījumi, sistēmas iestatījumi, ietverot displeju, skaņu un vibrāciju.
+• Ja esat piekritis sūtīt diagnostikas datus, diagnostikas, tehniskās apkopes, kļūdu un lietošanas informācija, piemēram, Galaxy Wearable lietošanas laiks un ilgums, Jūsu instalētās programmas un tas, cik ilgi un kad atverat vai aizverat.
+
+Mēs varam apkopojam arī citu informāciju par Jums, Jūsu Galaxy Wearable un programmām, ierīcēm, kuras savienotas ar Galaxy Wearable, kā arī par Galaxy Wearable lietošanu tādā veidā, kā mēs to aprakstīsim apkopošanas laikā, un, kad vien tas būs nepieciešams, mēs iegūsim Jūsu piekrišanu.
+
+KĀ MĒS IZMANTOJAM JŪSU DATUS?
+
+• Lai palīdzētu reģistrēties un lietot Jūsu Galaxy Wearable. 
+• Lai sniegtu pieprasītos pakalpojumus un nodrošinātu funkcijas. 
+• Lai atbildētu uz Jūsu pieprasījumiem un jautājumiem un sazinātos ar Jums par Jūsu Galaxy Wearable, ieskaitot palīdzības sniegšanu, kad Jūs pieprasāt tehnisko atbalstu saistībā ar savu Galaxy Wearable. 
+• Lai ļautu Jums mijiedarboties ar atlasītajām Samsung vai trešo personu programmām, funkcijām un pakalpojumiem. Piemēram, iespējams, Jūs varēsiet dublēt savas programmas un iestatījumus Samsung Cloud vai izmantot Samsung Health savā Galaxy Wearable.
+• Lai nodrošinātu pielāgotu saturu un pakalpojumus, kas saistīti ar Jūsu Galaxy Wearable. 
+• Lai rādītu reklāmas paziņojumus un sniegtu piedāvājumus, izmantojot tiešā mārketinga paziņojumus (piemēram, izmantojot pašpiegādes paziņojumus, e-pastus un īsziņas), bet tikai tad, ja esat mums devis atsevišķu piekrišanu.
+• Lai vadītu, novērtētu un uzlabotu mūsu Galaxy Wearable un uzņēmējdarbību (tostarp veicot jaunu produktu izstrādi, pilnveidojot un uzlabojot mūsu produktus un pakalpojumus, organizējot mūsu komunikāciju, analizējot mūsu produktus, pakalpojumus un klientu bāzi, veicot tirgus izpēti, veicot datu analīzi, kā arī izpildot grāmatvedības, revīzijas un citas iekšējās funkcijas).
+• Lai lūgtu Jums izteikt viedokli par mūsu produktiem un pakalpojumiem un veiktu klientu aptaujas; ja nepieciešams, lūdzot Jūsu atsevišķu piekrišanu.
+• Lai nodrošinātu programmatūras atjauninājumus, uzturēšanas pakalpojumus un atbalstu Jūsu Galaxy Wearable.
+• Lai identificētu, novērstu un aizsargātu pret krāpšanu un citām noziedzīgām darbībām, kā arī aizsargātu prasību un citu saistību gadījumā.
+• Lai ievērotu un izpildītu spēkā esošās juridiskās prasības, attiecīgos nozares standartus un mūsu politikas, tostarp šo Privātuma paziņojumu un Privātuma politiku.
+
+Jūsu Galaxy Wearable var nodrošināt iespēju izveidot savienojumu vai izmantot citas Samsung vai trešo personu programmas, pakalpojumus un funkcijas. Piemēram, Jūs, iespējams, savā Galaxy Wearable ierīcē varēsiet izmantot Samsung Health vai Bixby Voice. Šīm Samsung un trešo personu programmām, pakalpojumiem un funkcijām var būt savi privātuma paziņojumi. Pārskatiet tos, lai izprastu to, kā šie pakalpojumi apstrādā Jūsu informāciju. Ciktāl jebkura cita saistīta vai parādīta programma, pakalpojums vai cita funkcija nav mūsu īpašumā vai kontrolē, mēs neesam atbildīgi par tās saturu, izmantošanu vai privātuma praksi.
+
+AR KO MĒS KOPĪGOJAM JŪSU PERSONAS DATUS?
+
+Mēs atklāsim Jūsu personas datus mūsu uzņēmuma iekšienē un turpmāk norādītajām juridiskajām personām, bet tikai iepriekš aprakstītajiem mērķiem.
+
+• Saistītajiem uzņēmumiem: citiem Samsung Electronics grupas uzņēmumiem, kurus mēs kontrolējam vai kuri mums pieder.
+• Pakalpojumu sniedzējiem: rūpīgi atlasītiem uzņēmumi, kuri sniedz pakalpojumus mūsu labā vai mūsu vārdā, piemēram, datu serveriem, kuri uztur datus mūsu vārdā. Šie pakalpojumu sniedzēji ir arī apņēmušies aizsargāt Jūsu personas datus.
+• Citām pusēm, ja to nosaka tiesību akti vai ja tas nepieciešams, lai aizsargātu Jūsu Galaxy Wearable: piemēram, Jūsu personas dati var būt nepieciešami saskaņā ar likumu, juridiskajos procesos vai ar valdības iestāžu tiesas rīkojumu. Viņi var arī pieprasīt no mums Jūsu personas datus tiesībaizsardzības, valsts drošības, terorisma apkarošanas vai citu ar sabiedrības drošību saistītu jautājumu vajadzībām.
+• Citām pusēm saistībā ar korporatīvajiem darījumiem: mēs varam atklāt Jūsu informāciju trešajām personām apvienošanās vai nodošanas, iegādes vai pārdošanas ietvaros vai bankrota gadījumā.
+• Citām pusēm ar Jūsu piekrišanu vai norādījumiem: papildus šajā Privātuma paziņojumā aprakstītajai informācijai mēs varam dalīties ar Jūsu personas datiem ar trešajām personām, ja Jūs atsevišķi piekrītat vai pieprasāt šādu kopīgošanu.
+
+ŠĪ PRIVĀTUMA PAZIŅOJUMA ATJAUNINĀJUMI
+
+Šis Privātuma paziņojums var tikt atjaunināts, lai informētu Jūs par izmaiņām attiecībā uz to, kā mēs apkopojam un apstrādājam Jūsu informāciju par Jūsu Galaxy Wearable, vai par izmaiņām attiecīgajos tiesību aktos. Dokumenta pēdējās atjaunināšanas datums ir norādīts šī Privātuma paziņojuma augšdaļā.
+
+Version:P01.03.01

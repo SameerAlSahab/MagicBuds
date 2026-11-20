@@ -1,0 +1,56 @@
+﻿Galaxy Wearable'ning Maxfiylik bildiruvi
+
+So'nggi yangilanish sanasi: 2021-yil 1-avgust
+
+Biz Samsung Electronics Co., Ltd. kompaniyasida maxfiylik mijozlarimiz uchun qanchalik muhim ekanini yaxshi bilamiz. Biz ushbu Maxfiylik bildiruvini shaxsiy ma'lumotlaringizni qanday yig'ishimiz va ulardan qanday foydalanishimizni tushunib olishingiz uchun tayyorladik. 
+
+Bizning https://account.samsung.com/membership/terms/privacypolicy manzilida ko'rish mumkin bo'lgan Maxfiylik siyosatimiz ham sizning Galaxy Wearable'ga nisbatan qo'llanadi. Maxfiylik siyosatimizda ma'lumotlaringizdan qanday foydalanishimiz haqida ko'proq ma'lumotlar bor. Unda biz bilan qanday bog'lanishga oid ma'lumotlar ham bor. Ushbu Maxfiylik bildiruviga qo'shimcha ravishda Maxfiylik siyosatimizni ham o'qib chiqing. Biroq ushbu Maxfiylik bildiruvi har doim Maxfiylik siyosatidan ustun kuchga ega.
+
+BIZ QANDAY MA'LUMOTLARNI TO'PLAYMIZ?
+
+Galaxy Wearable ilovangiz orqali siz haqingizdagi ma'lumotlarni turli yo'llar bilan yig'amiz va saqlaymiz. 
+
+Siz to'g'ridan-to'g'ri taqdim etadigan ma'lumotlar
+
+• Galaxy Wearable qurilmasida Samsung hisob qaydnomasiga kirganingizda Samsung hisob qaydnomasi identifikatori kabi Samsung hisob qaydnomasi ma'lumotlari.
+
+Galaxy Wearable'dan qanday foydalanishingiz haqida ma'lumot
+
+• Qurilma turi, qurilma modeli, OT turi va versiyasi, qurilma identifikatorlari va boshqa identifikatorlar, mobil tarmoq taminotchilari, qurilma konfiguratsiyalari va parametrlari kabi qurilmangiz to'g'risidagi ma'lumotlar;
+• GPS, Bluetooth va Wi-Fi signallari orqali joylashuvingizga oid ma'lumotlar. Galaxy Wearable ilovangizning ayrim xususiyatlari qurilmangizning aniq geojoylashuvi haqidagi ma'lumotlar to'planishini talab qiladi va bunday holatlarda biz faqat ruxsatingiz bilan geojoylashuvingiz haqidagi ma'lumotlarni to'playmiz. Galaxy Wearable xususiyati aniq geojoylashuvingiz haqidagi ma'lumotlarni to'plashi kerak bo'lganida qurilmangiz sizni xabardor qiladi. Shuni yodda tutingki, agar siz Galaxy Wearable ilovasiga aniq geojoylashuvingiz haqidagi ma'lumotlarni to'plashiga ruxsat bermasangiz, Galaxy Wearable ilovasining barcha funksiyalaridan foydalana olmasligingiz mumkin; 
+• Agar qurilmangiz Masofadan ulanish xususiyatini taqdim etsa (Galaxy Watch3 va undan oldingi versiyalarda mavjud), Galaxy Wearable telefoningizdan xabarlarni ola olishi uchun mobil qurilmangizni Galaxy Wearable qurilmasiga Bluetooth funksiyasi o'rniga Wi-Fi yoki mobil internet orqali ulash kabi, mobil qurilmangizga o'rnatilgan ilovalar to'g'risidagi ma'lumotlar, jumladan, bildirishnomalar va olingan xabarlar va elektron xatlar kontenti (jumladan, xabarlar va media fayllari kontenti) va 
+• Agar siz Arxivlash va Qayta tiklash funksiyasi, sotuv kodi, o'rnatilgan va yaqinda foydalanilgan ilovalar ro'yxati, o'rnatilgan ilovalar ma'lumotlari va parametrlari, asosiy ekran sozlamalari, jumladan, soat yuzi, ilovalar va vidjetlar, bildirishnomalar sozlamalari, tizim sozlamalari, jumladan, displey, tovush va tebranishdan foydalansangiz.
+• Agar siz diagnostika ma'lumoti, diagnostika, texnik, xatolik ma'lumotlari va Galaxy Wearable qurilmangizdan foydalanishingiz vaqti va davomiyligi, siz o'rnatgan ilovalar va ilovalarni qancha vaqt va qachon ochishingiz va yopishingiz kabi foydalanish ma'lumotlarini yuborishga rozi bo'lgan bo'lsangiz.
+
+Biz yana to'plash vaqtida aytib o'tilgan usullarda siz, Galaxy Wearable qurilmangiz va ilovalaringiz, Galaxy Wearable'ga ulangan qurilmalaringiz va Galaxy Wearable'dan foydalanishingiz haqidagi ma'lumotlarni ham to'plashimiz mumkin va zarur bo'lgan hollarda roziligingizni olamiz.
+
+MA'LUMOTLARINGIZDAN QANDAY FOYDALANAMIZ?
+
+• Sizga Galaxy Wearable'ni ro'yxatdan o'tkazish va foydalanishda yordam berish. 
+• Siz iltimos qilgan xizmatlarni ko'rsatish va xavfsizlikni ta'minlash. 
+• So'rovlaringiz va savollaringizga javob berish va Galaxy Wearable haqida siz bilan aloqa qilish, jumladan Galaxy Wearable bilan bog'liq texnik ko'mak ko'rsatishni so'raganingizda yordam berish. 
+• Tanlangan Samsung yoki uchinchi tomon ilovalari, funksiyalari va xizmatlari bilan hamkorlik qilishga ruxsat berish. Masalan, ilovalaringiz va parametrlaringizni Samsung Cloud xizmatiga arxivlashingiz yoki Samsung Health xizmatidan Galaxy Wearable'da foydalanishingiz mumkin.
+• Galaxy Wearable'ga bog'liq bo'lgan sozlangan kontent va xizmatlarni taqdim etish. 
+• Faqat siz alohida ruxsat bergan hollardagina bevosita marketing xabarlari (jumladan, push bildirishnomalari, elektron xatlar va xabarlar orqali) orqali promo-aksiyalar va takliflarni taqdim etish.
+• Galaxy Wearable xizmati va biznesimizni yuritish, baholash va takomillashtirish (jumladan, yangi mahsulotlar va xizmatlarni ishlab chiqish; mahsulotlarimiz va xizmatlarimizni rivojlantirish va takomillashtirish; muloqotlarimizni boshqarish; mahsulotlarimiz, xizmatlarimiz va mijozlarimizni tahlil qilish; bozorni o'rganish; ma'lumotlarni tahlildan o'tkazish hamda buxgalteriya, audit va boshqa ichki funksiyalarni amalga oshirish).
+• Mahsulotlarimiz va xizmatlarimiz haqidagi fikr-mulohazalaringizn so'rash hamda agar talab qilinsa, alohida roziligingizni olib, mijoz so'rovini o'tkazish.
+• Galaxy Wearable uchun dasturiy ta'minot yangilanishlari, texnik xizmat va ko'makni ta'minlab berish.
+•Firibgarlik va boshqa jinoiy xatti-harakatlar, da'volar va boshqa majburiyatlardan himoyalash, ularni aniqlash va oldini olish.
+•Amaldagi qonun talablari, sohaning tegishli standartlari va bizning siyosatlarimizga, jumladan, ushbu Maxfiylik bildiruvi, Maxfiylik siyosatiga rioya etilishini ta'minlash.
+
+Galaxy Wearable boshqa Samsung yoki uchinchi tomon ilovalari, xizmatlari va xususiyatlariga ulanish yoki ulardan foydalanish imkoniyatini taqdim etishi mumkin. Masalan, siz Samsung Wearable qurilmangizda Samsung Health yoki Bixby Voice'dan foydalana oladigan bo'lishingiz mumkin. Ushbu Samsung va uchinchi tomon ilovalari, xizmatlari va xususiyatlari o'z maxfiylik eslatmalariga ega bo'lishi mumkin. O'sha xizmatlarning ma'lumotlaringizga qanday ishlov berishini tushunib olish uchun ularni ko'zdan kechiring. Biz boshqa hech bir ulangan yoki ko'rsatilgan ilova, xizmat yoki boshqa funksiya o'zimizga tegishli yoki nazoratimizda bo'lmagani uchun uning kontenti, foydalanish yoki maxfiylikni ta'minlash amaliyoti uchun javobgar emasmiz.
+
+MA'LUMOTLARINGIZNI KIMLAR BILAN BOʻLISHAMIZ?
+
+Biz ma'lumotlaringizni faqat yuqorida bayon qilingan maqsadlar uchun biznesimiz doirasida hamda quyidagi yuridik shaxslarga oshkor qilamiz.
+* Filiallar: biz boshqaradigan yoki egalik qiladigan Samsung Electronics guruhining boshqa kompaniyalari;
+* Xizmat provayderlari: biz uchun yoki bizning nomimizdan xizmatlar ko'rsatuvchi puxtalik bilan tanlab olingan kompaniyalar, jumladan bizning nomimizdan ma'lumotlarni saqlovchi ma'lumotlar serverlari. Bu provayderlar ham sizning ma'lumotlaringizni himoya qilish majburiyatini oladi;
+* Galaxy Wearable'ingizni himoya qilish uchun qonunda talab qilingan yoki zarur bo'lgan hollarda boshqa tomonlar: masalan, qonun, sud jarayoni yoki davlat organidan olingan sud buyrug'i bilan ma'lumotlaringizni oshkor qilish zarur bo'lishi mumkin. Ular, shuningdek, bizdan huquq-tartibot, milliy xavfsizlik, terrorga qarshi kurash yoki jamoat xavfsizligiga aloqador boshqa maqsadlarda sizning ma'lumotlaringizni talab qilishlari mumkin;
+* Korporativ operatsiyalar bilan bogʻliq holda boshqa tomonlarga: Biz birlashuv yoki vakolatlarning topshirilishi, xarid yoki sotuv, shuningdek, bankrotlik holatida ma'lumotlaringizni uchinchi tomonga oshkor qilishimiz mumkin; va
+* Sizning rozilingiz yoki koʻrsatmangizga binoan boshqa tomonlarga: ushbu Maxfiylik bildiruvida ta'kidlangan ochiqlashdan tashqari alohida roziligingiz yoki so'rovingiz asosida siz haqingizdagi ma'lumotlarni uchinchi tomonga oshkor qilishimiz mumkin.
+
+USHBU MAXFIYLIK BILDIRUVIDAGI YANGILANISHLAR
+
+Galaxy Wearable uchun siz haqingizdagi ma'lumotlarni qanday yig'ishimiz va ishlov berishimiz yoki tegishli qonunlar va tartib-qoidalardagi o'zgarishlar haqida sizni xabardor qilib turishimiz uchun ushbu Maxfiylik bildiruvi yangilanishi mumkin. Hujjatning so'nggi yangilanish sanasi ushbu Maxfiylik bildiruvining yuqori qismida ko'rsatilgan.
+
+Version:P01.03.01

@@ -1,0 +1,126 @@
+﻿Privacyverklaring voor Galaxy Wearable
+
+Voor het laatst bijgewerkt op: 1 augustus 2021
+
+Bij Samsung Electronics Co., Ltd. weten we hoe belangrijk privacy voor onze klanten is. Samsung is de verwerkingsverantwoordelijke voor uw Galaxy Wearable. Wij hebben deze privacyverklaring opgesteld om ervoor te zorgen dat u begrijpt hoe wij uw persoonsgegevens verzamelen en gebruiken. 
+
+Ons privacybeleid, dat u kunt bekijken op https://account.samsung.com/membership/terms/privacypolicy, is ook van toepassing op uw gebruik van uw Galaxy Wearable. Ons privacybeleid bevat meer informatie over hoe wij uw gegevens gebruiken. Lees ons privacybeleid als aanvulling op deze privacyverklaring. Deze privacyverklaring heeft echter altijd voorrang op het privacybeleid.
+
+WELKE GEGEVENS VERZAMELEN WE?
+
+Via uw Galaxy Wearable verzamelen en bewaren we op verschillende manieren informatie over u. 
+
+Informatie die u zelf aan ons verstrekt
+
+• Wanneer u inlogt op uw Samsung account op uw Galaxy Wearable-apparaat, informatie over uw Samsung account, zoals uw Samsung-account-ID.
+
+Informatie over uw gebruik van uw Galaxy Wearable
+
+• Informatie over uw apparaten, zoals het type apparaat, het apparaatmodel, type en versie van het besturingssysteem, apparaatkenmerken en andere unieke identificatiemiddelen, mobiele netwerkproviders, apparaatconfiguraties en -instellingen;
+• Informatie met betrekking tot uw locatie via gps-, Bluetooth- en Wi-Fi-signalen. Bepaalde functies van uw Galaxy Wearable vereisen het verzamelen van de exacte geolocatie van uw apparaat. In die gevallen zullen we informatie over uw geolocatie verzamelen, maar uitsluitend met uw toestemming. Uw apparaat zal u op de hoogte stellen wanneer een Galaxy Wearable-functie uw exacte geolocatie vereist. Houd er rekening mee dat als u uw Galaxy Wearable niet toestaat om uw exacte geolocatie te verzamelen, u mogelijk niet alle Galaxy Wearable-functies kunt gebruiken; 
+• Als uw apparaat een Verbinding op afstand-functie heeft (beschikbaar op Galaxy Watch3 en eerdere modellen, zoals het verbinden van uw mobiele apparaat met uw Galaxy Wearable-apparaat via Wi-Fi of mobiele data in plaats van Bluetooth zodat uw Galaxy Wearable berichten van uw telefoon kan ontvangen, informatie over apps die geïnstalleerd zijn op uw mobiele apparaat zoals meldingen en inhoud van ontvangen berichten en e-mails (inclusief de inhoud van berichten en mediabestanden); 
+• Als u gebruik maakt van de Back-up en herstel-functie; de softwareversie, de verkoopcode, de lijst van geïnstalleerde en recent gebruikte apps, data en instellingen van geïnstalleerd apps, instellingen van het startscherm inclusief wijzerplaat, apps en widgets, instellingen voor meldingen, systeeminstellingen inclusief display, geluiden en trillen; en
+• Als u hebt ingestemd met het versturen van diagnostische gegevens, diagnostische, technische, fout- en gebruiksinformatie zoals de tijd en duur van uw gebruik van uw Galaxy Wearable, door u geïnstalleerd apps en hoe lang en wanneer u apps opent of afsluit.
+
+We verzamelen mogelijk ook andere informatie over u, uw Galaxy Wearable en apps, de apparaten die zijn verbonden met Galaxy Wearable, en uw gebruik van uw Galaxy Wearable op manieren die we aan u kenbaar zullen maken op het moment van verzameling. Wanneer dit nodig is, vragen we om uw instemming.
+
+HOE GEBRUIKEN WE UW INFORMATIE?
+
+• Om u erbij te helpen zich te registreren voor uw Galaxy Wearable. 
+• Om de diensten en functies te leveren die u aanvraagt. 
+• Om te reageren op uw verzoeken en vragen, en om met u te communiceren over uw Galaxy Wearable, met inbegrip van het bieden van hulp wanneer u technische ondersteuning aanvraagt met betrekking tot uw Galaxy Wearable. 
+• Om het voor u mogelijk te maken te werken met geselecteerde apps, functies en services van Samsung of derden. U kunt bijvoorbeeld een back-up van uw instellingen van apps en informatie naar Samsung Cloud maken of Samsung Health op uw Galaxy Wearable gebruiken.
+• Om op maat gemaakte inhoud en services met betrekking tot uw Galaxy Wearable te verstrekken. 
+• Om promoties en aanbiedingen aan te bieden door middel van directe marketingcommunicatie (zoals via pushberichten, e-mails en sms-berichten), alleen wanneer u ons uw afzonderlijke toestemming hebt gegeven.
+• Om Galaxy Wearable en onze bedrijfsactiviteiten uit te voeren, te evalueren en te verbeteren (onder andere door nieuwe producten en services te ontwikkelen, onze producten en services uit te breiden en te verbeteren, onze communicatie te beheren, onze producten, services en klantenbestand te analyseren, marktonderzoek uit te voeren, gegevensanalyse te verrichten, de administratie bij te houden en boekhoudkundige controles en andere interne functies uit te voeren).
+• Om u te vragen naar uw mening over onze producten en diensten en, indien nodig, klantonderzoeken uit te voeren, met uw afzonderlijke toestemming.
+• Om software-updates, onderhoudsdiensten en ondersteuning te bieden voor Galaxy Wearable.
+• Om bescherming te bieden tegen fraude en andere criminele activiteiten, claims en andere risico’s en deze te herkennen en te voorkomen.
+• Om toepasselijke wettelijke vereisten, relevante industrienormen en onze beleidsregels, met inbegrip van deze privacyverklaring en het privacybeleid, na te leven en de handhaving ervan af te dwingen.
+
+Uw Galaxy Wearable kan de mogelijkheid bieden om verbinding te maken met andere apps, services en functies van Samsung of van derden, of om deze te gebruiken. Het is bijvoorbeeld mogelijk om Samsung Health of Bixby Voice op uw Galaxy Wearable-apparaat te gebruiken. Deze apps, services en functies van Samsung of van derden hebben mogelijk hun eigen privacymeldingen. Zorg ervoor dat u deze bekijkt, zodat u begrijpt hoe deze services uw informatie verwerken. Voor zover een app, service of andere gekoppelde functie geen eigendom van ons is of door ons wordt beheerd, zijn wij niet verantwoordelijk voor de inhoud, het gebruik en de privacypraktijken ervan.
+
+Samsung verwerkt persoonlijke informatie voor de hierboven beschreven doeleinden. De wettelijke basis van Samsung om persoonlijke informatie te verwerken, wordt hieronder beschreven: 
+
+Het nakomen van onze belofte aan u (uitvoering van de overeenkomst, AVG artikel 6, lid 1, onder b))
+
+• Om u en uw Galaxy Wearable te registreren
+• Om u te voorzien van Galaxy Wearable, zoals het u mogelijk maken om een back-up van uw apps en informatie over instellingen op cloudservers te maken
+• Om het voor u mogelijk te maken te werken met andere inhoud van Samsung en van derden
+
+Om onze zakelijke belangen te behartigen (legitieme belangen, AVG artikel 6, lid 1, onder f))
+
+• Om Galaxy Wearable en onze zakelijke activiteiten te exploiteren, evalueren en verbeteren
+• Om u te voorzien van aangepaste inhoud
+•Reageren op uw verzoeken, instructies en vragen
+• Om adequate beveiligingsmaatregelen, ondersteuning en updates te handhaven
+• Ter bescherming tegen aansprakelijkheid, met inbegrip van het naleven van de industrienormen en het afdwingen van ons beleid
+
+Om te voldoen aan de wet en juridische processen (AVG artikel 6, lid 1, onder c))
+• Om te voldoen aan de toepasselijke statuten en reglementaire en gerechtelijke bevelen
+
+Met uw toestemming (AVG artikel 6, lid 1, onder a))
+• Om marketingberichten te verstrekken (zoals via pushmeldingen, e-mails en tekstberichten)
+• De verwerking van diagnostische gegevens
+• De verwerking van geolocatiegegevens
+
+MET WIE DELEN WIJ UW INFORMATIE?
+
+We verstrekken uw informatie intern binnen ons bedrijf en aan de volgende entiteiten, maar uitsluitend voor de hierboven beschreven doelen.
+• Filialen: overige bedrijven van de Samsung Electronics Groep die wij aansturen of bezitten;
+• Serviceproviders: zorgvuldig geselecteerde bedrijven die diensten verlenen voor of namens ons, zoals dataservers die namens ons gegevens behouden. Deze providers zorgen ook voor de bescherming van uw informatie;
+• Overige partijen wanneer wettelijk vereist of voor zover noodzakelijk om uw Galaxy Wearable te beschermen: zo kan het nodig zijn door de wet, een juridisch proces of gerechtelijk bevel van overheidsautoriteiten om uw informatie vrij te geven. Ook kunnen zij ons om uw informatie verzoeken in verband met wetshandhaving, nationale veiligheid, anti-terrorisme of andere zaken in het kader van de openbare veiligheid;
+• Overige partijen in verband met zakelijke transacties: wij kunnen uw informatie doorgeven aan een derde als onderdeel van een fusie of doorgifte, overname of verkoop, of in het geval van een faillissement; en
+• Overige partijen met uw toestemming of op uw aanwijzing: naast de openbaarmaking zoals beschreven in deze Privacyverklaring, kunnen we informatie over u delen met derden wanneer u afzonderlijk toestemming geeft of zelf verzoekt om deze te delen.
+
+HOELANG BEWAREN WE UW GEGEVENS EN WAAR GAAN ZE NAARTOE?
+
+Hoelang uw gegevens worden bewaard, hangt af van de rechtsgrond waarop de verwerking van uw gegevens is gebaseerd. Als we bijvoorbeeld gegevens verwerken om ons contract met u uit te voeren, moeten wij de gegevens bewaren gedurende de tijd dat u uw Galaxy Wearable gebruikt. Zolang u een actieve gebruiker van uw Galaxy Wearable bent, zullen wij deze gegevens bewaren en verwerken. Gegevens zoals uw apparaatinformatie en -identificaties vallen in deze categorie.
+
+Gegevens die we verwerken om onze zakelijke belangen te bevorderen, zoals uw gebruik van uw Galaxy Wearable, worden slechts zolang bewaard als nodig is voor de doeleinden waarvoor ze zijn verzameld. Deze gegevens kunnen bijvoorbeeld worden verzameld voor het uitvoeren van analyses, zodat we verbeteringen voor Galaxy Wearable kunnen ontwikkelen, of we kunnen gegevens verwerken om een register bij te houden van vragen die u hebt gesteld via of over uw Galaxy Wearable om uw ervaring met de klantenservice te verbeteren.
+
+Daarnaast kunnen we uw gegevens ook verwerken op basis van uw toestemming. Als u uw toestemming intrekt, zullen we stoppen met de verwerking van uw gegevens waarvoor uw toestemming is vereist, maar dit zal geen invloed hebben op de verwerking van gegevens die voorafgaand aan uw intrekking werden verzameld, totdat de doeleinden waarvoor dergelijke gegevens werden verzameld bereikt zijn.
+
+Let op: hoewel wij ernaar streven om uw gegevens gedurende de hierboven beschreven periode te bewaren, kunnen uw gegevens op grond van de toepasselijke wetgeving langer worden verwerkt. Als een specifiek statuut bijvoorbeeld voorschrijft dat wij een bepaald gegeven nodig hebben, dan zullen wij dit respecteren en het bewaren tot de vereiste bewaartermijn is verstreken. 
+
+Zolang uw gegevens door ons worden bewaard, vallen uw gegevens altijd onder passende bescherming.
+
+Uw gebruik van uw Galaxy Wearable omvat de overdracht, opslag en verwerking van uw persoonlijke informatie naar andere landen. Dergelijke landen zijn onder andere, zonder beperking, landen in de Europese Economische Ruimte, Zuid-Korea, India en Vietnam. Alle internationale gegevensdoorgiften vallen onder wettelijke vereisten om ervoor te zorgen dat uw persoonlijke informatie veilig en zoals u zou verwachten wordt verwerkt. Dergelijke maatregelen omvatten het gebruik van standaardcontractbepalingen ter beveiliging van de doorgifte van gegevens buiten de EER. Raadpleeg de sectie CONTACT OPNEMEN van de Privacyverklaring voor meer informatie of om een kopie van de van kracht zijnde standaard contractuele clausules te verkrijgen.
+
+HOE BESCHERMEN WE UW INFORMATIE?
+
+We nemen gegevensbescherming zeer serieus. We hebben fysieke en technische veiligheidsmaatregelen getroffen om de informatie die we verzamelen veilig te houden. Houd er echter rekening mee dat, hoewel we redelijke stappen ondernemen om uw informatie te beschermen, geen enkele website, doorgifte via internet, computersysteem of draadloze verbinding volledig veilig is.
+
+WAT ZIJN UW RECHTEN?
+
+Uw persoonlijke informatie is van u. U kunt ons vragen om details te verstrekken over welke informatie we hebben verzameld en om deze informatie te verwijderen of eventuele onjuistheden te corrigeren. U kunt ons ook vragen om de verwerking, het delen of de overdracht van uw persoonlijke informatie te beperken. Daarnaast kunt u ons vragen om de over u verzamelde persoonlijke informatie aan u te verstrekken, zodat u deze voor uw eigen doeleinden kunt gebruiken. Verzoeken om verwijdering of een ander recht met betrekking tot beperking van de verwerking, het delen of de overdracht van uw persoonlijke informatie kan echter ook leiden tot verlies van toegang, geheel of gedeeltelijk, tot uw Galaxy Wearable. We zullen geen gegevens verwijderen die we wettelijk verplicht zijn te bewaren. 
+
+Om een verzoek in te dienen met betrekking tot uw rechten of om een vraag te stellen, kunt u contact met ons opnemen. Zie het gedeelte CONTACT OPNEMEN.
+
+CONTACT OPNEMEN
+
+U kunt contact met ons opnemen om uw bovengenoemde rechten uit te oefenen, een verzoek in te dienen of ons vragen te stellen.
+
+U kunt ook contact met ons opnemen via:
+
+Data Controller
+Samsung Electronics Co., Ltd.
+129, Samsung-ro, Yeongtong-gu,
+Suwon-si, Gyeonggi-do 16677, Republic of Korea
+
+Samsung Electronics heeft vestigingen in heel Europa, dus we kunnen ervoor zorgen dat uw verzoek of vraag wordt afgehandeld door het gegevensbeschermingsteam dat in uw regio is gevestigd.
+
+U kunt het eenvoudigst contact met ons opnemen via onze pagina Privacyondersteuning, https://www.samsung.com/request-desk.
+
+U kunt ook contact met ons opnemen via:
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 2000 Hillswood Drive, Chertsey, Surrey KT16 0RS, UK
+
+U kunt een klacht indienen bij de betreffende toezichthoudende instantie indien u vindt dat onze verwerking van uw persoonlijke informatie inbreuk maakt op het toepasselijk recht. Contactgegevens van alle toezichthoudende autoriteiten in de EU zijn te vinden op https://edpb.europa.eu/about-edpb/board/members_en.
+
+WIJZIGINGEN IN DEZE PRIVACYVERKLARING
+
+Deze privacyverklaring kan worden bijgewerkt om u op de hoogte te houden omtrent wijzigingen over de manier waarop wij uw gegevens verzamelen en verwerken voor uw Galaxy Wearable of omtrent wijzigingen in de relevante wet- en regelgeving. De datum waarop het document voor het laatst is bijgewerkt, staat bovenaan deze privacyverklaring vermeld.
+
+Version:P02.03.03

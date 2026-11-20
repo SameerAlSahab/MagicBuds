@@ -1,0 +1,56 @@
+﻿Notis Privasi Galaxy Wearable
+
+Kemas kini terakhir: 1  Ogos 2021
+
+Di Samsung Electronics Co., Ltd., kami tahu betapa pentingnya privasi kepada pelanggan kami. Kami mewujudkan Notis Privasi ini untuk memastikan anda memahami bagaimana kami mengumpul dan menggunakan maklumat peribadi anda. 
+
+Dasar Privasi kami - yang boleh dibaca di https://account.samsung.com/membership/pp - juga terpakai ke atas penggunaan Galaxy Wearable anda. Dasar Privasi kami mengandungi lebih banyak maklumat tentang cara kami menggunakan data anda. Ia juga termasuk maklumat tentang cara untuk menghubungi kami. Sila baca Dasar Privasi kami sebagai tambahan kepada Notis Privasi ini. Walau bagaimanapun, Notis Privasi ini akan mengatasi Dasar Privasi pada setiap masa.
+
+APAKAH MAKLUMAT YANG KAMI KUMPULKAN?
+
+Melalui Galaxy Wearable, kami mengumpul dan mengekalkan maklumat mengenai anda dalam pelbagai cara. 
+
+Maklumat yang Anda Berikan Secara Terus
+
+• Apabila anda log masuk ke Samsung account pada peranti Galaxy Wearable anda, maklumat Samsung account, seperti ID Samsung account anda.
+
+Maklumat Mengenai Penggunaan Galaxy Wearable anda
+
+• Maklumat mengenai peranti anda, seperti jenis peranti, model peranti, jenis dan versi OS, pengecam peranti dan pengecam unik lain, penyedia rangkaian mudah alih, konfigurasi dan aturan peranti;
+• Maklumat yang berkaitan dengan lokasi anda melalui isyarat GPS, Bluetooth dan WiFi. Beberapa ciri Galaxy Wearable anda memerlukan pengumpulan geolokasi tepat peranti anda dan dalam keadaan tersebut kami akan mengumpulkan geolokasi anda, tetapi hanya dengan kebenaran anda. Peranti anda akan memberitahu anda apabila ciri Galaxy Wearable perlu mengumpulkan geolokasi tepat anda. Harap maklum bahawa jika anda tidak membenarkan Galaxy Wearable mengumpulkan geolokasi tepat anda, anda mungkin tidak dapat menggunakan semua ciri Galaxy Wearable; 
+• Jika peranti anda menyediakan ciri Sambungan Jauh (disediakan pada Galaxy Watch3 dan model-model lebih awal), seperti menyambungkan peranti mudah alih anda ke peranti Galaxy Wearable anda melalui Wi-Fi atau data mudah alih dan bukannya Bluetooth supaya Galaxy Wearable anda dapat menerima mesej dari telefon anda, maklumat mengenai aplikasi yang dipasang pada peranti mudah alih anda seperti pemberitahuan dan kandungan mesej dan e-mel yang diterima (termasuk kandungan mesej dan fail media); dan 
+• Sekiranya anda menggunakan ciri Sandaran dan Pulihkan, versi perisian, kod penjualan, senarai aplikasi yang dipasang dan baharu digunakan, data dan aturan aplikasi yang dipasang, aturan skrin utama termasuk muka jam, aplikasi dan widget, aturan pemberitahuan, aturan sistem termasuk paparan, bunyi dan getaran dan getaran.
+• Sekiranya anda telah bersetuju untuk menghantar data diagnostik, diagnostik, teknikal, ralat dan maklumat penggunaan seperti masa dan tempoh penggunaan Galaxy Wearable anda, aplikasi yang anda pasang dan tempoh serta masa anda membuka atau menutup aplikasi.
+
+Kami juga akan mengumpulkan maklumat lain tentang diri anda, Galaxy Wearable anda dan aplikasi, peranti anda bersambung ke Galaxy Wearable serta penggunaan anda ke atas Galaxy Wearable dengan cara yang kami terangkan kepada anda pada waktu pengumpulan dan bila-bila sahaja perlu, kami akan mendapatkan persetujuan anda.
+
+BAGAIMANAKAH KAMI MENGGUNAKAN MAKLUMAT ANDA?
+
+• Untuk membantu anda mendaftar dan menggunakan Galaxy Wearable anda. 
+• Untuk membekalkan perkhidmatan dan ciri yang anda minta. 
+• Untuk menjawab permintaan dan pertanyaan anda dan untuk berkomunikasi dengan anda mengenai Galaxy Wearable anda, termasuk memberikan bantuan ketika anda meminta sokongan teknikal yang berkaitan dengan Galaxy Wearable anda. 
+• Untuk membolehkan anda berinteraksi dengan Samsung atau aplikasi ciri dan perkhidmatan pihak ketiga terpilih. Sebagai contoh, anda mungkin dapat menyandarkan aplikasi dan maklumat tetapan anda ke Samsung Cloud atau menggunakan Samsung Health pada Galaxy Wearable anda.
+• Untuk menyediakan kandungan dan perkhidmatan tersuai yang berkaitan dengan Galaxy Wearable anda. 
+• Untuk menyediakan promosi dan tawaran melalui komunikasi pemasaran langsung (seperti melalui pemberitahuan dorongan, e-mel dan mesej teks), hanya bila anda telah memberikan persetujuan berasingan anda kepada kami.
+• Untuk mengendalikan, menilai dan menambah baik Galaxy Wearable dan perniagaan kami (termasuk membangunkan produk dan perkhidmatan baharu; meningkatkan dan menambah baik produk dan perkhidmatan kami; mengurus komunikasi kami; menganalisis produk, perkhidmatan dan pangkalan pelanggan dan perkhidmatan kami; menjalankan penyelidikan pemasaran; melakukan analisis data; dan menjalankan fungsi perakaunan, pengauditan dan fungsi dalaman lain).
+• Untuk meminta pendapat anda tentang produk dan perkhidmatan kami dan menjalankan tinjauan pelanggan dengan persetujuan berasingan anda jika diperlukan.
+• Untuk menyediakan kemas kini perisian, perkhidmatan penyelenggaraan dan sokongan untuk Galaxy Wearable.
+•Untuk melindungi daripada, mengenal pasti dan mencegah penipuan serta aktiviti jenayah lain, tuntutan serta liabiliti lain.
+•Untuk mematuhi dan menguatkuasakan keperluan undang-undang yang berkenaan, standard industri yang berkaitan dan dasar kami; termasuk Notis Privasi ini dan Dasar Privasi.
+
+Galaxy Wearable anda mungkin memberikan keupayaan untuk menyambung ke atau menggunakan aplikasi, perkhidmatan dan ciri Samsung atau pihak ketiga yang lain. Sebagai contoh, anda mungkin dapat menggunakan Samsung Health atau Bixby Voice pada peranti Galaxy Wearable anda. Aplikasi, perkhidmatan dan ciri Samsung dan pihak ketiga ini mungkin mempunyai notis privasi mereka sendiri. Semak semula notis atau dasar privasi tersebut untuk memastikan anda memahami cara perkhidmatan tersebut memproses maklumat anda. Setakat yang sebarang pautan lain atau aplikasi, perkhidmatan atau ciri lain yang dipaut atau dipaparkan tidak dimiliki atau dikawal oleh kami, kami tidak bertanggungjawab terhadap kandungan, penggunaan atau amalan privasinya.
+
+DENGAN SIAPAKAH KAMI BERKONGSI MAKLUMAT ANDA?
+
+Kami akan mendedahkan maklumat anda secara dalaman dalam perniagaan kami dan kepada entiti berikut, tetapi hanya untuk tujuan yang dinyatakan di atas.
+* Sekutu: Syarikat Kumpulan Samsung Electronics lain yang dikawal atau dimiliki oleh kami;
+* Penyedia perkhidmatan: syarikat yang dipilih dengan cermat untuk menyediakan perkhidmatan untuk atau bagi pihak kami, seperti pelayan data yang menyimpan data bagi pihak kami. Pembekal-pembekal ini juga komited untuk melindungi maklumat anda;
+* Pihak lain apabila dikehendaki oleh undang-undang atau yang diperlukan untuk melindungi Galaxy Wearable: sebagai contoh, ia mungkin diperlukan oleh undang-undang, proses undang-undang atau perintah mahkamah daripada pihak berkuasa kerajaan untuk mendedahkan maklumat anda. Mereka juga mungkin akan mendapatkan maklumat anda daripada kami bagi tujuan penguatkuasaan undang-undang, keselamatan negara, antikeganasan atau isu lain yang berkaitan dengan keselamatan awam;
+* Pihak lain yang berkaitan dengan transaksi korporat: kami mungkin mendedahkan maklumat anda kepada pihak ketiga sebagai sebahagian daripada penggabungan atau pemindahan, pemerolehan atau penjualan atau sekiranya berlaku kebankrapan; dan
+* Pihak lain dengan persetujuan anda atau atas arahan anda: sebagai tambahan kepada pendedahan yang diterangkan dalam Notis Privasi ini, kami mungkin akan berkongsi maklumat mengenai anda dengan pihak ketiga apabila anda menyetujui secara berasingan atau meminta perkongsian sedemikian.
+
+KEMAS KINI NOTIS PRIVASI INI
+
+Notis Privasi ini boleh dikemas kini untuk memberitahu anda tentang perubahan dalam cara kami mengumpulkan dan memproses maklumat anda dalam Galaxy Wearable anda atau perubahan dalam undang-undang yang berkenaan. Tarikh pengemaskinian dokumen terakhir ditunjukkan di bahagian atas Notis Privasi ini.
+
+Version:P01.03.01

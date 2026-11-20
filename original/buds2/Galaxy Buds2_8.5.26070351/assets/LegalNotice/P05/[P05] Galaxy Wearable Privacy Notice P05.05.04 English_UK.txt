@@ -1,0 +1,183 @@
+Privacy Policy (Applicable to Galaxy Wearable)
+
+The Privacy Policy applies only to Galaxy Wearable of Samsung.
+The Privacy Policy is updated on 1st Feb  2025.
+If you have any questions, comments, or suggestions, please contact us through:
+• **Contact us** at https://www.samsung.com.cn/
+
+The Privacy Policy helps you know the following information:
+• Rules for collection and use of personal information
+• How we protect your personal information
+• Your rights
+• How we handle children’s personal information
+• How your personal information is transmitted worldwide
+• How we update the Privacy Policy
+• How to contact us
+
+Samsung Electronics fully understands that personal information is important to you and will do the best to ensure the safety and reliability of your personal information. We are committed to maintaining your trust and complying with the following principles in protecting your personal information: consistent rights and responsibilities, clear purposes, rights to agree and disagree, minimum necessity, safety, subject participation, and open and transparency. In addition, Samsung Electronics promises to take necessary measures to safeguard your personal information.
+Before you use our products (or services), please carefully read and understand the Privacy Policy. Note that the Privacy Policy does not apply to services provided by third parties. To guarantee product service and experience, you can receive or view content or web page links provided by third parties. Please use caution when accessing links, content, products, and services provided by third parties. Before you submit personal information to third parties or use their services, please carefully read the privacy policies of the third parties.
+
+
+
+I. Rules for Collection and Use of Personal Information
+ 1.Collecting and Using Personal Information for Basic Features
+The basic features of the provided Product (or Service) require certain information to run properly. To use the basic features, you need to provide us with the following information:
+
+
+- Personal information: information about your device, such as the device type, device model, operating system type and version, device identifier and other unique identifiers, unique device identification information, mobile network provider, and device configurations and settings
+- Purpose: The information is used to update software.
+- Method: The information is collected automatically when the device is used, and stored securely in China.
+- Retention period: The information is retained only during the software update.
+
+
+- Personal information: information about your device, such as the device type, device model, operating system type and version, software version, device identifier and other unique identifiers, unique device identification information, mobile network provider, mobile network code (MNC), mobile country code (MCC), Bluetooth address, device configurations and settings, and device settings for accessing Galaxy Wearable
+- Purpose: The information is used to register the device and identify the device activation status.
+- Method: The information is collected automatically when the device is used, and stored securely in China.
+- Retention period: The information is retained only during software update.
+
+The information is required for the Service. If you do not provide the preceding personal information or disagree to our collection and use of such personal information, the Product (or Service) is unavailable.
+If you want to withdraw your consent for the collection and use of personal information when you use the Product (or Service), please reset your device and delete Galaxy Wearable.
+
+2.Collecting and Using Personal Information for Extended Features
+To use extended features, you need to provide the following information to us.
+
+
+2.1 Collection and Use of General Personal Information
+
+
+(1) Extended feature – Send diagnostic data to Samsung
+- Personal information: information about your device, such as the device type, device model, operating system type and version, device identifier and other unique identifiers, mobile network provider, device configurations and settings, diagnosis, technical, error, and usage information (for example, when and how long you use Galaxy Wearable), installed applications, when you open and close applications, and how long you use applications
+- Purpose: The information is used to collect diagnosis data and assure product and service quality.
+- Method: The information is collected automatically when the device is used, and stored securely in China.
+- Retention period: The information is retained for four years.
+
+
+
+3.Application Permissions Related to Your Personal Information
+
+3.1 Necessary Permissions
+
+Location (Obtain the location and use your watch to locate your phone.)
+Storage (Store files sent and received.)
+Music and audio (Obtain media data to send and receive files.)
+Phone (Identify devices used to update applications and install plug-ins.)
+Contacts (Read and synchronise contacts, make calls, and send messages from your watch.)
+SMS (Read SMS messages and synchronise the SMS messages to your watch for display.)
+Calendar (Read the calendar and synchronise events to your watch for display.)
+Call logs (Read call records and display them on your watch.)
+Appear on top (Allow your devices to control your phone.)
+
+We will ask for the preceding permissions when you use the device. If you do not grant the permissions, we cannot provide the Service.
+
+3.2 Optional Permissions
+You can determine whether to grant the following application permission related to personal information:
+
+Camera (Scan the QR code when the mobile network connection is set.)
+
+We will apply for the preceding permission when you use the device. If you refuse to grant this permission, you will not be able to access certain extended functions, but your use of the basic business functions of this service will not be affected.
+
+4.How We Designate Others to Handle, Share, Transmit, and Provide Your Personal Information
+ 4.1 Handling
+Specific modules or features of the Service are provided by external suppliers.
+For example, we carefully select operators who provide services to us or on our behalf, such as companies that help us provide repair, customer service centre, customer service campaigns, and advertisements (including customised advertisements on our websites, third-party websites, or online platforms), conduct customer satisfaction surveys or billing, or send emails on our behalf. The operators are also committed to protecting your information.
+Samsung will sign strict confidentiality agreements with companies, organisations, and individuals designated to handle personal information, and require them to take relevant confidentiality and security measures to handle personal information in accordance with our instructions and policies.
+
+The preceding entities listed may be changed. If the entities are changed or personal information not specified in the Privacy Policy needs to be provided or shared, the information can be shared only after independent consent is obtained for this purpose.
+
+We can also share or transfer your personal information in the following scenarios:
+• Sharing is required by law or law enforcement agencies in accordance with the investigative procedures and methods prescribed by law.
+• Expense settlement information needs to be shared to provide paid services.
+• Specific information after de-identification needs to be provided for statistical, academic, or market research purposes. After de-identification, the specific individual to whom the data is related cannot be identified.
+• We will transfer your personal information with your prior consent in case of merger, acquisition, or bankruptcy and liquidation. In such cases, we will require the new company or organisation holding your personal information to continue to comply with the personal information protection policy.
+
+
+We publicly disclose your personal information only when:
+a. We obtain your express consent.
+b. It is required by law, legal processes, litigations, or governmental authorities.
+
+5．Retention Period of Personal Information
+We retain your personal information collected for a specific purpose only within the necessary period. This means that we destroy or delete such information from our systems when it is no longer needed.
+
+With appropriate safeguards, we handle and retain your personal information based on the following logic:
+(1) Personal information is retained for the shortest period necessary to achieve the purpose for which it was collected.
+(2) Personal information is handled and retained based on requirements of laws, contracts, or our statutory obligations.
+(3) Personal information is retained only for the time necessary to achieve the purpose for which it was collected and handled. However, the time may be extended in accordance with the needs of the contract or applicable law, and with appropriate safeguards.
+
+For the retention period of each piece of personal information, see “Collecting and Using Personal Information for Basic Features” and “Collecting and Using Personal Information for Extended Features”.
+
+II. How We Protect Your Personal Information
+1.We take industry-standard and feasible measures to protect your personal information from unauthorised access, public disclosure, use, modification, damage, or loss. With feasible measures, we protect your personal information.
+2.With feasible measures, we only collect necessary personal information. We retain your personal information only for the period necessary to achieve the purposes stipulated in the Privacy Policy, unless an extended retention period is required or it is protected by law.
+3.The Internet environment may be unsafe, and we will do our best to ensure the security of any information you send to us.
+4.If any personal information security incidents occur, we will promptly notify you of the details in accordance with the requirements of laws and regulations, including the basic information about the security incident and its possible impact, the measures we have taken or will take, suggestions on what you can do to prevent and minimise the risks, and the remedies we provide to you. We will notify you of the progress by email, letter, call, or notification. If it is difficult to notify all the personal information entities separately, we will make a public announcement in an appropriate and effective manner.
+In addition, we will proactively report the handling of personal information security incidents in accordance with the requirements of regulators.
+
+
+III. Your Rights
+You can choose not to provide us with some types of information, such as the information required for registering for a Samsung account. However, this may limit your use of some services in some cases. When we ask you to provide information, we will endeavour to explain these limitations so that you can make an informed decision. We guarantee that you can exercise the following rights to your personal information in accordance with applicable Chinese laws, regulations, and standards, as well as common practices in other countries and regions.
+1.Accessing Your Personal Information
+You can access your personal information, unless otherwise specified by laws or regulations. If you want to access your personal information, use the method described in section How to Contact Us. We will respond to your access request within 15 working days.
+We are willing to provide you with other personal information generated when you use our products or services, as long as providing such personal information does not result in too much extra work. If you want to access data, use the method described in section How to Contact Us.
+2.Updating Your Personal Information
+If you find that your personal information we have processed is incorrect, you can ask us to update the information. You can submit an application using any of the methods listed in “1. Accessing Your Personal Information”. We will respond to your update request within 15 workdays.
+3.Deleting Your Personal Information
+You can request to delete your personal information in any of the following circumstances:
+a. Our handling of your personal information violates laws or regulations.
+b. We collect or use your personal information without your consent.
+c. Our handling of your personal information violates the agreement between Samsung and you.
+d. You no longer use our product or service, or you delete your Samsung account.
+e. We no longer provide any product or service to you.
+If we accede to your request to delete the information, we will also inform the entities who obtained your personal information from us to delete the information promptly, unless otherwise specified by laws or regulations or the entities have been separately authorised by you.
+After your information is deleted from our Service, corresponding information may be retained in the backup system until the backup system is updated.
+4.Deleting Your Samsung Account
+You can perform the following operations to delete your Samsung account at any time: Visit the Samsung account website (https://www.samsung.com.cn), choose **Profile info**, and click **Delete account**.
+Unless otherwise specified by laws or regulations, we will stop providing the Product or Service to you and delete your personal information at your request after your account is cancelled.
+5.Asking for Explanations for Automatic Decision-Making by Information Systems
+For some services, our decisions may rely entirely on automatic decision-making mechanisms, such as information systems and algorithms. If these decisions have significant impact on your legitimate interests, you have rights to ask for an explanation and we will provide appropriate remedies.
+6.Requiring Samsung to Response to Requests
+For security purposes, you may be required to submit a written request or otherwise prove your identity.
+We will respond to your request within 15 workdays. If you are not satisfied with our response, you can submit a complaint through the way described in section “How to Contact Us”.
+There will be no charge for your reasonable requests. However, if you make repeated requests or requests that go beyond what is reasonable, we will charge an appropriate fee based on the costs. We may deny your request if it is duplicative for no apparent reason, too many technical methods are required for responding to it (for example, a new system needs to be developed, or a fundamental overhaul is required for an existing practice), it poses a risk to the legitimate interests of others, or it is not feasible (for example, it involves information stored in the backup system).
+We cannot respond to your request in any of the following circumstances:
+a.	Your request is related to law and regulation obligations of the personal information controller.
+b.	Your request is directly related to national security and defence security.
+c.	Your request is directly related to public safety, public health, and significant public interests.
+d.	Your request is directly related to criminal investigation, prosecution, adjudication, and enforcement of sentences.
+e.	The personal information controller has sufficient evidence that the subject of the personal information is acting maliciously or abusing their rights.
+f.	It is difficult to obtain consent from the subject of personal information for the purpose of safeguarding lives, property, and other significant legitimate interests of the subject of personal information or other individuals.
+g.	.Responding to your request will result in serious damage to the legitimate interests of the subject of personal information or other individuals or organizations.
+h.	Your request involves trade secrets.
+
+
+IV.How We Handle Children’s Personal Information
+Our products, websites, and services are designed primarily for adults. Without the consent of parents or guardians, no child may create an account.
+If a child’s personal information is collected with consent of his or her parents, we will use or publicly disclose the information only as permitted by law, with express consent of the child’s parents or guardians, or when necessary to protect the child.
+We consider minors under the age of 14 as children, even though local laws or customs have different definitions of a child.
+If we aware that we have collected personal information from a child without prior, verifiable consent of the child’s parents, we will do our best effort to delete the information as quickly as possible.
+
+V. How Your Personal Information Is Transmitted Worldwide
+Personal information that we collect and generate in China will be stored in China and will not be transferred to or accessed from any offshore jurisdictions.
+
+VI.How We Update the Privacy Policy
+The Privacy Policy is subject to changes.
+Without your express consent, we will not reduce your rights under the Privacy Policy. We will post any changes to the Privacy Policy on this page.
+In the event of material changes, we will post a more prominent notice (including sending you an email to notify you of specific changes made to the Privacy Policy under certain services).
+Material changes to the Privacy Policy include, but are not limited to the following:
+1. Significant changes to our service model, for example, the purpose for handling personal information, types of personal information handled, and methods for using personal information
+2. Significant changes to the ownership structure or organisational structure, such as changes in ownership due to business restructuring, bankruptcy, merger, and acquisition
+3. Changes to primary recipients of personal information to be shared, transferred, or publicly disclosed
+4. Significant changes of your rights for participating in personal information handling and how to use it
+5. Changes to the department responsible for personal information security, contact method, and complaint channels
+6. If the personal information security impact assessment report indicates a high risk, we will provide you with an earlier version of the Privacy Policy for your reference.
+
+VII.How to Contact Us
+If you have any questions, comments, or suggestions regarding the Privacy Policy, you may contact us through **Contact us** at https://www.samsung.com.cn. This is the simplest way.
+
+Samsung Electronics Co., Ltd
+129, Samsung-ro, Yeongtong-gu,
+Suwon-si, Gyeonggi-do 16677, Republic of Korea
+We will respond to your request within 15 workdays.
+
+If you are not satisfied with our response, especially if our handling of personal information has jeopardised your legitimate interests, you may seek relief by filing a lawsuit with the competent court in the place where the defendant is located.
+
+Version: P05.05.04

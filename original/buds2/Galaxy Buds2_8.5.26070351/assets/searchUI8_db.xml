@@ -1,0 +1,1842 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--<version>
+This will tell if the db needs to be updated or not.
+</version>.-->
+
+
+<!--<item>
+<target> popcorn, neobean, attic, berry
+<title>This is the String title ID for the menu item</title>
+<subtitle>This is the String Sub-title ID for the menu item</subtitle>
+<path>This is the path for the setting Item</path>
+<depth>Which depth this menu item is present in the GM UI</depth>
+<fragment>Complete class name, includes package name also</fragment>
+<iconpath></iconpath>
+<valid>This shows if the item is valid or not</valid>
+
+<menutype>
+this shows if the menu item is conditional or not.
+0 means unconditional and
+1 means conditional (based on the visibility the menu will be added/skipped from the DB query).
+if this value is 3 means it is a conditional launch,
+this means that while launching this fragment we need to check some conditions.
+
+Condition for visibility => Means that the visibility of this menu behaves differently based on the Gear capability or region specific items.
+Condition for launch => Means that this menu is launched with some prerequisite data.
+
+이는 메뉴 항목이 조건부인지 아닌지 여부를 보여줍니다.
+0은 무조건적인 것을 의미합니다
+1은 조건부를 의미합니다 (가시성을 기반으로 메뉴가 추가 / db 쿼리에서 건너 뜁니다).
+이 값이 3이면 조건부 실행이란 것을 의미합니다.
+즉,이 조각을 시작하는 동안 일부 조건을 확인해야합니다.
+
+가시성 조건 =>이 메뉴의 가시성이 기어 기능 또는 영역 특정 항목을 기반으로 다르게 작동 함을 의미합니다.
+런치 조건 =>이 메뉴는 일부 전제 조건 데이터로 시작되었음을 의미합니다.
+
+bits ==>      0             0
+          conditional    Visibility
+            launch          bit
+             bit
+
+to set value in XML...
+0 => no condition for visibility and no condition for launch
+1 => condition for visibility and no condition for launch
+2 => no condition for visibility and condition for launch
+3 => condition for visibility and condition for launch
+<depth>
+depth : 1 하이라이트 효과 적용
+
+<valid>
+1일 경우에만 검색에 허용.
+if (valid == 1) { //if only the item is valid then add in the list otherwise exclude it
+unfilteredList.add(item);
+
+</menutype>
+
+<menuid>distinct id to determine particular menu ID, its like a primary key to the items</menuid>
+특정 메뉴 ID를 결정하는 고유 ID, 항목의 기본 키와 마찬가지로
+SearchUtil.SettingsItemID.APPS =  menuid 1
+<state>This shows in what all states the item will be enabled to click.
+to set value in XML file
+1. Disconnect
+2. SCS
+3. UPS
+</state>
+
+<clickid>
+activity or fragment or etc..
+String id for the item defined in XML.
+</clickid>
+
+controlstate ctrl="false">
+1. switchbutton(on/off toggle)
+2. slider button(slider) -> 미지원
+3. radio options
+</controlstate>
+
+</item>-->
+
+
+<resources version = "1.1.25062362">
+    <search>
+        <item> <!-- Home  -->
+            <target>berry#zenith#pearl#piano</target>
+            <title>noise_controls</title>
+            <subtitle></subtitle>
+            <path></path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.home.activity.HomeOneUI8xActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid></clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue>search_tag_sound</tagvalue>
+        </item>
+
+        <item> <!-- Noise controls > Active noise canceling -->
+            <target>berry#zenith#paran#gemstone#able#pearl#piano</target>
+            <title>settings_noise_reduction_title</title>
+            <subtitle></subtitle>
+            <path></path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.home.activity.HomeOneUI8xActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_active_noise_canceling</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Noise controls > Ambient sound -->
+            <target>berry#zenith#paran#gemstone#able#pearl#piano</target>
+            <title>settings_ambient_sound</title>
+            <subtitle></subtitle>
+            <path></path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.home.activity.HomeOneUI8xActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_ambient_sounds</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Noise controls > adaptive -->
+            <target>paran#able</target>
+            <title>adaptive</title>
+            <subtitle></subtitle>
+            <path></path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.home.activity.HomeOneUI8xActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_adaptive</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Noise controls > Ambient sound > Ambient sound volume -->
+            <target>berry</target>
+            <title>ambient_sound_level</title>
+            <subtitle></subtitle>
+            <path></path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.home.activity.HomeOneUI8xActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>activity</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Noise controls > Off -->
+            <target>berry#zenith#paran#gemstone#able#pearl#piano</target>
+            <title>noise_control_off</title>
+            <subtitle></subtitle>
+            <path></path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.home.activity.HomeOneUI8xActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>activity</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+
+        <item> <!-- Active noise canceling -->
+            <target>jelly</target>
+            <title>settings_noise_reduction_title</title>
+            <subtitle></subtitle>
+            <path></path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.home.activity.HomeOneUI8xActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_anc</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item>
+            <target>pearl#berry#piano#zenith#jelly#paran#gemstone#able</target>
+            <title>card_menu_about_earbuds</title>
+            <subtitle></subtitle>
+            <path></path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.home.activity.HomeOneUI8xActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_about_earbuds</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item>
+            <target>pearl#berry#piano#zenith#jelly#paran#gemstone#able</target>
+            <title>card_menu_tips_and_user_manual</title>
+            <subtitle></subtitle>
+            <path></path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.home.activity.HomeOneUI8xActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_tips_and_manual</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item>
+            <target>pearl#berry#piano#zenith#jelly#paran#gemstone#able</target>
+            <title>card_menu_earbuds_software_update</title>
+            <subtitle></subtitle>
+            <path></path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.home.activity.HomeOneUI8xActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_software_update</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item>
+            <target>#zenith#jelly#paran</target>
+            <title>settings_auracast</title>
+            <subtitle></subtitle>
+            <path></path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.home.activity.HomeOneUI8xActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_auracast</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item>
+            <target>pearl#berry#piano#zenith#jelly#paran#gemstone#able</target>
+            <title>diagnostics</title>
+            <subtitle></subtitle>
+            <path></path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.home.activity.HomeOneUI8xActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_diagnostics</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item>
+            <target>pearl#berry#piano#zenith#jelly#paran#gemstone#able</target>
+            <title>settings_find_my_gear</title>
+            <subtitle></subtitle>
+            <path></path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.home.activity.HomeOneUI8xActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_find_my_earbuds</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item>
+            <target>pearl#berry#piano#zenith#jelly#paran#gemstone#able</target>
+            <title>accessibility</title>
+            <subtitle></subtitle>
+            <path></path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.home.activity.HomeOneUI8xActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_accessibility</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item>
+            <target>pearl#berry#piano#zenith#jelly#paran#gemstone#able</target>
+            <title>settings_advanced_features</title>
+            <subtitle></subtitle>
+            <path></path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.home.activity.HomeOneUI8xActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_advanced_features</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item>
+            <target>pearl#berry#piano#zenith#jelly#paran#gemstone#able</target>
+            <title>manage_connections</title>
+            <subtitle></subtitle>
+            <path></path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.home.activity.HomeOneUI8xActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_connections</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item>
+            <target>jelly#paran#gemstone#able</target>
+            <title>voice_controls</title>
+            <subtitle></subtitle>
+            <path></path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.home.activity.HomeOneUI8xActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_voice_control</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item>
+            <target>pearl#berry#piano#zenith#jelly#paran#gemstone#able</target>
+            <title>earBuds_controls</title>
+            <subtitle></subtitle>
+            <path></path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.home.activity.HomeOneUI8xActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_earbuds_control</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item>
+            <target>pearl#berry#piano#zenith#jelly#paran#gemstone#able</target>
+            <title>settings_sound_effect</title>
+            <subtitle></subtitle>
+            <path></path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.home.activity.HomeOneUI8xActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_sound_effect</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <!-- DETAIL -->
+        <item> <!-- Auto switch to ambient sound -->
+            <target>paran#able</target>
+            <title>auto_switch_to_ambient_sound</title>
+            <subtitle></subtitle>
+            <path>auto_switch_to_ambient_sound</path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.AutoAmbientSoundActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>activity</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Auto switch to ambient sound > Voice detect -->
+            <target>paran</target>
+            <title>voice_detection</title>
+            <subtitle></subtitle>
+            <path>auto_switch_to_ambient_sound</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.AutoAmbientSoundActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_voice_detect</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Auto switch to ambient sound > Siren detect -->
+            <target>paran#able</target>
+            <title>siren_detect_title</title>
+            <subtitle></subtitle>
+            <path>auto_switch_to_ambient_sound</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.AutoAmbientSoundActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>siren_detect_content_layout</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Auto switch to ambient sound > Use ambient sound during calls -->
+            <target>paran#able</target>
+            <title>settings_call_quality_title</title>
+            <subtitle>relieve_pressure_during_calls_decs</subtitle>
+            <path>auto_switch_to_ambient_sound</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.AutoAmbientSoundActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>relieve_pressure_during_call_layout</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue>search_tag_call</tagvalue>
+        </item>
+
+        <item> <!-- Sound quality and effects -->
+            <target>jelly#paran#gemstone#able</target>
+            <title>settings_sound_effect</title>
+            <subtitle></subtitle>
+            <path>settings_sound_effect</path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.soundeffect.SoundEffectActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_sound_effect</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Sound quality and effects > 360 Audio -->
+            <target>jelly#paran#able#gemstone</target>
+            <title>advanced_spatial_audio</title>
+            <subtitle></subtitle>
+            <path>settings_sound_effect</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.soundeffect.SoundEffectActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_360_audio</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue>search_tag_sound</tagvalue>
+        </item>
+
+        <item> <!-- Sound quality and effects > Equalizer -->
+            <target>jelly#paran#gemstone#able</target>
+            <title>equalizer</title>
+            <subtitle></subtitle>
+            <path>settings_sound_effect</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.soundeffect.SoundEffectActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_equalizer</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue>search_tag_sound</tagvalue>
+        </item>
+
+        <item> <!-- Sound quality and effects > Boost dialogue -->
+            <target>jelly#paran#gemstone#able</target>
+            <title>boost_voice</title>
+            <subtitle></subtitle>
+            <path>settings_sound_effect</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.soundeffect.SoundEffectActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_voice_boost</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue>search_tag_sound</tagvalue>
+        </item>
+
+        <item> <!-- Sound quality and effects > Loudness normalization -->
+            <target>jelly#paran#gemstone#able#piano#pearl#berry#zenith</target>
+            <title>loudness_normalization</title>
+            <subtitle></subtitle>
+            <path>settings_sound_effect</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.soundeffect.SoundEffectActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_volume_normalization</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue>search_tag_sound</tagvalue>
+        </item>
+
+        <item> <!-- Sound quality and effects >App sound settings -->
+            <target>paran#gemstone#able#jelly#berry#zenith#pearl#piano</target>
+            <title>app_sound_settings</title>
+            <subtitle></subtitle>
+            <path>settings_sound_effect</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.soundeffect.SoundEffectActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_app_sound_settings</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Sound quality and effects > Adaptive equalizer -->
+            <target>jelly#paran#able</target>
+            <title>adaptive_equalizer</title>
+            <subtitle>get_sound_adjusted_to_the_way_your_earbuds_fit_your_ears</subtitle>
+            <path>settings_sound_effect</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.soundeffect.SoundEffectActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_adaptive_eq_mode</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Sound quality and effects > Advanced sound quality -->
+            <target>jelly#paran#able</target>
+            <title>advanced_sound_quality</title>
+            <subtitle></subtitle>
+            <path>settings_sound_effect</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.soundeffect.SoundEffectActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_advanced_sound_quality</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Sound quality and effects > Advanced sound quality > Super wide band speech -->
+            <target>jelly#paran#able</target>
+            <title>super_wide_band_speech</title>
+            <subtitle>labs_extra_clear_call_sound_content</subtitle>
+            <path>settings_sound_effect#advanced_sound_quality</path>
+            <depth>2</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.soundeffect.AdvancedSoundQualityActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>extra_clear_call_sound_layout</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Sound quality and effects > Advanced sound quality > UHQ-->
+            <target>jelly#paran#able</target>
+            <title>DREAM_WMGR_TMBODY_ULTRA_HIGH_QUALITY_HUHQ_AUDIO</title>
+            <subtitle>DREAM_WMGR_BODY_GET_PROFESSIONAL_LEVEL_AUDIO_PLAYBACK_WITH_UP_TO_A_96_KHZ_SAMPLE_RATE</subtitle>
+            <path>settings_sound_effect#advanced_sound_quality</path>
+            <depth>2</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.soundeffect.AdvancedSoundQualityActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_uhq</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Sound quality and effects > Earbud fit test -->
+            <target>paran#gemstone#able</target>
+            <title>settings_fit_test</title>
+            <subtitle></subtitle>
+            <path>settings_sound_effect</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.soundeffect.SoundEffectActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_fit_test</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue>search_tag_wearingcomfort</tagvalue>
+        </item>
+
+        <item> <!-- Sound quality and effects > Adapt sound -->
+            <target>paran#able</target>
+            <title>adapt_sound</title>
+            <subtitle></subtitle>
+            <path>settings_sound_effect</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.soundeffect.SoundEffectActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_adapt_sound</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Voice detect -->
+            <target>zenith</target>
+            <title>detect_conversations_title</title>
+            <subtitle></subtitle>
+            <path>detect_conversations_title</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.VoiceDetectActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_voice_detect</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbud controls -->
+            <target>jelly#paran#gemstone#able</target>
+            <title>earBuds_controls</title>
+            <subtitle></subtitle>
+            <path>earBuds_controls</path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.touchcontrols.TouchControlsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_touch_controls</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue>search_tag_controls</tagvalue>	<!-- 태그 이어버드터치 -->
+        </item>
+
+        <item> <!-- Earbuds controls > Media controls -->
+            <target>jelly#paran#gemstone#able</target>
+            <title>media_controls</title>
+            <subtitle></subtitle>
+            <path>earBuds_controls</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.touchcontrols.TouchControlsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_media_controls</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds controls > pinch and hold controls -->
+            <target>jelly#paran#gemstone#able</target>
+            <title>pinch_and_hold_controls</title>
+            <subtitle></subtitle>
+            <path>earBuds_controls</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.touchcontrols.TouchControlsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_pinch_and_hold_switch</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds controls > pinch and hold controls > Left -->
+            <target>jelly#paran#gemstone#able</target>
+            <title>device_left</title>
+            <subtitle></subtitle>
+            <path>earBuds_controls</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.touchcontrols.TouchControlsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_pinch_and_hold_left</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds controls > pinch and hold controls > Right -->
+            <target>jelly#paran#gemstone#able</target>
+            <title>device_right</title>
+            <subtitle></subtitle>
+            <path>earBuds_controls</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.touchcontrols.TouchControlsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_pinch_and_hold_right</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds controls > call controls -->
+            <target>jelly#paran#gemstone#able</target>
+            <title>call_controls</title>
+            <subtitle></subtitle>
+            <path>earBuds_controls</path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.touchcontrols.TouchControlsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>activity</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue>search_tag_call</tagvalue>
+        </item>
+
+        <item> <!-- Earbuds controls > Call controls > Answer call or end call -->
+            <target>jelly#paran#gemstone#able</target>
+            <title>answer_end_call</title>
+            <subtitle></subtitle>
+            <path>earBuds_controls</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.touchcontrols.TouchControlsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>visible_layout_for_calls_pinch</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item>  <!-- Touch controls > Call controls > Decline call -->
+            <target>jelly#paran#gemstone#able</target>
+            <title>tips_decline_call</title>
+            <subtitle></subtitle>
+            <path>earBuds_controls</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.touchcontrols.TouchControlsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>visible_layout_for_calls_pinch_and_hold</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item>
+            <target>paran#able</target> <!-- Touch controls  > Pinch and hold both earbuds to turn lighting on or off -->
+            <title>pinch_and_hold_both_earbuds_turn_lighting</title>
+            <subtitle></subtitle>
+            <path>earBuds_controls</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.touchcontrols.TouchControlsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>visible_layout_lighting_controls</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Touch controls -->
+            <target>berry#zenith#pearl#piano</target>
+            <title>settings_touchpad</title>
+            <subtitle></subtitle>
+            <path>settings_touchpad</path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.touchcontrols.TouchControlsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_touch_controls</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue>search_tag_earbudstouch</tagvalue>	<!-- 태그 이어버드터치 -->
+        </item>
+
+        <item> <!-- Touch controls > Tap -->
+            <target>berry#zenith#pearl#piano</target>
+            <title>tips_single_tap</title>
+            <subtitle>tips_play_pause_track</subtitle>
+            <path>settings_touchpad</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.touchcontrols.TouchControlsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>visible_layout_tap</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Touch controls > Double tap -->
+            <target>berry#zenith#pearl#piano</target>
+            <title>tips_double_tap</title>
+            <subtitle>tips_next_track</subtitle>
+            <path>settings_touchpad</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.touchcontrols.TouchControlsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>visible_layout_double_tap</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Touch controls > Triple tap -->
+            <target>berry#zenith#pearl#piano</target>
+            <title>tips_triple_tap</title>
+            <subtitle>tips_previous_track</subtitle>
+            <path>settings_touchpad</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.touchcontrols.TouchControlsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>visible_layout_triple_tap</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Touch controls > Touch and hold -->
+            <target>berry#zenith#pearl#piano</target>
+            <title>tips_touch_hold</title>
+            <subtitle></subtitle>
+            <path>settings_touchpad</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.touchcontrols.TouchControlsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_touch_and_hold_switch</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Touch controls > Call controls -->
+            <target>berry#zenith#pearl#piano</target>
+            <title>call_controls</title>
+            <subtitle></subtitle>
+            <path>settings_touchpad</path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.touchcontrols.TouchControlsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>activity</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue>search_tag_call</tagvalue>
+        </item>
+
+        <item> <!-- Touch controls > Call controls > Double tab -->
+            <target>berry#zenith#pearl#piano</target>
+            <title>tips_double_tap</title>
+            <subtitle>answer_end_call</subtitle>
+            <path>settings_touchpad</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.touchcontrols.TouchControlsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>visible_layout_for_calls_double_tap</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item>
+            <target>berry#zenith#pearl#piano</target> <!-- Touch controls > Call controls >Touch and hold -->
+            <title>tips_touch_hold</title>
+            <subtitle>tips_decline_call</subtitle>
+            <path>settings_touchpad</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.touchcontrols.TouchControlsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>visible_layout_for_calls_touch_and_hold</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Find my earbuds -->
+            <target>berry#zenith#jelly#paran#gemstone#able#pearl#piano</target>
+            <title>settings_find_my_gear</title>
+            <subtitle></subtitle>
+            <path>settings_find_my_gear</path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.FindMyEarbudsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_find_my_earbuds</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <!-- <item> // Customize for your ears  // disabled function
+            <target>zenith#pearl#piano</target>
+            <title>ear_adaptation_title</title>
+            <subtitle></subtitle>
+            <path></path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.EqualizerActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_ear_adaptation_menu</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue>search_tag_wearingcomfort</tagvalue>
+        </item> -->
+
+        <item> <!-- Earbuds settings > Equalizer -->
+            <target>berry#zenith#pearl#piano</target>
+            <title>equalizer</title>
+            <subtitle></subtitle>
+            <path>settings_sound_effect</path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.soundeffect.SoundEffectActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_equalizer</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue>search_tag_sound</tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > Read notification aloud -->
+            <target>berry#zenith#jelly#paran#gemstone#able#pearl#piano</target>
+            <title>read_notifications_aloud</title>
+            <subtitle></subtitle>
+            <path>settings_advanced_features</path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.advancedfeature.AdvancedFeatureActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_notification</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > Read notification aloud -->
+            <target>popcorn#neobean#attic#berry#zenith#jelly#paran#gemstone#able#pearl#piano</target>
+            <title>voice_notification_ignore_screen_on</title>
+            <subtitle>voice_notification_ignore_screen_on_desc</subtitle>
+            <path>settings_advanced_features#read_notifications_aloud</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.notification.NewNotificationActivity</fragment>
+            <iconpath>home_settings_ic_notifications</iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>ignore_notification_settingLayout</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+
+        <item> <!-- Voice controls > Voice commands -->
+            <target>jelly#paran#able</target>
+            <title>voice_commands_title</title>
+            <subtitle></subtitle>
+            <path>voice_controls</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.VoiceControlsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_hot_command_switch</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > Bixby voice wake-up -->
+            <target>berry#zenith#pearl </target>
+            <title>settings_voice_wakeup_title</title>
+            <subtitle></subtitle>
+            <path>settings_advanced_features</path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.BixbyVoiceWakeUpActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_bixby_wake_up</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+
+        <item> <!-- Earbuds settings > In-ear detection -->
+            <target>jelly#paran#able</target>
+            <title>in_ear_detection</title>
+            <subtitle></subtitle>
+            <path>settings_advanced_features</path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.advancedfeature.AdvancedFeatureActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_in_ear_detection</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue>search_tag_connectivity</tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > In-ear detection > Switch calls to phone when both earbuds removed-->
+            <target>jelly#paran#able</target>
+            <title>during_calls</title>
+            <subtitle></subtitle>
+            <path>settings_advanced_features#in_ear_detection</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.InEarDetection4Buds3Activity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_switch_calls</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue>search_tag_call</tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > In-ear detection > Pause media when one earbud removed-->
+            <target>jelly#paran#able</target>
+            <title>while_playing_media_title</title>
+            <subtitle></subtitle>
+            <path>settings_advanced_features#in_ear_detection</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.InEarDetection4Buds3Activity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_pause_media</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+
+        <item> <!-- Earbuds settings > In-ear detection for calls -->
+            <target>berry#zenith#pearl#piano</target>
+            <title>settings_in_ear_detection</title>
+            <subtitle></subtitle>
+            <path>settings_advanced_features</path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.advancedfeature.AdvancedFeatureActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>visible_layout_in_ear_detection</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue>search_tag_call</tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > Earbud fit test -->
+            <target>berry#zenith#pearl#piano</target>
+            <title>settings_fit_test</title>
+            <subtitle></subtitle>
+            <path>settings_sound_effect</path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.FitTestActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_fit_test</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue>search_tag_wearingcomfort</tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > 360 Audio -->
+            <target>zenith#berry</target>
+            <title>advanced_spatial_audio</title>
+            <subtitle></subtitle>
+            <path>settings_sound_effect</path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.soundeffect.SoundEffectActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_360_audio</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue>search_tag_sound</tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > Use ambient sound during calls -->
+            <target>berry#zenith#pearl#piano</target>
+            <title>settings_call_quality_title</title>
+            <subtitle></subtitle>
+            <path>settings_advanced_features</path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.advancedfeature.AdvancedFeatureActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>visible_layout_ambient_sound</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue>search_tag_call</tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > Labs -->
+            <target>berry#zenith#jelly#paran#gemstone#able#pearl#piano</target>
+            <title>labs_title</title>
+            <subtitle></subtitle>
+            <path>settings_advanced_features</path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.advancedfeature.AdvancedFeatureActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_labs</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > Labs -->
+            <target>gemstone</target>
+            <title>settings_in_ear_detection</title>
+            <subtitle></subtitle>
+            <path>settings_advanced_features</path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.advancedfeature.AdvancedFeatureActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_in_ear_detection</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > Labs > Double tap earbud edge -->
+            <target>berry#zenith</target>
+            <title>labs_double_tap_side</title>
+            <subtitle></subtitle>
+            <path>settings_advanced_features#labs_title</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.aboutmenu.LabsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_double_tap_side</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue>search_tag_earbudstouch</tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > Labs > Game mode -->
+            <target>berry#zenith#jelly#paran#gemstone#able#pearl#piano</target>
+            <title>settings_game_mode_title</title>
+            <subtitle></subtitle>
+            <path>settings_advanced_features#labs_title</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.aboutmenu.LabsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_gaming_mode</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue>search_tag_sound</tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > Labs > Extra-clear call sound -->
+            <target>zenith#pearl</target>
+            <title>labs_extra_clear_call_sound_title</title>
+            <subtitle>labs_extra_clear_call_sound_content</subtitle>
+            <path>settings_advanced_features#labs_title</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.aboutmenu.LabsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>extra_clear_call_sound_layout</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > Labs > Hearing enhancements -->
+            <target>zenith#pearl</target>
+            <title>advanced_hearing_enhancements</title>
+            <subtitle></subtitle>
+            <path>settings_advanced_features#labs_title</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.aboutmenu.LabsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>hearing_enhancements_layout</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > Labs > Hearing enhancements > Extra-high ambient volume-->
+            <target>zenith#pearl</target>
+            <title>labs_extra_high_volume_ambient_sound</title>
+            <subtitle></subtitle>
+            <path>settings_advanced_features#labs_title#advanced_hearing_enhancements</path>
+            <depth>2</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.aboutmenu.EnhancementAmbientVolumeActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>extra_ambient_switch_layout</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > Accessibility > Active noise canceling with one earbud -->
+            <target>jelly#paran#gemstone#able</target>
+            <title>anc_with_one_earbud_title</title>
+            <subtitle></subtitle>
+            <path>accessibility</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.HearingEnhancementsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_noise_controls_with_one_earbud</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > Accessibility > Noise controls with one earbud -->
+            <target>berry#zenith#pearl#piano</target>
+            <title>noise_controls_with_one_earbud_title</title>
+            <subtitle></subtitle>
+            <path>accessibility</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.HearingEnhancementsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_noise_controls_with_one_earbud</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > Accessibility > Left/Right sound balance -->
+            <target>berry#zenith#jelly#paran#gemstone#able#pearl#piano</target>
+            <title>advanced_sound_balance</title>
+            <subtitle></subtitle>
+            <path>accessibility</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.HearingEnhancementsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>collapsing_app_bar</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > Accessibility > Customize ambient sound -->
+            <target>berry</target>
+            <title>customize_ambient_sound</title>
+            <subtitle></subtitle>
+            <path>accessibility</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.HearingEnhancementsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_customize_ambient_sound</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > Accessibility > Customize sound -->
+            <target>pearl#paran#able</target>
+            <title>customize_ambient_sound</title>
+            <subtitle></subtitle>
+            <path>accessibility</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.HearingEnhancementsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_customize_sound</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > Accessibility > Adapt sound -->
+            <target>paran#able</target>
+            <title>adapt_sound</title>
+            <subtitle></subtitle>
+            <path>accessibility</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.HearingEnhancementsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_adapt_sound_accessibility</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > Accessibility > Adapt ambient sound -->
+            <target>paran#able</target>
+            <title>adapt_ambient_sound</title>
+            <subtitle></subtitle>
+            <path>accessibility</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.HearingEnhancementsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_adapt_sound_accessibility</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > Accessibility > Customize sound -->
+            <target>zenith</target>
+            <title>amplify_ambient_sound_title</title>
+            <subtitle></subtitle>
+            <path>accessibility</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.HearingEnhancementsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_customize_sound</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > Accessibility > Customize ambient sound > Ambient sound volume -->
+            <target>berry</target>
+            <title>ambient_sound_level</title>
+            <subtitle></subtitle>
+            <path>accessibility#customize_ambient_sound</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.CustomizeAmbientSoundActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>activity</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > Accessibility > Customize sound > Ambient sound volume -->
+            <target>zenith#pearl#paran#gemstone#able</target>
+            <title>ambient_sound_level</title>
+            <subtitle></subtitle>
+            <path>accessibility#amplify_ambient_sound_title</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.CustomizeSoundActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>activity</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > Accessibility > Customize ambient sound > Ambient sound tone -->
+            <target>berry</target>
+            <title>ambient_sound_tone</title>
+            <subtitle></subtitle>
+            <path>accessibility#customize_ambient_sound</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.CustomizeAmbientSoundActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>activity</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > Accessibility > Customize sound > Ambient sound tone -->
+            <target>zenith#pearl</target>
+            <title>ambient_sound_tone</title>
+            <subtitle></subtitle>
+            <path>accessibility#amplify_ambient_sound_title</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.CustomizeSoundActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>activity</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <!--        <item> &lt;!&ndash; Earbuds settings > Accessibility > Customize sound > Conversation boost &ndash;&gt;-->
+        <!--            <target>zenith#pearl#piano</target>-->
+        <!--            <title>conversation_boost_title</title>-->
+        <!--            <subtitle></subtitle>-->
+        <!--            <path>earbuds_settings#accessibility#customize_sound</path>-->
+        <!--            <depth>1</depth>-->
+        <!--            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.CustomizeSoundActivity</fragment>-->
+        <!--            <iconpath></iconpath>-->
+        <!--            <valid>1</valid>-->
+        <!--            <menutype>1</menutype>-->
+        <!--            <menuid>1</menuid>-->
+        <!--            <state>0</state>-->
+        <!--            <clickid>layout_conversation_boost</clickid>-->
+        <!--            <controlstate ctrl="false">0</controlstate>-->
+        <!--            <tagvalue></tagvalue>-->
+        <!--        </item>-->
+
+        <!--        <item> &lt;!&ndash; Earbuds settings > Accessibility > Customize sound > Noise reduction &ndash;&gt;-->
+        <!--            <target>zenith#pearl#piano</target>-->
+        <!--            <title>noise_reduction_level_title</title>-->
+        <!--            <subtitle></subtitle>-->
+        <!--            <path>earbuds_settings#accessibility#customize_sound</path>-->
+        <!--            <depth>1</depth>-->
+        <!--            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.CustomizeSoundActivity</fragment>-->
+        <!--            <iconpath></iconpath>-->
+        <!--            <valid>1</valid>-->
+        <!--            <menutype>1</menutype>-->
+        <!--            <menuid>1</menuid>-->
+        <!--            <state>0</state>-->
+        <!--            <clickid>layout_noise_reduction_level</clickid>-->
+        <!--            <controlstate ctrl="false">0</controlstate>-->
+        <!--            <tagvalue></tagvalue>-->
+        <!--        </item>-->
+
+        <item> <!-- Earbuds settings > Accessibility > Customize sound > Hearing test -->
+            <target>zenith</target>
+            <title>adapt_ambient_sound</title>
+            <subtitle></subtitle>
+            <path>accessibility#amplify_ambient_sound_title</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.CustomizeSoundActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_hearing_test</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <!-- Manage Connections -->
+        <item> <!-- Manage Connections -->
+            <target>pearl#berry#piano#zenith#jelly#paran#gemstone#able</target>
+            <title>manage_connections</title>
+            <subtitle></subtitle>
+            <path>manage_connections</path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.ConnectionsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid></clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Manage Connections -> Reset -->
+            <target>pearl#berry#piano#zenith#jelly#paran#gemstone#able</target>
+            <title>connections_reset</title>
+            <subtitle></subtitle>
+            <path>manage_connections</path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.ConnectionsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_reset</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Manage Connections -> Seamless -->
+            <target>pearl#berry#piano#zenith#jelly#paran#gemstone#able</target>
+            <title>settings_seamless_connection</title>
+            <subtitle></subtitle>
+            <path>manage_connections</path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.ConnectionsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_seamless</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Manage Connections -> Autoswitch -->
+            <target>pearl#berry#piano#zenith#jelly#paran#gemstone#able</target>
+            <title>connections_auto_switch_buds</title>
+            <subtitle></subtitle>
+            <path>manage_connections</path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.ConnectionsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_autoswitch</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Manage Connections -> Calls -->
+            <target>pearl#berry#piano#zenith#jelly#paran#gemstone#able</target>
+            <title>connections_call</title>
+            <subtitle></subtitle>
+            <path>manage_connections</path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.ConnectionsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_calls</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Manage Connections -> Audio -->
+            <target>pearl#berry#piano#zenith#jelly#paran#gemstone#able</target>
+            <title>connections_audio</title>
+            <subtitle></subtitle>
+            <path>manage_connections</path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.ConnectionsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_audio</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Advanced featrues > Neck stretch reminder -->
+            <target>zenith#jelly#paran#able</target>
+            <title>neck_stretch_title</title>
+            <subtitle></subtitle>
+            <path>settings_advanced_features</path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.advancedfeature.AdvancedFeatureActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_visible_neck_stretch</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbud software update -->
+            <target>berry#zenith#jelly#paran#gemstone#able#pearl#piano</target>
+            <title>card_menu_earbuds_software_update</title>
+            <subtitle></subtitle>
+            <path></path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.EarbudsSoftwareUpdateActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_software_update</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > About earbuds-->
+            <target>berry#zenith#jelly#paran#gemstone#able#pearl#piano</target>
+            <title>earbud_info</title>
+            <subtitle></subtitle>
+            <path></path>
+            <depth>0</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.aboutmenu.AboutEarbudsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_about_earbuds</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > About earbuds > Edit earbuds name (keyword: edit earbus name)-->
+            <target>berry#zenith#pearl#piano</target>
+            <title>edit_earbuds_name</title>
+            <subtitle></subtitle>
+            <path>card_menu_about_earbuds</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.aboutmenu.AboutEarbudsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_rename</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Earbuds settings > About earbuds > Edit earbuds name (keyword: rename)-->
+            <target>berry#zenith#jelly#paran#gemstone#able#pearl#piano</target>
+            <title>about_earbuds_edit_rename</title>
+            <subtitle></subtitle>
+            <path>card_menu_about_earbuds</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.aboutmenu.AboutEarbudsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_item_rename</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <!-- Voice Controls Activity Items -->
+        <item> <!-- Voice controls > Bixby voice wake-up -->
+            <target>jelly#paran#gemstone#able</target>
+            <title>settings_voice_wakeup_title</title>
+            <subtitle></subtitle>
+            <path>voice_controls</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.VoiceControlsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_bixby_voice_wake_up</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Voice controls > Voice commands -->
+            <target>jelly#paran#able</target>
+            <title>voice_commands_title</title>
+            <subtitle></subtitle>
+            <path>voice_controls</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.VoiceControlsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_hot_command_switch</clickid>
+            <controlstate ctrl="false">1</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+        <item> <!-- Voice controls > Google Digital Assistant -->
+            <target>jelly#paran#gemstone#able</target>
+            <title>setup_google_digital_assistant</title>
+            <subtitle></subtitle>
+            <path>voice_controls</path>
+            <depth>1</depth>
+            <fragment>com.samsung.accessory.hearablemgr.module.mainmenu.VoiceControlsActivity</fragment>
+            <iconpath></iconpath>
+            <valid>1</valid>
+            <menutype>1</menutype>
+            <menuid>1</menuid>
+            <state>0</state>
+            <clickid>layout_d_a</clickid>
+            <controlstate ctrl="false">0</controlstate>
+            <tagvalue></tagvalue>
+        </item>
+
+    </search>
+</resources>

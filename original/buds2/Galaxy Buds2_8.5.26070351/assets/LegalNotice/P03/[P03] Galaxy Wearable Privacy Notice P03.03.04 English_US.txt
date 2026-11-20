@@ -1,0 +1,105 @@
+Galaxy Wearable U.S. Privacy Notice
+
+Last updated: Dec 31, 2024
+
+Samsung Electronics Co., Ltd., along with our affiliates and subsidiaries (collectively, “Samsung”), respects your concerns about privacy. This Galaxy Wearable U.S. Privacy Notice applies to the personal information we obtain through your Galaxy Wearable device and its connected services and features (collectively, “Galaxy Wearable”). It does not apply to information collected by other apps, websites or services provided by Samsung.
+
+This Privacy Notice supplements the Samsung Privacy Policy (available at https://www.samsung.com/us/account/privacy-policy) and provides additional information about how we may collect, use, and share your personal information in connection with our Services. In the event that any portion of this Privacy Notice conflicts with the Samsung Privacy Policy, the relevant provisions of this Privacy Notice will govern.
+
+INFORMATION WE OBTAIN
+
+Through your Galaxy Wearable, we may collect and maintain information about you in various ways.
+
+
+Information About Your Use of Your Galaxy Wearable
+
+• Information about your devices, such as device type, device model, OS type and version, device identifiers and other unique identifiers, mobile network providers, device configurations and settings;
+• Information related to your location through, GPS, Bluetooth and WiFi signals. Some features of your Galaxy Wearable require the collection of your device’s precise geolocation, and in those instances we will collect your geolocation, but only with your permission. Your device will notify you when a Galaxy Wearable feature needs to collect your precise geolocation. Please note that if you do not allow Galaxy Wearable to collect your precise geolocation, you may not be able to use all of the features of Galaxy Wearable;
+• If your device offers a Remote Connection feature (available on Galaxy Watch3 and earlier models), such as connecting your mobile device to your Galaxy Wearable device over Wi-Fi or mobile data rather than Bluetooth so your Galaxy Wearable can receive messages from your phone, information about apps installed on your mobile device such as notifications and content of received messages and emails (including the content of messages and media files); and
+• If you have agreed to sending diagnostic data, diagnostic, technical, error, and usage information such as the time and duration of your use of your Galaxy Wearable, apps installed by you and how long and when you open or close apps.
+
+We also may collect other information about you, your Galaxy Wearable and apps, your devices connected to Galaxy Wearable, and your use of your Galaxy Wearable in ways that we describe to you at the time of collection and whenever is necessary, we will obtain your consent.
+
+HOW WE USE THE INFORMATION WE OBTAIN
+
+We may use the information we collect for the following purposes:
+
+• To help you register for and use your Galaxy Wearable.
+• To provide services and features you request.
+• To respond to your requests and questions, and to communicate with you about your Galaxy Wearable, including providing assistance when you request technical support related to your Galaxy Wearable.
+• To allow you to interact with selected Samsung or third-party apps, features and services. • To provide customized content and services related to your Galaxy Wearable.
+• To provide promotions and offers through direct marketing communications (such as via push notifications, emails, and text messages), only where you have given us your separate consent.
+• To operate, evaluate and improve Galaxy Wearable and our business (including developing new products and services, enhancing and improving our products and services; managing our communications; analyzing our products, services and customer base; conducting marketing research; performing data analytics; and performing accounting, auditing and other internal functions).
+• To ask you for your opinions about our products and services and to perform customer surveys; if so required, with your separate consent.
+• To provide software updates, maintenance services, and support for your Galaxy Wearable.
+• To protect against, identify and prevent fraud and other criminal activity, claims and other liabilities.
+• To comply with and enforce applicable legal requirements, relevant industry standards and our policies, including this Privacy Notice and the Privacy Policy.
+
+Your Galaxy Wearable may provide the ability to connect to or use other Samsung or third-party apps, services and features. For example, you may be able to use Samsung Health or Bixby Voice on your Galaxy Wearable device. These Samsung and third-party apps, services and features may have their own privacy notices. Review them to ensure that you understand how those services process your information. To the extent that any other linked or shown app, service, or other feature is not owned or controlled by us, we are not responsible for its content, use, or privacy practices.
+
+INFORMATION SHARING
+
+As stated above, this Privacy Notice supplements the Samsung Privacy Policy (available at https://www.samsung.com/us/account/privacy-policy), which describes our information sharing practices.
+CHILDREN’S SECTION
+
+This Children’s Section describes our information collection, use and disclosure practices with respect to your child’s use of Galaxy Watch and the services and features available to your child through the Galaxy Watch. This section is in addition to and supplements any information practices associated with your child’s Samsung Account. For more information about the Samsung Child Account, please see the Children’s Section of the Samsung Account Privacy Notice   .
+
+INFORMATION WE OBTAIN WHEN YOUR CHILD USES THE GALAXY WATCH
+
+Samsung may collect the following information from or about your child when your child uses  the Galaxy Watch:
+•	Information about your child’s Galaxy Watch, including connected Samsung and third-party devices and the apps, services and features they use. We may also collect device identifiers, hardware, software, network (including connection and Bluetooth) and settings information (including settings through any parental control function), and usage and log information (such as how long or when your child uses a Samsung or third-party device, app, service or feature).
+
+
+
+For Galaxy Watch, Samsung does not children to make their personal information available publicly.
+
+HOW WE USE YOUR CHILD’S INFORMATION
+
+We may use the information collected from your child through the Galaxy Watch for the following purposes:
+
+• To identify and authenticate your child so your child can use the Galaxy Watch;
+• To operate the Galaxy Watch and its features;
+ • To improve and customize your child’s experience with the Galaxy Watch, such as delivering content and responses tailored to your child and the way your child interacts with the Galaxy Watch;
+• To allow your child to interact with and use participating Samsung and third-party apps and services;
+• To respond to requests, inquiries and instructions made through or about the Galaxy Watch;
+• To operate, evaluate and improve our business, including developing new products and services, managing our communications, analyzing our services and customer base, aggregating and anonymizing data, performing data analytics and undertaking accounting, auditing and other internal functions;
+• To protect against, identify and prevent fraud and other criminal activity, claims and other liabilities; and
+• To comply with and enforce applicable legal requirements, relevant industry standards and our policies.
+
+SHARING OF CHILDREN’S INFORMATION
+
+We may share your child’s personal information with our subsidiaries and affiliates, as well as with service providers who perform services for us. We do not authorize our service providers to use or disclose the information we share except as necessary to perform services on our behalf or to comply with legal requirements.
+
+We may share personal information we collect from your child through the Galaxy Watch if you ask us to do so, or otherwise with your consent. We also may disclose information about your child in other circumstances, including:
+
+• To law enforcement authorities, government or public agencies or officials, regulators, and/or any other person or entity with appropriate legal authority or justification for receipt of such information, if required to do so by law or legal process.
+• When we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity
+• In the event we may or do sell or transfer all or a portion of our business or assets (including in the event of a merger, acquisition, joint venture, reorganization, divestiture, dissolution, or liquidation).
+
+YOUR RIGHTS AS A PARENT
+
+You have the option at any time to review or delete the personal information Samsung has collected from your child through the Galaxy Watch. You may do so by submitting a request here: https://www.samsung.com/us/privacy/rights/.
+
+You can also refuse to permit Samsung’s further collection or use of your child’s personal information by resetting the Galaxy Watch by going into the watch settings > General > Reset.
+NOTICE TO CALIFORNIA RESIDENTS
+
+Californian consumers can find out more about their privacy rights in the “California Consumer Privacy Statement” section of the Samsung Privacy Policy (available at https://www.samsung.com/us/account/privacy-policy).
+
+STATE LAW PRIVACY RIGHTS
+
+If you reside in certain states you may have rights and choices concerning your personal information. For more information about privacy rights that may be available to you subject to applicable law, please see the WHAT ARE YOUR RIGHTS? section of the Samsung Privacy Policy and the State Law Privacy Rights section of US Supplement to the Samsung Privacy Policy (both available at https://www.samsung.com/us/account/privacy-policy).
+
+UPDATES TO THIS PRIVACY NOTICE
+
+We will update this Privacy Notice to let you know if we change how we collect and process your information for your Galaxy Wearable, if we’re required by law. The date when the document was last updated is shown at the top of this Privacy Notice.
+
+HOW TO CONTACT US
+
+Privacy Office
+Samsung Electronics America, Inc.
+85 Challenger Road
+Ridgefield Park, NJ 07660
+1-800-SAMSUNG (1-800-726-7864)
+https://privacypost.sea.samsung.com/ccpa/privacy-inquiries
+
+Version: P03.03.04

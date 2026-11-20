@@ -1,0 +1,7 @@
+{
+  "budscontroller": {
+    "menuInSetting": 0,
+    "labelResNameInSetting": "app_name",
+    "changeCurrentPage": true
+  }
+}

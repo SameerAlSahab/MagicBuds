@@ -1,0 +1,125 @@
+﻿„Galaxy Wearable“ privatumo pranešimas
+
+Paskutinį kartą atnaujintas 2021 m. rugpjūčio 1 d.
+
+„Samsung Electronics Co., Ltd.“ mes suprantame, koks svarbus mūsų klientams yra privatumas. Jūsų „Galaxy Wearable“ duomenų valdytoja yra „Samsung“. Parengėme šį Privatumo pranešimą, siekdami užtikrinti, kad Jūs suprastumėte, kaip renkame ir naudojame Jūsų asmens duomenis.
+
+Jums naudojantis „Galaxy Wearable“, taip pat taikomos ir mūsų Privatumo taisyklės, kurias galima perskaityti adresu https://account.samsung.com/membership/terms/privacypolicy. Mūsų Privatumo taisyklėse pateikta daugiau informacijos apie tai, kaip naudojame Jūsų duomenis. Be šio Privatumo pranešimo, susipažinkite ir su mūsų Privatumo taisyklėmis. Tačiau šiam Privatumo pranešimui visuomet teikiama pirmenybė Privatumo taisyklių atžvilgiu.
+
+KOKIĄ INFORMACIJĄ RENKAME?
+
+Teikdami „Galaxy Wearable“ paslaugą, renkame ir saugome informaciją apie Jus įvairiais būdais.
+
+Jūsų tiesiogiai pateikta informacija
+
+• Kai prisijungiate prie „Samsung“ paskyros „Galaxy Wearable“ įrenginyje, Jūsų „Samsung“ paskyros informacija, tokia kaip „Samsung“ paskyros ID.
+
+Informacija apie tai, kaip naudojatės „Galaxy Wearable“
+
+• Informacija apie Jūsų įrenginius, pavyzdžiui, įrenginio tipas, įrenginio modelis, OS tipas ir versija, įrenginio identifikatorius ir kiti unikalūs identifikatoriai, mobiliojo tinklo tiekėjai, įrenginio konfigūracijos ir nustatymai.
+•Informacija, susijusi su Jūsų buvimo vieta per GPS, „Bluetooth“ ir „Wi-Fi“ signalus. Kad galėtumėte naudotis kai kuriomis Jūsų „Galaxy Wearable“ funkcijomis, būtina surinkti tikslius Jūsų įrenginio geolokacinius duomenis, tokiais atvejais mes rinksime Jūsų geolokacinius duomenis, tačiau tik Jums leidus. Jūsų įrenginys Jums praneš, kada „Galaxy Wearable“ funkcija turės rinkti tikslius Jūsų geolokacinius duomenis. Atkreipkite dėmesį, kad jeigu neleisite „Galaxy Wearable“ rinkti tikslių Jūsų geolokacinių duomenų, gali būti, kad negalėsite naudotis visomis „Galaxy Wearable“ funkcijomis. 
+• Jeigu Jūsų įrenginyje yra nuotolinio ryšio funkcija (veikia „Galaxy Watch3“ ar ankstenių modelių įrenginiuose), pavyzdžiui, prijungiate savo mobilųjį įrenginį prie „Galaxy Wearable“ per „Wi-Fi“ ar mobiliuosius duomenis, o ne per „Bluetooth“, kad „Galaxy Wearable“ galėtų gauti žinutes iš Jūsų telefono, informacija apie Jūsų mobiliajame įrenginyje įdiegtas programas, tokias kaip pranešimai, gautų žinučių ir el. laiškų turinys (įskaitant žinučių ir medijos failų turinį). 
+• Jei naudojate atsarginės kopijos kūrimo ir atkūrimo funkciją – programinės įrangos versija, pardavimo kodas, įdiegtų ir neseniai naudotų programų sąrašas, įdiegtų programų duomenys ir nustatymai, pradžios ekrano nustatymai, įskaitant laikrodžio vaizdą, programas ir valdiklius, pranešimų nustatymus, sistemos nustatymus, įskaitant ekraną, garsą ir vibraciją.
+• Jeigu sutikote siųsti diagnostikos duomenis – diagnostikos, techninė, klaidų ir naudojimo informacija, tokia kaip Jūsų naudojimosi „Galaxy Wearable“ laikas ir trukmė, Jūsų įdiegtos programos, kuriam laikui ir kada atveriate bei užveriate programas.
+
+Taip pat galime rinkti kitą informaciją apie Jus, Jūsų „Galaxy Wearable“ ir programas bei Jūsų prie „Galaxy Wearable“ prijungtus įrenginius, Jūsų naudojimosi „Galaxy Wearable“ pobūdį Jums duomenų rinkimo metu nurodytais būdais, ir, kai tai bus būtina, gausime Jūsų sutikimą.
+
+KAIP NAUDOJAME JŪSŲ DUOMENIS?
+
+• Padėti Jums užsiregistruoti ir naudotis „Galaxy Wearable“ 
+• Teikti Jūsų pageidaujamas paslaugas ir funkcijas
+• Atsakyti į Jūsų užklausas ir klausimus bei susisiekti su Jumis dėl Jūsų „Galaxy Wearable“, taip pat suteikti pagalbą, kai Jums naudojantis „Galaxy Wearable“ reikalingas techninis palaikymas 
+• Suteikti galimybę Jums naudotis pasirinktomis „Samsung“ ar trečiųjų šalių programomis, funkcijomis ir paslaugomis. Pavyzdžiui, Jūs galite sukurti savo atsarginę programos ir nustatymo informacijos versiją „Samsung Cloud“ arba Jūsų „Galaxy Wearable“ naudotis „Samsung Health“
+• Pateikti pritaikytą turinį ir paslaugas, susijusias su Jūsų „Galaxy Wearable“ 
+• Rodyti reklaminius skelbimus ir pasiūlymus, siunčiant tiesioginius rinkodaros pranešimus (pvz., „push“ pranešimai, el. laiškai ir tekstinės žinutės), tik Jums davus atskirą sutikimą 
+• Vykdyti, vertinti ir tobulinti „Galaxy Wearable“ ir mūsų verslą (taip pat kurti naujus produktus ir paslaugas, tobulinti ir gerinti mūsų produktus ir paslaugas; valdyti mūsų ryšius; analizuoti mūsų produktus, klientų bazę ir paslaugas; vykdyti rinkos tyrimus; analizuoti duomenis; vykdyti apskaitos, audito ir kitas vidaus funkcijas) 
+• Klausti Jūsų nuomonės apie mūsų produktus bei paslaugas ir vykdyti klientų apklausas, jeigu reikia, gavus Jūsų atskirą sutikimą 
+• Siųsti programinės įrangos naujinius, teikti „Galaxy Wearable“ priežiūros ir palaikymo paslaugas
+• Saugoti nuo sukčiavimo ir kitos nusikalstamos veiklos, pretenzijų bei kitokios atsakomybės, tokią veiklą nustatyti ir užkirsti jai kelią
+• Laikytis taikomų teisės aktų reikalavimų, atitinkamų veiklos srities standartų ir savo taisyklių, įskaitant šį Privatumo pranešimą ir Privatumo taisykles
+
+Jūsų „Galaxy Wearable“ gali suteikti galimybę prisijungti prie kitų „Samsung“ ar trečiųjų šalių programų, paslaugų ir funkcijų, ir jomis naudotis. Pavyzdžiui, savo „Galaxy Wearable“ įrenginyje galėsite naudoti „Samsung Health“ arba „BixbyVoice“. Tokios „Samsung“ ir trečiųjų šalių programos, paslaugos ir funkcijos gali turėti savo privatumo pranešimus. Susipažinkite su jais, kad suprastumėte, kaip tokios paslaugos apdoroja Jūsų duomenis. Jeigu bet kokia kita susijusi ar rodoma svetainė, programa, paslauga ar kita funkcija mums nepriklauso ar nėra mūsų kontroliuojama, mes neatsakome už jos turinį, naudojimą ar privatumą užtikrinančią praktiką.
+
+„Samsung“ tvarko asmens duomenis pirmiau nurodytais tikslais. „Samsung“ tvarko asmens duomenis, vadovaudamasi šiais teisiniais pagrindais: 
+
+Vykdydami mūsų pažadus Jums (vykdyti sutartis); BDAR 6 straipsnio 1 dalies b punktas
+
+• Registruoti Jus ir Jūsų „Galaxy Wearable“
+• Suteikti Jums galimybę naudotis „Galaxy Wearable“ funkcijomis, pavyzdžiui, leisti Jums sukurti atsargines Jūsų programų ir nustatymų kopijas debesijos serveriuose
+• Leisti Jums naudotis kitu „Samsung“ ir trečiųjų šalių turiniu
+Mūsų komerciniais interesais (teisėtais interesais); BDAR 6 straipsnio 1 dalies f punktas
+
+• Vykdyti, vertinti ir tobulinti „Galaxy Wearable“ ir savo veiklą
+• Teikti Jums pritaikytą turinį
+• Atsakyti į Jūsų užklausas, nurodymus ir prašymus
+• Palaikyti pakankamas saugumo priemones, palaikymo funkcijas ir teikti naujinius
+• Apsisaugoti nuo atsakomybės, įskaitant veiklos srities standartų laikymąsi ir savo taisyklių laikymosi užtikrinimą
+
+Laikytis teisės aktų ir teisinių procedūrų (BDAR 6 straipsnio 1 dalies c punktas)
+• Laikytis galiojančių nuostatų ir vykdyti priežiūros institucijų bei teismų nutarimus
+
+Su Jūsų sutikimu (BDAR 6 straipsnio1 dalies a punktas)
+• Siųsti rinkodaros pranešimus (tokius kaip „push“ pranešimus, el. laiškus ir teksto žinutes)
+• Tvarkyti diagnostikos duomenis
+• Tvarkyti geolokacijos duomenis
+
+SU KUO JŪSŲ DUOMENIMIS DALIJAMĖS?
+
+Jūsų duomenis atskleisime įmonės viduje ir kitoms toliau nurodytoms įmonėms, tačiau tik anksčiau nurodytais tikslais.
+• Susijusios įmonės: kitos „Samsung Electronics“ grupės bendrovės, kurias mes kontroliuojame arba kurios mums priklauso. 
+• Paslaugų teikėjai: kruopščiai atrinktos bendrovės, kurios teikia paslaugas mums arba mūsų vardu, pavyzdžiui, duomenų serveriai, kurie duomenis tvarko mūsų vardu. Šie partneriai taip pat yra įsipareigoję saugoti Jūsų informaciją. 
+• Kitos šalys, jeigu reikalaujama pagal įstatymą arba jeigu reikia apsaugoti „Galaxy Wearable“: pavyzdžiui, atskleisti Jūsų asmens duomenis gali būti reikalaujama pagal įstatymus, vykdant teisinį procesą arba pagal teismo nutartį. Jie gali mūsų prašyti atskleisti informaciją teisėtvarkos užtikrinimo tikslais, nacionalinio saugumo, kovos su terorizmu ar kitais su viešuoju saugumu susijusiais tikslais. 
+• Kitos šalys, susijusios su įmonių sandoriais: mes galime atskleisti Jūsų informaciją trečiajai šaliai, vykdydami susijungimo ar perdavimo, įsigijimo ar pardavimo sandorį, taip pat bankroto atveju.
+• Kitos šalys pagal Jūsų sutikimą arba nurodymą: be šiame Privatumo pranešime nurodytų atvejų, informaciją apie Jus galime perduoti trečiosioms šalims pagal Jūsų atskirą sutikimą arba prašymą.
+
+KIEK LAIKO SAUGOME JŪSŲ DUOMENIS IR KUR JIE SIUNČIAMI?
+
+Kiek ilgai Jūsų duomenys bus išlaikomi, priklauso nuo teisinio pagrindo, kuriuo Jūsų duomenys tvarkomi. Pavyzdžiui, duomenis, kuriuos tvarkome vykdydami sutartį su Jumis, privalome išlaikyti visą Jūsų naudojimosi „Galaxy Wearable“ laiką. Tol, kol esate aktyvus „Galaxy Wearable“ naudotojas, saugome ir tvarkome šiuos duomenis. Šiai kategorijai priskiriami tokie duomenys kaip įrenginio informacija bei identifikatoriai.
+
+Duomenys, kuriuos tvarkome savo komerciniais interesais, pvz., apie Jūsų naudojimąsi „Galaxy Wearable“, laikomi tik tiek ilgai, kiek reikia tais tikslais, kuriais jie buvo surinkti. Pavyzdžiui, šie duomenys gali būti renkami analizei atlikti, kad galėtume tobulinti „Galaxy Wearable“, arba galime tvarkyti duomenis, kad registruotume Jūsų per „Galaxy Wearable“ arba apie jį pateiktas užklausas, kad Jums suteiktume kuo geresnes paslaugas.
+
+Be to, mes taip pat galime tvarkyti Jūsų duomenis, gavę Jūsų sutikimą. Jei atsiimsite savo sutikimą, mes sustabdysime Jūsų sutikimu pagrįstų duomenų tvarkymą, tačiau tai neturės įtakos duomenų, surinktų prieš Jūsų atsisakymą, tvarkymui, kol nebus pasiekti tikslai, dėl kurių tokie duomenys buvo renkami.
+
+Atkreipkite dėmesį, kad, nors stengiamės išlaikyti Jūsų duomenis pirmiau nurodytą laikotarpį, Jūsų duomenys gali būti tvarkomi ilgiau pagal galiojančius teisės aktus. Pavyzdžiui, jeigu konkretūs nuostatai reikalauja mūsų turėti tam tikrus duomenis, mes jų laikysimės ir turėsime tuos duomenis iki išlaikymo laikotarpio pabaigos. 
+
+Kol laikysime Jūsų duomenis, jiems visada bus taikomos atitinkamos apsaugos priemonės.
+
+Kai naudositės „Galaxy Wearable“, Jūsų asmens duomenys bus perduodami, laikomi ir tvarkomi kitose šalyse; tokios šalys, be apribojimų, yra Europos ekonominės erdvės šalys, Korėjos Respublika, Indija ir Vietnamas. Visiems tarptautiniams duomenų perdavimams taikomi teisiniai reikalavimai, skirti užtikrinti, kad Jūsų asmens duomenys būtų tvarkomi saugiai ir taip, kaip Jūs tikitės. Viena tokių priemonių yra standartinės sutarčių sąlygos, kurias taikant užtikrinamas saugus duomenų perdavimas už EEE ribų. Norėdami paprašyti daugiau informacijos arba gauti galiojančių standartinių sutarčių sąlygų kopiją, žr. šio Privatumo pranešimo skyrių SUSISIEKITE SU MUMIS.
+
+KAIP APSAUGOME JŪSŲ ASMENS DUOMENIS?
+
+Į duomenų apsaugą žiūrime labai atsakingai. Mes įdiegėme fizines ir technines apsaugos priemones, kad mūsų renkami duomenys būtų apsaugoti. Tačiau atkreipkite dėmesį, kad nors ir imamės pagrįstų priemonių Jūsų duomenims apsaugoti, nė viena svetainė, perdavimas internetu, kompiuterių sistema ar belaidis ryšys nėra visiškai saugūs.
+
+KOKIOS YRA JŪSŲ TEISĖS?
+
+Jūsų asmens duomenys priklauso Jums. Galite paprašyti mūsų pateikti išsamią informaciją apie tai, ką surinkome, ir paprašyti pašalinti arba ištaisyti bet kokius netikslumus. Taip pat galite paprašyti mūsų apriboti arba limituoti Jūsų asmens duomenų tvarkymą, dalijimąsi arba perdavimą, taip pat pateikti Jūsų asmens duomenis, kuriuos surinkome, kad juos galėtumėte naudoti savo reikmėms. Tačiau paprašę ištrinti duomenis ar kitaip apriboti Jūsų asmens duomenų tvarkymą, perdavimą ar bendrinimą, galite prarasti prieigą prie visų ar kai kurių „Galaxy Wearable“ teikiamų paslaugų. Mes nepašalinsime duomenų, kuriuos privalome išlaikyti pagal teisės aktus. 
+
+Norėdami pateikti užklausą dėl savo teisių arba pateikti užklausą, susisiekite su mumis. Žr. skyrių SUSISIEKITE SU MUMIS.
+
+SUSISIEKITE SU MUMIS
+
+Galite kreiptis į mus, kad pasinaudotumėte pirmiau minėtomis savo teisėmis, pateiktumėte prašymą arba užduotumėte klausimų.
+
+Taip pat galite susisiekti rašydami adresu:
+
+Data Controller
+Samsung Electronics Co., Ltd.
+129, Samsung-ro, Yeongtong-gu,
+Suwon-si, Gyeonggi-do 16677, Republic of Korea
+
+„Samsung Electronics“ padaliniai veikia visoje Europoje, todėl galime užtikrinti, kad Jūsų prašymą arba užklausą nagrinės Jūsų regione dirbanti duomenų apsaugos komanda.
+
+Jei turite kokių nors klausimų, paprasčiausias būdas yra susisiekti su mumis per mūsų Privatumo palaikymo puslapį https://www.samsung.com/request-desk.
+
+Taip pat galite susisiekti rašydami adresu:
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 2000 Hillswood Drive, Chertsey, Surrey KT16 0RS, UK
+
+Jei manote, kad tvarkydami Jūsų asmens duomenis pažeidžiame galiojančius teisės aktus, galite pateikti skundą priežiūros institucijai. Visų ES priežiūros institucijų kontaktinius duomenis galima rasti adresu https://edpb.europa.eu/about-edpb/board/members_en.
+
+ŠIO PRIVATUMO PRANEŠIMO ATNAUJINIMAI
+
+Šis Privatumo pranešimas gali būti atnaujintas, kad praneštume Jums apie pasikeitimus, susijusius su Jūsų informacijos rinkimu ir tvarkymu „Galaxy Wearable“, arba apie susijusių teisės aktų pakeitimus. Šio dokumento paskutinio atnaujinimo data nurodyta šio Privatumo pranešimo pradžioje.
+
+Version:P02.03.03

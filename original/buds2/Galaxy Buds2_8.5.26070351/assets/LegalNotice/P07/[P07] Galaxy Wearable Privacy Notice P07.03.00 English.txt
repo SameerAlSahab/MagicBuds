@@ -1,0 +1,116 @@
+Galaxy Wearable Privacy Notice
+
+Effective Date: August 1, 2021 
+
+At Samsung Electronics Co., Ltd. (“Samsung”), we know how important privacy is to our customers. Samsung is the data controller for Galaxy Wearable. The Data Controller Representative of Samsung in Turkey is “Samsung Electronics Istanbul Pazarlama ve Ticaret Ltd. Şti.”. We created this Privacy Notice (“KVKK Notification Text”) to make sure you understand how we collect and use your personal information. 
+Samsung aims to process personal data of Galaxy Wearable users in accordance with the international data protection provisions and the provisions of the Law No. 6698 on Protection of Personal Data (the “KVKK- also known as LPPD in English abbreviation”) and other legislation. 
+We hereby inform you that your personal data that you have provided/will provide to Samsung and/or are obtained externally by any means by Samsung due to your being a Galaxy Wearable user shall be processed by Samsung acting as of “Data Controller”:  
+•	within the framework of the purpose for which they are required to be processed and as relevant, limited, and proportionate to such purpose, 
+•	by preserving the accuracy and the most up-to-date state of such personal data as they have been provided to Samsung by you or otherwise,
+•	and by complying with the conditions stipulated in the KVKK. 
+
+With this KVKK Notification Text (Obligation to Inform Text), it has been aimed to continue and develop the activities carried out by Samsung in accordance with the principles contained in the KVKK. 
+Our Samsung Privacy Policy at https://account.samsung.com/membership/terms/privacypolicy also applies to your use of Galaxy Wearable. Our Privacy Policy contains more information about how we use your data. It also includes information about your rights and how to contact us. Please read our Privacy Policy in addition to this KVKK Notification Text. However, this KVKK Notification Text shall always prevail over the Privacy Policy in relation to how we use your information for Galaxy Wearable.
+
+WHAT INFORMATION DO WE COLLECT?
+
+Samsung shall process your personal data for the purposes and legal grounds specified in this KVKK Notification Text. If there is any change in the purpose for which your personal data are processed or in the legal grounds thereof, this KVKK Notification Text shall be updated and re-published by Samsung. 
+
+Through Galaxy Wearable, Samsung obtains and maintains information about you in various ways. Your personal data are collected through electronic media, via all kinds of information, documents and certificates you have submitted to Samsung and collected through the application, both before and after the establishment of the contractual relationship and during such contractual relationship.
+
+Information You Provide Directly
+
+• When you log-in to Samsung account on your Galaxy Wearable device, Samsung account information, such as your Samsung account ID.
+
+
+Information About Your Use of Your Galaxy Wearable
+
+In addition to the information you provide, we will collect information about your use of our Galaxy Wearable through software on your devices and by other means. We will collect: 
+
+• Information about your devices, such as device type, device model, OS type and version, device identifiers and other unique identifiers, mobile network providers, device configurations and settings;
+• Information related to your location through, GPS, Bluetooth and WiFi signals. Some features of your Galaxy Wearable require the collection of your device’s precise geolocation, and in those instances we will collect your geolocation, but only with your permission. Your device will notify you when a Galaxy Wearable feature needs to collect your precise geolocation. Please note that if you do not allow Galaxy Wearable to collect your precise geolocation, you may not be able to use all of the features of Galaxy Wearable; 
+• If your device offers a Remote Connection feature (available on Galaxy Watch3 and earlier models) and you use this feature, such as connecting your mobile device to your Galaxy Wearable device over Wi-Fi or mobile data rather than Bluetooth so your Galaxy Wearable can receive messages from your phone, information about apps installed on your mobile device such as notifications and content of received messages and emails (including the content of messages and media files); and  
+• If you use the Backup and Restore feature; software version, sales code, list of installed and recently used apps, data and settings of installed apps, home screen settings including watch face, apps and widgets, notification settings, system settings including display, sound and vibration.
+• According to your preference of sending diagnostic data, diagnostic, technical, error, and usage information such as the time and duration of your use of your Galaxy Wearable, apps installed by you and how long and when you open or close apps.
+
+We also may collect other information about you, your Galaxy Wearable and apps, your devices connected to Galaxy Wearable, and your use of your Galaxy Wearable in ways that we describe to you at the time of collection and whenever is necessary, we will obtain your consent.
+
+
+
+HOW DO WE USE YOUR INFORMATION?
+
+We use the information collected for the following purposes:
+
+
+•	To help you register for and use your Galaxy Wearable. 
+•	To provide services and features you request. 
+•	To respond to your requests and questions, and to communicate with you about your Galaxy Wearable, including providing assistance when you request technical support related to your Galaxy Wearable.
+•	To allow you to interact with selected Samsung or third-party apps, features and services. For example, you may be able to back up your apps and settings information to Samsung Cloud or use Samsung Health on your Galaxy Wearable.
+•	To operate, evaluate and improve Galaxy Wearable and our business (including developing new products and services, enhancing and improving our products and services; managing our communications; analyzing our products, services and customer base; conducting marketing research; performing data analytics; and performing accounting, auditing and other internal functions).
+•	To ask you for your opinions about our products and services and to perform customer surveys;.
+•	To provide software updates, maintenance services, and support for your Galaxy Wearable.
+•	To protect against, identify and prevent fraud and other criminal activity, claims and other liabilities; and
+•	To comply with and enforce applicable legal requirements, relevant industry standards and our policies, including this KVKK Notification Text and the Privacy Policy.
+
+
+Your Galaxy Wearable may provide the ability to connect to or use other Samsung or third-party apps, services and features. For example, you may be able to use Samsung Health or Bixby Voice on your Galaxy Wearable device. These Samsung and third-party apps, services and features may have their own privacy notices. Review them to ensure that you understand how those services process your information. To the extent that any other linked or shown app, service, or other feature is not owned or controlled by us, we are not responsible for its content, use, or privacy practices.
+
+Please note that, when you prefer to use HERE feature, Here collect user data themselves. You may kindly refer to their privacy policies regarding your personal data processing details
+
+Samsung processes personal information for the purposes described above. Samsung’s legal basis to process personal information is outlined below: 
+
+Your personal data are processed being limited to the use of the related service/platform; in compliance with the legislation in force and the Law on Protection of Personal Data; by automated or non-automated methods; 
+•	based on Article 5, paragraph 2 of the KVKK, sub-paragraph c), which stipulates ‘if it is necessary to process personal data of contractual parties, provided that such processing is directly related to the establishment or performance of the contract’, and sub-paragraph f) thereof, which stipulates ‘if it is mandatory to process personal data for the legitimate interests of the data controller, provided that the fundamental rights and freedoms of the data subject are not violated’:
+
+and may be updated in line with our obligations arising from the legislation and the company policies.
+Your personal data shall be kept for a reasonable period of time until the purpose for which they are processed ceases to exist or until the end of the legal time period specified in the relevant legislation, and in any case until the expiry of the statute of limitations.
+
+WHO DO WE SHARE YOUR INFORMATION WITH?
+
+The procedures and principles to be applicable to personal data transfers are set forth in Articles 8 and 9 of the KVKK, and the personal data of the data subject may be transferred to third parties in Turkey and/or abroad.
+We will disclose your information internally within our business and to the following entities, but only for the purposes described above.
+
+•	Affiliates: other Samsung Electronics Group companies which we control or own, such as server operation;
+•	Service providers: carefully selected companies that provide services for or on behalf of us, such as data servers that maintain data on our behalf. These providers are also committed to protecting your information;
+•	Other parties when required by law or as necessary to protect Galaxy Wearable: for example, it may be necessary by law, legal process, or court order from governmental authorities to disclose your information. They may also seek your information from us for the purposes of law enforcement, national security, anti-terrorism, or other issues that are related to public security;
+•	Other parties in connection with corporate transactions: we may disclose your information to a third party as part of a merger or transfer, acquisition or sale, or in the event of bankruptcy; and
+•	Other parties with your consent or at your direction: in addition to the disclosures described in this KVKK Notification Text, we may share information about you with third parties when you separately consent to or request such sharing.
+
+HOW LONG DO WE RETAIN YOUR INFORMATION AND WHERE DOES IT GO?
+
+How long your data will be retained depends on the legal basis relied upon to process your data. For example, data we process to perform our contract with you requires us to keep the data throughout the time you use Galaxy Wearable. As long as you are an active user of Galaxy Wearable, we will retain and process this data. Data such as your account information and device information and identifiers fall into this category.
+
+Data we process to promote our business interests, such as your usage of Galaxy Wearable, is only kept for as long as needed for the purposes for which it was collected. For example, this data may be collected to perform analytics so we can develop improvements to Galaxy Wearable, or we may process data to keep a record of inquiries you made through or about Galaxy Wearable to improve your customer service experience.
+
+
+Please note, although we aim to retain your data for the time period described above, your data may be processed longer pursuant to applicable law. For example, if a specific statute mandates we require a certain piece of data, we comply and retain that data until the required retention period expires. 
+
+As long as your data is retained by us your data will always be subject to appropriate safeguards.
+
+Your use of Galaxy Wearable will involve the transfer, storage, and processing of your personal information to other countries; such countries include, without limitation, Ireland, Germany, the Republic of Korea, Vietnam and India. All international data transfers are subject to legal requirements to ensure that your personal information is processed safely and as you would expect.
+
+YOUR RIGHTS UNDER KVKK
+
+Data Subject’s Rights under KVKK
+In accordance with Article 11 of the KVKK, you may apply to Samsung and make requests on the following issues about your personal data:
+a.	 Learning whether or not your personal data have been processed,
+b.	Obtaining information on the procedure, if your personal data have been processed, 
+c.	Learning the purpose for which your personal data have been processed and whether or not they are used in line with such purpose, 
+d.	Obtaining information about third parties to whom your personal data are transferred within Turkey or abroad,
+e.	Requesting correction of your personal data if they have been processed incompletely or inaccurately and requesting the notification of third parties to whom your personal data are transferred of the correction made in this respect,
+f.	Requesting deletion, destruction, or anonymization of your personal data if the reasons for which they are processed no longer exist and requesting the notification of third parties to whom your personal data are transferred of such deletion, destruction, or anonymization procedure,
+g.	Objecting to the occurrence of a result which is detrimental to you as a result of analyzing of your processed personal data exclusively through automatic systems,
+h.	Requesting indemnification for your damages which are caused by unlawful processing of your personal data. 
+Samsung or our Data Controller Representative shall receive and evaluate the data subject requests through the “Samsung Electronics Co., Ltd. Data Subject Application Form” available on https://www.samsung.com/tr/info/kvkk/. Samsung or our Data Controller Representative shall conclude your application free of charge in accordance with Article 13 of the KVKK according to the nature of the request, and within 30 (thirty) days at the latest. If the request is rejected, the reason(s) for rejection shall be notified to you in writing or electronically together with the relevant grounds. 
+Your Other Rights
+In addition to the Related Person Rights requests that are specified in 5.1 and which you can submit to Samsung or Data Controller Representative, rights below also have been offered and automated by Samsung for your use.
+•	Examining your data that we collect (specific to the relevant application)
+•	Deleting your data on Samsung apps and services (specific to the relevant application)
+•	Updating your Samsung Account information
+You can access the relevant rights on https://privacy.samsung.com/#/. Samsung reserves the right to change the scope of these rights. 
+
+UPDATES TO THIS KVKK Notification Text 
+
+This KVKK Notification Text may be updated to let you know about changes in how we collect and process your information in Galaxy Wearable or changes in related laws. The date when the document was last updated is shown at the top of this KVKK Notification Text. You may access the most up-to-date version of this KVKK Notification Text on Legal information page of Galaxy Wearable. 
+
+Version:P07.03.00

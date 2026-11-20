@@ -1,0 +1,12 @@
+version: 2.12.1
+apkFileName: Galaxy Buds2_8.5.26070351.apk
+doNotCompress:
+- arsc
+- jpg
+- ogg
+- png
+- so
+- wav
+- webp
+- assets/dexopt/baseline.prof
+- assets/dexopt/baseline.profm

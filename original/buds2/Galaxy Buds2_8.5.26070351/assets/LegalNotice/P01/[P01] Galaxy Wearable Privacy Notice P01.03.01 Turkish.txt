@@ -1,0 +1,57 @@
+﻿Galaxy Wearable Gizlilik Bildirimi
+
+Son güncelleme: 1 Ağustos 2021
+
+Samsung Electronics Co., Ltd. olarak müşterilerimiz için gizliliğin ne kadar önemli olduğunu biliyoruz. Bu Gizlilik Bildirimini kişisel bilgilerinizi nasıl topladığımızı ve kullandığımızı anlamanızı sağlamak için oluşturmuş bulunuyoruz. 
+
+Gizlilik Politikamız – https://account.samsung.com/membership/terms/privacypolicy adresinde bulunmaktadır - Galaxy Wearable kullanımınız için de geçerlidir. Gizlilik Politikamız verilerinizi nasıl kullandığımız hakkında daha fazla bilgi içermektedir. Ayrıca, bizimle nasıl iletişim kurabileceğiniz hakkında da bilgi içermektedir. Lütfen, bu Gizlilik Bildirimine ek olarak Gizlilik Politikamızı okuyun. Ancak bu Gizlilik Bildirimi Gizlilik Politikasından her zaman için önce gelir.
+
+HANGİ BİLGİLERİ TOPLARIZ?
+
+Galaxy Wearable’ınız vasıtası ile, sizin hakkınızda çeşitli yollar ile bilgiler elde ederiz ve saklarız. 
+
+Doğrudan Sağladığınız Bilgiler
+
+• Galaxy Wearable cihazınız ile Samsung account’ta oturum açtığınız zaman, Samsung account kimliğiniz gibi Samsung account bilgileri.
+
+Galaxy Wearable’ınızı Kullanımınız Hakkındaki Bilgiler
+
+• Cihazlarınız hakkında cihaz türü, cihaz modeli, işletim sistemi türü ve sürümü, cihaz tanımlayıcılar ve başka benzersiz tanımlayıcılar, mobil ağ sağlayıcılar, cihaz yapılandırmaları ve ayarları gibi bilgiler;
+• GPS, Bluetooth ve WiFi sinyalleri aracılığı ile konumunuz ile ilgili bilgiler. Galaxy Wearable’ınızın bazı özellikleri cihazınızın tam coğrafi konumunun toplanmasını gerektirir ve bu durumlarda coğrafi konumunuzu toplayacağız ama yalnızca sizin izniniz ile. Bir Galaxy Wearable özelliği tam coğrafi konumunuzun toplanmasına gerek duyduğu zaman cihazınız size bildirimde bulunacaktır. Galaxy Wearable’ın tam coğrafi konumunuzu toplamasına izin vermediğiniz takdirde Galaxy Wearable’ın özelliklerinin hepsini kullanamayabileceğinizi unutmayın; 
+• Cihazınız bir Uzak Bağlantı özelliği sağladığı takdirde (Galaxy Watch3 ve önceki modellerde bulunur), örneğin Galaxy Wearable’ınızın telefonunuzdan mesajlar alabilmesi için mobil cihazınızı Galaxy Wearable cihazınıza Bluetooth yerine Wi-Fi veya mobil veri üzerinden bağlamanız gibi, alınan mesajların ve e-postaların bildirimleri ve içeriği gibi (mesajların ve medya dosyalarının içeriği dahil) mobil cihazınıza kurulmuş uygulamalar hakkında bilgiler;
+• Yedek ve Geri Yükle özelliklerini kullanmanız halinde yazılım sürümü, satış kodları, kurulmuş ve son kullanılmış uygulamalar listesi, kurulmuş uygulamaların verileri ve ayarları, Saat şekli dahil ana ekran ayarları, uygulamalar ve widget’lar, bildirim ayarları, ekran, ses ve titreşim dahil sistem ayarları ve
+• Teşhis verisi göndermeyi kabul etmiş olmanız halinde teşhis, teknik, hata ve Galaxy Wearable’ınızı kullanımınızın zamanı ve süresi gibi kullanım bilgileri, sizin tarafınızdan kurulan uygulamalar ve uygulamaları ne süre kullandığınız ve ne zaman açıp kapattığınız.
+
+Ayrıca, topladığımız sırada size açıkladığımız şekillerde siz, Galaxy Wearable’ınız, uygulamalarınız, Galaxy Wearable’a bağlı olan cihazlarınız ve Galaxy Wearable kullanımınız ile ilgili başka bilgiler de toplayabiliriz ve gerekli olduğu zaman onayınızı alacağız.
+
+BİLGİLERİNİZİ NASIL KULLANIRIZ?
+
+• Galaxy Wearable’ınız için kayıt yaptırmanıza ve onu kullanmanıza yardım etmek için. 
+• İstediğiniz hizmetleri ve özellikleri sağlamak için. 
+• Taleplerinize ve sorularınıza yanıt vermek ve Galaxy Wearable ürününüzle ilgili teknik destek talep ettiğinizde yardım sağlamak dahil olmak üzere Galaxy Wearable ürününüz hakkında sizinle iletişim kurmak. 
+• Seçilmiş Samsung veya üçüncü taraf uygulamaları ve hizmetleri ile etkileşimde bulunmanıza ve onları kullanmanıza olanak vermek. Örneğin uygulamalarınızı ve ayar bilgilerinizi Samsung Cloud’a yedekleyebilir veya Galaxy Wearable cihazınızda Samsung Health uygulamasını kullanabilirsiniz.
+• Galaxy Wearable ürününüz ile ilgili özelleştirilmiş içerik ve hizmetler sağlamak. 
+• Ancak bize ayrı bir onay verdiğiniz zaman doğrudan pazarlama iletişimleri vasıtası ile tanıtımlar ve teklifler sağlamak için (örneğin anlık bildirimler, e-postalar ve metin mesajları ile).
+• Galaxy Wearable’ı ve işimizi yürütmek, değerlendirmek ve iyileştirmek (yeni ürünlerin ve hizmetlerin geliştirilmesi; ürünlerimizin ve hizmetlerimizin artırılması ve iyileştirilmesi; iletişimlerimizin yönetilmesi; ürünlerimizin, hizmetlerimizin ve müşteri tabanımızın analiz edilmesi; pazarlama araştırması yürütülmesi; veri analizlerinin gerçekleştirilmesi ve muhasebe, denetleme ve diğer dahili işlevlerin gerçekleştirilmesi dahil).
+• Ürünlerimiz ve hizmetlerimiz hakkındaki düşüncelerinizi istemek ve müşteri anketleri gerçekleştirmek için; gerekmesi halinde ayrı onayınız ile.
+• Galaxy Wearable’ınız için yazılım güncellemeleri, bakım hizmetleri ve destek sağlamak için.
+• Sahtekarlığa ve diğer suç faaliyetlerine, iddialara ve diğer yükümlülüklere karşı koruma sağlamak, bunları belirlemek ve önlemek.
+• Bu Gizlilik Bildirimi ve Gizlilik Politikası dahil geçerli yasal gerekliliklere, ilgili endüstri standartlarına ve politikalarımıza uymak ve bunları uygulatmak.
+
+Galaxy Wearable’ınız başka Samsung veya üçüncü taraf uygulamalarına, hizmetlerine ve özelliklerine bağlanma veya onları kullanma yeteneği sağlayabilir. Örneğin Galaxy Wearable cihazınızda Samsung Health veya Bixby Voice kullanma olanağınız bulunabilir. Bu Samsung ve üçüncü taraf uygulamaları, hizmetleri ve özellikleri kendi gizlilik bildirimlerine sahip olabilir. Bu hizmetlerin size ait bilgileri nasıl işlediğini anlamanızı sağlamak için bu belgeleri inceleyin. Bağlantı verilen veya gösterilen herhangi bir diğer uygulama, hizmet veya başka bir özellik bizim tarafımızdan sahip olunmadığı veya kontrol edilmediği sürece onun içerik, kullanım veya gizlilik uygulamalarından biz sorumlu olmayız.
+
+BİLGİLERİNİZİ KİMİN İLE PAYLAŞIRIZ?
+
+Bilgilerinizi yalnızca yukarıda açıklanan amaçlar için şirketimiz içinde dahili şekilde ve aşağıdaki kuruluşlara açıklayacağız.
+
+• Bağlı kuruluşlar: kontrol ettiğimiz veya sahip olduğumuz diğer Samsung Electronics Grup şirketleri;
+• Hizmet sağlayıcılar: bizim için bizim adımıza hizmetler sağlayan dikkatle seçilmiş şirketler, örneğin bizim adımıza verileri tutan veri sunucuları. Bu sağlayıcılar da bilgilerinizi korumaya bağlıdır;
+• Yasa gerektirdiği zaman veya Galaxy Wearable’nızı korumak için gerektiğinde diğer taraflar: örneğin yasa, hukuki süreç veya idari yetkililerden gelen mahkeme emri gereğinde bilgilerinizi açıklamak gerekebilir. Bunlar yasal yaptırım, ulusal güvenlik, terörizm ile mücadele amaçları veya kamu güvenliği ile ilgili başka konular için bizden bilgilerinizi isteyebilirler;
+• Kurumsal işlemler ile bağlantılı şekilde başka taraflar: Bir şirket birleşmesi veya aktarımı, satın alma veya satma işleminin bir parçası olarak veya bir iflas durumunda bilgilerinizi açıklayabiliriz ve
+• Sizin onayınız ile veya takdirinize göre başka taraflar: bu Gizlilik Bildiriminde belirtilen bilgilerin açıklanmalarına ek olarak, söz konusu paylaşmaya siz ayrı şekilde onay verdiğiniz veya bunu talep ettiğiniz zaman hakkınızdaki bilgileri üçüncü taraflar ile paylaşabiliriz.
+
+BU GİZLİLİK BİLDİRİMİNDE GÜNCELLEMELER
+
+Bu Gizlilik Bildirimi, Galaxy Wearable’ınız için bilgilerinizi toplama ve işleme şeklimizdeki değişiklikleri veya ilgili yasalardaki ve yönetmeliklerdeki değişiklikleri size bildirmek için güncellenebilir. Belgenin son güncellendiği tarih bu Gizlilik Bildiriminin en üstünde gösterilir.
+
+Version:P01.03.01

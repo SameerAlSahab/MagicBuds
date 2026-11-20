@@ -1,0 +1,56 @@
+﻿Déclaration de confidentialité pour Galaxy Wearable
+
+Dernière mise à jour : 1er août 2021
+
+Chez Samsung Electronics Co., Ltd., nous connaissons l’importance de la protection de la confidentialité pour nos clients. Nous avons établi la présente Déclaration de confidentialité pour nous assurer que vous comprenez la façon dont nous collectons et utilisons vos données à caractère personnel. 
+
+Notre Politique de confidentialité, qui est disponible à l’adresse https://account.samsung.com/membership/terms/privacypolicy, s’applique également à votre utilisation de Galaxy Wearable. Notre Politique de confidentialité contient de plus amples informations quant à la façon dont nous utilisons vos données. Elle comprend également des informations vous indiquant comment nous contacter. Veuillez lire notre Politique de confidentialité en plus de la présente Déclaration de confidentialité. Toutefois, veuillez noter que la présente Déclaration de confidentialité prévaudra en toutes circonstances sur la Politique de confidentialité.
+
+QUELLES INFORMATIONS COLLECTONS-NOUS ?
+
+Par l’intermédiaire de votre Galaxy Wearable, nous recueillons et conservons des données vous concernant de différentes façons. 
+
+Informations que vous fournissez directement
+
+• Lorsque vous vous connectez à votre Samsung account avec votre appareil Galaxy Wearable, les informations qui figurent sur votre Samsung account, telles que votre identifiant (ID) Samsung account.
+
+Informations sur l’utilisation que vous faites de votre Galaxy Wearable
+
+• Les informations concernant vos appareils, telles que le type de l’appareil, le modèle de l’appareil, les identifiants de l’appareil et les autres identifiants uniques, les fournisseurs d’accès mobile, les configurations et les paramètres de l’appareil ;
+• Les informations relatives à votre position via les signaux GPS, Bluetooth et Wi-Fi. Certaines fonctions de votre Galaxy Wearable nécessitent de connaître la géolocalisation précise de votre appareil, et, dans ces cas, nous collecterons votre géolocalisation, mais uniquement avec votre autorisation. Votre appareil vous notifiera lorsqu’une fonction Galaxy Wearable a besoin de collecter votre géolocalisation précise. Veuillez noter que si nous n’autorisez pas Galaxy Wearable à collecter votre géolocalisation précise, il se peut que vous ne puissiez pas utiliser l’ensemble des fonctions de Galaxy Wearable ; 
+• Si votre appareil dispose d’une fonction de Connexion à distance (disponible sur la Galaxy Watch3 et sur les modèles antérieurs), telle que lorsque vous connectez votre appareil mobile à un appareil Galaxy Wearable via le Wi-Fi ou les données mobiles plutôt que via le Bluetooth afin que votre Galaxy Wearable puisse recevoir des messages provenant de votre téléphone, les informations concernant les applications installées sur votre appareil mobile, telles que les notifications et le contenu des messages et emails reçus (y compris le contenu des messages et des fichiers de média) ; 
+• Si vous utilisez la fonction Sauvegarde et Restauration, la version des logiciels, les codes de vente, la liste des applications récemment installées et utilisées, les données et les paramètres des applications installées, les paramètres de l’écran d’accueil, y compris le cadran, les applications et les widgets, les paramètres de notification, les paramètres système, y compris l’affichage, les sons et vibrations ; et
+• Si vous avez accepté d’envoyer des données de diagnostic, les informations diagnostiques, techniques, relatives aux erreurs et d’utilisation, telles que l’heure et la durée de votre utilisation de votre Galaxy Wearable, les applications que vous avez installées, ainsi que la durée pendant laquelle et l’heure à laquelle vous avez ouvert ou fermé les applications.
+
+Nous collectons également des informations à propos de vous, de votre Galaxy Wearable et de vos applications, de vos appareils connectés à Galaxy Wearable et de votre utilisation de Galaxy Wearable de la manière décrite lors de la collecte et, chaque fois que nécessaire, nous obtiendrons votre consentement.
+
+COMMENT UTILISONS-NOUS VOS INFORMATIONS ?
+
+• Pour vous aider à vous inscrire et à utiliser votre Galaxy Wearable. 
+• Pour fournir des services et fonctions que vous demandez.
+• Pour répondre à vos demandes et questions, et pour communiquer avec vous au sujet de votre Galaxy Wearable, y compris pour vous aider lorsque vous demandez une assistance technique liée à votre Galaxy Wearable. 
+• Pour vous permettre d’interagir avec certains services, fonctions et applications Samsung ou tiers. Par exemple, il est possible que vous puissiez sauvegarder les informations liées à vos applications et paramètres sur le Samsung Cloud ou que vous puissiez utiliser Samsung Health sur votre Galaxy Wearable.
+• Pour vous fournir un contenu et des services personnalisés liés à votre Galaxy Wearable. 
+• Pour vous proposer des promotions, et des offres au moyen de communications de prospection (telles que des notifications push, des emails et des SMS), seulement si vous nous avez donné votre consentement spécifique.
+• Pour exploiter, évaluer et améliorer Galaxy Wearable, ainsi que nos activités (y compris développer de nouveaux produits et services, améliorer nos produits et services, gérer nos communications, analyser nos produits, nos services et notre base de clients, effectuer des études de marché, effectuer des analyses de données, assurer les fonctions de comptabilité, d’audit et d’autres fonctions internes).
+• Pour vous demander votre avis au sujet de nos produits et services et réaliser des enquêtes auprès des clients, si nécessaire, avec votre consentement spécifique.
+• Pour fournir des mises à jour logicielles, des services de maintenance et une assistance concernant votre Galaxy Wearable.
+• Pour assurer une protection contre la fraude et d’autres activités criminelles, réclamations et autres responsabilités, les identifier et les empêcher.
+• Pour respecter et faire respecter les obligations légales applicables, les normes du secteur concerné et nos politiques, y compris la présente Déclaration de confidentialité et la Politique de confidentialité.
+
+Votre Galaxy Wearable peut vous permettre de vous connecter à des applications, services et fonctions de Samsung ou de tiers, et de les utiliser. Par exemple, il est probable que vous puissiez utiliser Samsung Health ou Bixby Voice sur votre appareil Galaxy Wearable. Il se peut que ces applications, services et fonctions de Samsung et de tiers s’accompagnent de leurs propres déclarations de confidentialité. Consultez-les pour vous assurer de comprendre comment ces services traitent vos informations. Dans la mesure où nous ne détenons ni ne contrôlons les autres applications, services ou autres fonctions liés ou affichés, nous ne sommes pas responsables du contenu qui y figure, de l’utilisation qui en est faite, ou des pratiques de confidentialité qu’ils respectent.
+
+AVEC QUI PARTAGEONS-NOUS VOS INFORMATIONS ?
+
+Nous divulguerons vos informations en interne, au sein de notre société, et aux entités suivantes, mais uniquement aux fins décrites ci-dessus.
+• À nos sociétés affiliées : les autres sociétés du groupe Samsung Electronics que nous contrôlons ou possédons ; 
+• À nos opérateurs : des sociétés soigneusement sélectionnées qui fournissent des services pour nous ou pour notre compte, telles que les serveurs de données qui conservent les données pour notre compte. Lesdits opérateurs s’engagent également à protéger vos informations à caractère personnel ; 
+• À d’autres parties lorsque la loi l’exige ou lorsque cela est nécessaire à la protection de votre Galaxy Wearable : par exemple, la divulgation de vos informations à caractère personnel peut être nécessaire en vertu de la législation, d’une procédure ou d’une ordonnance judiciaire émanant d’autorités gouvernementales. Celles-ci peuvent également nous demander de leur fournir vos informations à caractère personnel à des fins de maintien de l’ordre, de sécurité nationale, de lutte contre le terrorisme ou toute autre question liée à la sécurité publique ; 
+• À d’autres parties dans le cadre des transactions de la société : nous pouvons divulguer vos informations à caractère personnel à un tiers dans le cadre d’une fusion ou d’un transfert, d’une acquisition ou d’une vente, ou en cas de faillite ; et
+• À d’autres parties avec votre consentement ou sur demande de votre part : outre les divulgations susmentionnées dans la présente Déclaration de confidentialité, nous pouvons partager des informations vous concernant avec des tiers lorsque vous consentez séparément à un tel partage ou en faites la demande.
+
+MISE À JOUR DE LA PRÉSENTE DÉCLARATION DE CONFIDENTIALITÉ
+
+La présente Déclaration de confidentialité est susceptible d’être mise à jour pour vous informer de tout changement apporté à la façon dont nous collectons et traitons vos informations concernant votre Galaxy Wearable ou de tout changement apporté aux lois applicables. La date à laquelle le document a été mis à jour pour la dernière fois est indiquée en tête de la présente Déclaration de confidentialité. 
+
+Version:P01.03.01

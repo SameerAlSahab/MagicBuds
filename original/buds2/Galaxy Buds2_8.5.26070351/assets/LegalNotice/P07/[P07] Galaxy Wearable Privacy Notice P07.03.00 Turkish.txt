@@ -1,0 +1,110 @@
+﻿Galaxy Wearable Gizlilik Bildirimi
+
+Yürürlük Tarihi: 1 Ağustos 2021 
+
+Biz, Samsung Electronics Co., Ltd. (“Samsung”) olarak, müşterilerimiz için gizliliğin ne kadar önemli olduğunu biliyoruz. Samsung, Galaxy Wearable için veri sorumlusudur. Samsung’un Türkiye’deki Veri Sorumlusu Temsilcisi, “Samsung Electronics İstanbul Pazarlama ve Ticaret Ltd. Şti.”dir. Bu Gizlilik Bildirimini (“KVKK Notification Text”) kişisel bilgilerinizi nasıl topladığımızı ve kullandığımızı anladığınızdan emin olmak için hazırladık. 
+Samsung, Galaxy Wearable kullanıcılarının kişisel verilerini uluslararası veri koruması hükümlerine ve 6698 Sayılı Kişisel Verilerin Korunması Kanununun (“KVKK”- ayrıca İngilizce kısaltması olan “LPPD” olarak da bilinmektedir) ve diğer mevzuatın hükümlerine uygun şekilde işlemeyi amaçlamaktadır. 
+Bir Galaxy Wearable kullanıcısı olmanız nedeni ile Samsung’a sağladığınız/sağlayacağınız ve/veya Samsung tarafından herhangi bir yoldan dışarıdan elde edilen kişisel verilerinizin “Veri Sorumlusu” olarak hareket eden Samsung tarafından şu şekilde işleneceğini bu belge ile size bildiririz: 
+• bunların işlenmesi gereken amacın çerçevesi içinde ve söz konusu amaç ile ilgili, sınırlı ve orantılı şekilde, 
+• söz konusu kişisel verilerin Samsung’a sizin tarafınızdan veya başka bir şekilde sağlanmış olduğu gibi doğruluğunu ve en güncel durumunu koruyarak,
+• ve KVKK’da belirtilen koşullara uyarak. 
+
+Bu KVKK Notification Text (Bildirim Yükümlülüğü Metni) ile Samsung tarafından yürütülen faaliyetleri KVKK’da bulunan ilkelere uygun şekilde sürdürmeyi ve geliştirmeyi amaçlıyoruz. 
+Samsung Gizlilik Politikamız https://account.samsung.com/membership/terms/privacypolicy adresindedir ve Galaxy Wearable kullanımınız için de geçerlidir. Gizlilik Politikamız verilerinizi nasıl kullandığımız hakkında daha fazla bilgi içermektedir. Ayrıca, haklarınız ve bizimle nasıl iletişim kurabileceğiniz hakkında da bilgi içermektedir. Lütfen, bu KVKK Notification Text’e ek olarak Gizlilik Politikamızı okuyun. Ancak bu KVKK Notification Text, Galaxy Wearable için bilgilerinizi nasıl kullandığımız ile ilgili olarak daima Gizlilik Politikasından önce gelecektir.
+
+HANGİ BİLGİLERİ TOPLARIZ?
+
+Samsung, kişisel verilerinizi bu KVKK Notification Text’te belirtilen amaçlar ve yasal gerekçeler temelinde işleyecektir. Kişisel verilerinizin işlenme amacında veya bunların yasal gerekçelerinde bir değişiklik olması durumunda bu KVKK Notification Text Samsung tarafından güncellenecek ve yeniden yayınlanacaktır. 
+
+Samsung, Galaxy Wearable vasıtası ile çeşitli yollardan sizin hakkınızda bilgiler elde eder ve saklar. Kişisel verileriniz, hem sözleşme ilişkisi kurulmadan önce hem sonra ve söz konusu sözleşme ilişkisi sırasında Samsung’a göndermiş olduğunuz ve başvuru yolu ile toplanan her türlü bilgi, belge ve sertifikalar aracılığı ile elektronik medya üzerinden toplanır.
+
+Doğrudan Sağladığınız Bilgiler
+
+• Galaxy Wearable cihazınızda Samsung account’ta oturum açtığınızda: Samsung account kimliğiniz gibi Samsung account bilgileri.
+
+Galaxy Wearable’ınızı Kullanımınız Hakkındaki Bilgiler
+
+Sağladığınız bilgilere ek olarak, Galaxy Wearable hizmetimizi kullanımınız hakkında cihazlarınızda yer alan yazılımlar ve diğer yöntemler aracılığıyla bilgi toplarız. Şunları toplayacağız: 
+
+• Cihazlarınız hakkında cihaz türü, cihaz modeli, işletim sistemi türü ve sürümü, cihaz tanımlayıcılar ve başka benzersiz tanımlayıcılar, mobil ağ sağlayıcılar, cihaz yapılandırmaları ve ayarları gibi bilgiler;
+• GPS, Bluetooth ve Wi-Fi sinyalleri aracılığıyla konumunuzla ilgili bilgiler. Galaxy Wearable’ınızın bazı özellikleri cihazınızın tam coğrafi konumunun toplanmasını gerektirir ve bu durumlarda coğrafi konumunuzu toplayacağız ama yalnızca sizin izniniz ile. Bir Galaxy Wearable özelliği tam coğrafi konumunuzun toplanmasına gerek duyduğu zaman cihazınız size bildirimde bulunacaktır. Galaxy Wearable’ın tam coğrafi konumunuzu toplamasına izin vermediğiniz takdirde Galaxy Wearable’ın özelliklerinin hepsini kullanamayabileceğinizi unutmayın; 
+• Cihazınız Uzaktan Bağlantı özelliği sunuyorsa (Galaxy Watch3 ve önceki modellerde kullanılabilir) ve bu özelliği kullanıyorsanız, örneğin, Galaxy Wearable’ınızın telefonunuzdan mesajlar alabilmesi için mobil cihazınızı Galaxy Wearable cihazınıza Bluetooth yerine Wi-Fi veya mobil veri üzerinden bağlıyorsanız, mobil cihazınızda yüklü uygulamalar hakkında bilgi toplayacağız, örneğin bildirimler ve alınan mesajların ve epostaların içeriği gibi (mesajların ve medya dosyalarının içeriği dahil) ve 
+• Yedek ve Geri Yükle özelliğini kullanmanız halinde yazılım sürümü, satış kodları, kurulmuş ve son kullanılmış uygulamalar listesi, kurulmuş uygulamaların verileri ve ayarları, Saat şekli dahil ana ekran ayarları, uygulamalar ve widget’lar, bildirim ayarları, ekran, ses ve titreşim dahil sistem ayarlarını toplayacağız.
+• Teşhis verisi göndermekle ilgili tercihinize göre teşhis, teknik, hata ve Galaxy Wearable’ınızı kullanımınızın zamanı ve süresi, sizin tarafınızdan kurulan uygulamalar ve uygulamaları ne kadar süre kullandığınız ve ne zaman açıp kapattığınız gibi kullanım bilgilerini toplayacağız.
+
+Ayrıca, topladığımız sırada size açıkladığımız şekillerde siz, Galaxy Wearable’ınız, uygulamalarınız, Galaxy Wearable’a bağlı olan cihazlarınız ve Galaxy Wearable kullanımınız ile ilgili başka bilgiler de toplayabiliriz ve gerekli olduğu zaman sizin onayınızı alacağız.
+
+BİLGİLERİNİZİ NASIL KULLANIRIZ?
+
+Toplanan bilgileri aşağıdaki amaçlar için kullanırız:
+
+• Galaxy Wearable’ınız için kayıt yaptırmanıza ve onu kullanmanıza yardım etmek için. 
+• İstediğiniz hizmetleri ve özellikleri sağlamak için. 
+• Taleplerinize ve sorularınıza yanıt vermek ve Galaxy Wearable ürününüzle ilgili teknik destek talep ettiğinizde yardım sağlamak dahil olmak üzere Galaxy Wearable ürününüz hakkında sizinle iletişim kurmak için.
+• Seçilmiş Samsung veya üçüncü taraf uygulamaları ve hizmetleri ile etkileşimde bulunmanıza ve onları kullanmanıza olanak vermek için. Örneğin uygulamalarınızı ve ayar bilgilerinizi Samsung Cloud’a yedekleyebilir veya Galaxy Wearable cihazınızda Samsung Health uygulamasını kullanabilirsiniz.
+• Galaxy Wearable’ı ve işimizi yürütmek, değerlendirmek ve iyileştirmek için (yeni ürünlerin ve hizmetlerin geliştirilmesi; ürünlerimizin ve hizmetlerimizin artırılması ve iyileştirilmesi; iletişimlerimizin yönetilmesi; ürünlerimizin, hizmetlerimizin ve müşteri tabanımızın analiz edilmesi; pazarlama araştırması yürütülmesi; veri analizlerinin gerçekleştirilmesi ve muhasebe, denetleme ve diğer dahili işlevlerin gerçekleştirilmesi dahil).
+• Ürünlerimiz ve hizmetlerimiz hakkındaki düşüncelerinizi istemek ve müşteri anketleri gerçekleştirmek için.
+• Galaxy Wearable’ınız için yazılım güncellemeleri, bakım hizmetleri ve destek sağlamak için.
+• Sahtekarlığa ve diğer suç faaliyetlerine, iddialara ve diğer yükümlülüklere karşı koruma sağlamak, bunları belirlemek ve önlemek için ve
+• Bu KVKK Notification Text ve Gizlilik Politikası dahil geçerli yasal gerekliliklere, ilgili endüstri standartlarına ve politikalarımıza uymak ve bunları uygulatmak için.
+
+Galaxy Wearable’ınız başka Samsung veya üçüncü taraf uygulamalarına, hizmetlerine ve özelliklerine bağlanma veya onları kullanma yeteneği sağlayabilir. Örneğin Galaxy Wearable cihazınızda Samsung Health veya Bixby Voice kullanma olanağınız bulunabilir. Bu Samsung ve üçüncü taraf uygulamaları, hizmetleri ve özellikleri kendi gizlilik bildirimlerine sahip olabilir. Bu hizmetlerin size ait bilgileri nasıl işlediğini anlamanızı sağlamak için bu belgeleri inceleyin. Bağlantı verilen veya gösterilen herhangi bir diğer uygulama, hizmet veya başka bir özellik bizim tarafımızdan sahip olunmadığı veya kontrol edilmediği sürece onun içerik, kullanım veya gizlilik uygulamalarından biz sorumlu olmayız.
+
+HERE özelliğini kullanmayı seçerseniz Here’ın kullanıcı verilerini kendisinin toplayacağını lütfen unutmayın. Kişisel veri işleme ayrıntılarınız için lütfen onların gizlilik politikalarına bakın.
+
+Samsung yukarıda açıklanan amaçlar ile kişisel bilgileri işler. Samsung’un kişisel bilgileri işlemesinin yasal dayanağı aşağıda özetlenmiştir: 
+
+Kişisel verileriniz, yürürlükteki mevzuata ve Kişisel Verilerin Korunması Kanununa uygun şekilde; otomatik olan veya olmayan yöntemler ile ilgili hizmet/platform tarafından kullanıldıkları ölçüde işlenir; 
+• KVKK’de Madde 5 paragraf 2 alt paragraf c)’de belirtildiği gibi ‘bir sözleşmenin oluşturulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin taraflarına ait kişisel verilerin işlenmesinin gerekli olması’ koşuluna ve aynı yerde alt paragraf f)’de belirtildiği gibi ‘veri sahibinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması’ koşuluna dayanarak;
+
+ve mevzuattan ve şirket politikalarından kaynaklanan yükümlülüklerimize uygun olarak güncellenebilir.
+Kişisel verileriniz, işlenme amaçları ortadan kalkıncaya kadar veya ilgili mevzuatta belirtilen yasal sürenin sonuna kadar ve her durumda zaman aşımının sonuna kadar makul bir süre boyunca saklanacaktır.
+
+BİLGİLERİNİZİ KİMİN İLE PAYLAŞIRIZ?
+
+Kişisel veri aktarımları için geçerli olan prosedürler ve ilkeler KVKK Madde 8 ve 9’da belirtilmiştir ve veri sahibinin kişisel verileri Türkiye’deki ve/veya yurt dışındaki üçüncü taraflara aktarılabilecektir.
+Bilgilerinizi yalnızca yukarıda açıklanan amaçlar için şirketimiz içinde dahili şekilde ve aşağıdaki kuruluşlara açıklayacağız.
+
+• Bağlı kuruluşlar: kontrol ettiğimiz veya sahip olduğumuz diğer Samsung Electronics Grup şirketleri; örneğin sunucu operatörleri;
+• Servis sağlayıcılar: bizim için bizim adımıza hizmetler sağlayan dikkatle seçilmiş şirketler, örneğin bizim adımıza verileri tutan veri sunucuları. Bu sağlayıcılar da bilgilerinizi korumaya bağlıdır;
+• Yasa gerektirdiği zaman veya Galaxy Wearable’ı korumak için gerektiğinde diğer taraflar: örneğin yasa, hukuki süreç veya idari yetkililerden gelen mahkeme emri gereğinde bilgilerinizi açıklamak gerekebilir. Bunlar yasal yaptırım, ulusal güvenlik, terörizm ile mücadele amaçları veya kamu güvenliği ile ilgili başka konular için bizden bilgilerinizi isteyebilirler;
+• Kurumsal işlemler ile bağlantılı şekilde başka taraflar: Bir şirket birleşmesi veya aktarımı, satın alma veya satma işleminin bir parçası olarak veya bir iflas durumunda bilgilerinizi açıklayabiliriz ve
+• Sizin onayınız ile veya takdirinize göre başka taraflar: Bu KVKK Notification Text içinde belirtilen bilgilerin açıklanmalarına ek olarak, söz konusu paylaşmaya siz ayrı şekilde onay verdiğiniz veya bunu talep ettiğiniz zaman hakkınızdaki bilgileri üçüncü taraflar ile paylaşabiliriz.
+
+BİLGİLERİNİZİ NE KADAR SÜRE ELDE TUTARIZ VE BİLGİLER NEREYE GİDER?
+
+Verilerinizin ne kadar süreyle saklanacağı, verilerinizi işlemek için kullanılan yasal dayanağa bağlıdır. Örneğin, sizinle sözleşmemizi gerçekleştirmek için işlediğimiz veriler, Galaxy Wearable kullandığınız süre boyunca verileri tutmamızı gerektirir. Galaxy Wearable’ın aktif bir kullanıcısı olduğunuz sürece bu verileri saklayacağız ve işleyeceğiz. Hesap bilgileriniz ve cihaz bilgileriniz ve tanımlayıcılar gibi veriler bu kategoriye girer.
+
+Galaxy Wearable kullanımınız gibi iş çıkarlarımızı desteklemek için işlediğimiz veriler, yalnızca toplandığı amaçlar için gerektiği kadar tutulur. Örneğin, bu veriler analiz yapmak için toplanabilir, böylece Galaxy Wearable üzerinde iyileştirmeler geliştirebiliriz veya müşteri hizmetleri deneyiminizi iyileştirmek için Galaxy Wearable üzerinden veya onun hakkında yaptığınız sorguların kaydını tutmak için verileri işleyebiliriz.
+
+Verilerinizi yukarıda açıklanan süre boyunca saklamayı hedeflememize rağmen, verilerinizin geçerli yasalar uyarınca daha uzun süre işlenebileceğini lütfen dikkate alın. Örneğin, özel bir kanun belirli bir veriyi tutmamızı zorunlu kılıyorsa, gerekli saklama süresi sona erene kadar buna uyarız ve verileri saklarız. 
+
+Verileriniz tarafımızca saklandığı sürece, verileriniz her zaman uygun korumalara tabi olacaktır.
+
+Galaxy Wearable kullanımınız kişisel bilgilerinizin başka ülkelere aktarılmasını, depolanmasını ve işlenmesini içerecektir; bu ülkeler arasında, bunlarla sınırlı olmamak üzere, İrlanda, Almanya, Kore Cumhuriyeti, Vietnam ve Hindistan bulunmaktadır. Tüm uluslararası veri aktarımları, kişisel bilgilerinizin güvenli ve beklediğiniz gibi işlenmesini sağlamak için yasal gerekliliklere tabidir.
+
+KVKK KAPSAMINDAKİ HAKLARINIZ
+
+KVKK kapsamında Veri Sahibinin Hakları
+KVKK Madde 11’e uygun olarak, kişisel verileriniz hakkında Samsung’a başvurabilir ve aşağıdaki konularda taleplerde bulunabilirsiniz:
+a.  Kişisel verilerinizin işlenmiş olup olmadığını öğrenmek,
+b. Kişisel verileriniz işlenmiş ise prosedür hakkında bilgi edinmek, 
+c. Kişisel verilerinizin işlenmiş olmasının amacını ve bunların söz konusu amaca uygun kullanılıp kullanılmadığını öğrenmek, 
+d. Kişisel verilerinizin Türkiye içinde veya yurt dışında aktarıldığı üçüncü taraflar hakkında bilgi edinmek,
+e. Kişisel verilerinizin eksik veya yanlış işlenmiş olması halinde bunların düzeltilmesini istemek ve kişisel verilerinizin aktarıldığı üçüncü taraflara bu bakımdan yapılan düzeltmenin bildirilmesini talep etmek,
+f. Kişisel verilerinizin işlenme nedenleri artık mevcut olmadığı zaman bunların silinmesini, imha edilmesini veya anonimleştirilmesini talep etmek ve kişisel verilerinizin aktarıldığı üçüncü taraflara söz konusu silme, imha etme veya anonimleştirme prosedürünün bildirilmesini talep etmek,
+g. İşlenen kişisel verilerinizin yalnızca otomatik sistemler aracılığı ile analiz edilmesi sonucunda sizin için zararlı olan bir sonucun ortaya çıkmasına itiraz etmek,
+h. Kişisel verilerinizin yasa dışı şekilde işlenmesinden kaynaklanan zararlarınız için tazminat talep etmek. 
+Samsung veya Veri Sorumlusu Temsilcimiz, veri sahibi taleplerini, https://www.samsung.com/tr/info/kvkk/ adresinde bulunan “Samsung Electronics Co., Ltd. Veri Sahibi Başvuru Formu” vasıtası ile alacak ve değerlendirecektir. Samsung veya Veri Sorumlusu Temsilcimiz, talebin niteliğine göre ve en geç 30 (otuz) gün içinde KVKK Madde 13 uyarınca başvurunuzu ücretsiz olarak işleyecektir. Talebin reddedilmesi halinde ret neden(ler)i ilgili gerekçeler ile birlikte size yazılı olarak veya elektronik şekilde bildirilecektir. 
+Diğer Haklarınız
+5.1’de belirtilen ve Samsung’a veya Veri Sorumlusu Temsilcisine gönderebileceğiniz İlgili Kişi Hakları taleplerine ek olarak Samsung tarafından aşağıdaki haklar da kullanımınız için sağlanmış ve otomatikleştirilmiştir.
+• Topladığımız verilerinizi incelemek (ilgili uygulamaya özgü şekilde)
+• Samsung apps ve hizmetler üzerindeki verilerinizi silmek (ilgili uygulamaya özgü şekilde)
+• Samsung Account bilgilerinizin güncellenmesi
+İlgili haklara https://privacy.samsung.com/#/ adresinden erişebilirsiniz. Samsung bu hakların kapsamını değiştirme hakkını saklı tutar. 
+
+BU KVKK Notification Text’de GÜNCELLEMELER 
+
+Bu KVKK Notification Text, Galaxy Wearable’da bilgilerinizi toplama ve işleme şeklimizdeki değişiklikleri veya ilgili yasalardaki değişiklikleri size bildirmek için güncellenebilir. Belgenin son güncellendiği tarih bu KVKK Notification Text’in en üstünde gösterilir. Bu KVKK Notification Text’in en güncel sürümüne Galaxy Wearable’ın Yasal bilgiler sayfasından erişebilirsiniz. 
+
+Sürüm:P07.03.00

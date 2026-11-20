@@ -1,0 +1,51 @@
+Deutsch (Deutschland)
+mkwd_normal_deDE_gwapp.bin
+Musik spielen/Musik stoppen/Nächstes Lied/Vorheriges Lied/Lautstärke erhöhen/Lautstärke senken/Anruf beantworten/Anruf ablehnen
+English (Australia)
+mkwd_normal_enAU_gwapp.bin
+Play Music/Stop Music/Next Song/Previous Song/Volume Up/Volume Down/Answer Call/Reject Call
+English (India)
+mkwd_normal_enIN_gwapp.bin
+Play Music/Stop Music/Next Song/Previous Song/Volume Up/Volume Down/Answer Call/Reject Call
+English (United Kingdom)
+mkwd_normal_enGB_gwapp.bin
+Play Music/Stop Music/Next Song/Previous Song/Volume Up/Volume Down/Answer Call/Reject Call
+English (United States)
+mkwd_normal_enUS_gwapp.bin
+Play Music/Stop Music/Next Song/Previous Song/Volume Up/Volume Down/Answer Call/Reject Call
+Español (España)
+mkwd_normal_esES_gwapp.bin
+Reproducir Música/Parar Música/Siguiente Canción/Canción Anterior/Subir Volumen/Bajar Volumen/Contestar Llamada/Rechazar Llamada
+Español (Latinoamérica)
+mkwd_normal_esMX_gwapp.bin
+Reproducir Música/Parar Música/Siguiente Canción/Canción Anterior/Subir Volumen/Bajar Volumen/Contestar Llamada/Rechazar Llamada
+Français (Canada)
+mkwd_normal_frCA_gwapp.bin
+Joue de la musique/Arrête la musique/Chanson suivante/Chanson précédente/Monte le son/Baisse le son/Réponds à l'appel/Rejette l'appel
+Français (France)
+mkwd_normal_frFR_gwapp.bin
+Joue de la musique/Arrête la musique/Chanson suivante/Chanson précédente/Monte le son/Baisse le son/Réponds à l'appel/Rejette l'appel
+Italiano (Italia)
+mkwd_normal_itIT_gwapp.bin
+Riproduci musica/Ferma musica/Prossima canzone/Canzone precedente/Alza volume/Abbassa volume/Rispondi alla chiamata/Rifiuta chiamata
+Nederlands (Nederland)
+mkwd_normal_nlNL_gwapp.bin
+Speel muziek/Stop muziek/Volgend liedje/Vorig liedje/Volume omhoog/Volume omlaag/Oproep beantwoorden/Oproep weigeren
+Polski (Polska)
+mkwd_normal_plPL_gwapp.bin
+Włącz muzykę/Zatrzymaj muzykę/Następna piosenka/Poprzednia piosenka/Zwiększ głośność/Zmniejsz głośność/Odbierz połączenie/Odrzuć połączenie
+Português (Brasil)
+mkwd_normal_ptBR_gwapp.bin
+Tocar Música/Parar Música/Próxima Música/Música Anterior/Aumentar Volume/Abaixar Volume/Atender Chamada/Rejeitar Chamada
+Türkçe (Türkiye)
+mkwd_normal_trTR_gwapp.bin
+Müziği çal/Müziği durdur/Sıradaki şarkı/Önceki şarkı/Sesi aç/Sesi kıs/Aramayı yanıtla/Aramayı reddet
+한국어 (대한민국)
+mkwd_normal_koKR_gwapp.bin
+음악 재생/음악 정지/다음 노래/이전 노래/볼륨 올려/볼륨 내려/전화 수신/전화 거절
+简体中文 (中国)
+mkwd_normal_zhCN_gwapp.bin
+播放音乐/停止播放/后一首/前一首/增大音量/减小音量/接听电话/拒接电话
+العربية (الفصحى)
+mkwd_normal_arMSA_gwapp.bin
+شغل الموسيقى/أوقف الموسيقى/الأغنية التالية/الأغنية السابقة/ارفع الصوت/اخفض الصوت/أجب المكالمة/ارفض المكالمة

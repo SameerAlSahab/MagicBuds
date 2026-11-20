@@ -1,0 +1,56 @@
+﻿Thông báo Quyền riêng tư của Galaxy Wearable
+
+Cập nhật lần cuối: Ngày 1 tháng 8 năm 2021
+
+Tại Samsung Electronics Co., Ltd., chúng tôi hiểu quyền riêng tư quan trọng như thế nào đối với khách hàng của mình. Chúng tôi đã tạo Thông báo Quyền riêng tư này để bảo đảm bạn hiểu cách chúng tôi thu thập và sử dụng thông tin cá nhân của bạn. 
+
+Chính sách Quyền riêng tư của chúng tôi - có thể xem tại https://account.samsung.com/membership/terms/privacypolicy - cũng áp dụng cho việc bạn sử dụng Galaxy Wearable. Chính sách Quyền riêng tư của chúng tôi bao gồm nhiều thông tin hơn về cách chúng tôi sử dụng dữ liệu của bạn. Chính sách này cũng bao gồm thông tin về cách liên hệ với chúng tôi. Vui lòng đọc Chính sách Quyền riêng tư của chúng tôi cùng với Thông báo Quyền riêng tư này. Tuy nhiên, Thông báo Quyền riêng tư này luôn được ưu tiên áp dụng so với Chính sách Quyền riêng tư.
+
+CHÚNG TÔI THU THẬP THÔNG TIN NÀO?
+
+Thông qua Galaxy Wearable, chúng tôi thu thập và lưu giữ thông tin về bạn bằng nhiều cách khác nhau. 
+
+Thông tin Bạn Cung cấp Trực tiếp
+
+• Khi bạn đăng nhập vào Samsung Account trên thiết bị Galaxy Wearable, thông tin Samsung Account, chẳng hạn như ID Samsung Account của bạn.
+
+Thông tin về việc Bạn Sử dụng Galaxy Wearable
+
+• Thông tin về thiết bị của bạn, chẳng hạn như loại thiết bị, kiểu mẫu thiết bị, loại và phiên bản hệ điều hành, số nhận dạng thiết bị và các số nhận dạng duy nhất khác, nhà cung cấp mạng di động, cấu hình và cài đặt thiết bị;
+• Thông tin liên quan đến vị trí của bạn thông qua tín hiệu GPS, Bluetooth và WiFi. Một số tính năng của Galaxy Wearable cần phải thu thập vị trí địa lý chính xác của thiết bị và trong những trường hợp đó chúng tôi sẽ thu thập vị trí địa lý của bạn nhưng chỉ khi có sự cho phép của bạn. Thiết bị của bạn sẽ thông báo cho bạn khi tính năng Galaxy Wearable cần thu thập vị trí địa lý chính xác của bạn. Xin lưu ý rằng nếu bạn không cho phép Galaxy Wearable thu thập vị trí địa lý chính xác của mình, bạn có thể không sử dụng được tất cả các tính năng của Galaxy Wearable; 
+• Nếu thiết bị của bạn cung cấp tính năng Kết nối từ xa (khả dụng trên Galaxy Watch3 và các mẫu cũ hơn), chẳng hạn như kết nối thiết bị di động với thiết bị Galaxy Wearable của bạn qua Wi-Fi hoặc dữ liệu di động thay vì Bluetooth để Galaxy Wearable có thể nhận tin nhắn từ điện thoại của bạn, thông tin về các ứng dụng được cài đặt trên thiết bị di động của bạn chẳng hạn như các thông báo và nội dung của các tin nhắn và email đã nhận (bao gồm cả nội dung của các tin nhắn và tệp phương tiện); và 
+• Nếu bạn sử dụng tính năng Sao lưu và Khôi phục, phiên bản phần mềm, mã bán hàng, danh sách các ứng dụng đã cài đặt và sử dụng gần đây, dữ liệu và cài đặt của các ứng dụng đã cài đặt, các cài đặt màn hình chính bao gồm mặt đồng hồ, ứng dụng và widget, cài đặt thông báo, cài đặt hệ thống bao gồm màn hình, âm thanh và rung.
+• Nếu bạn đã đồng ý gửi dữ liệu chẩn đoán, thông tin về chẩn đoán, kỹ thuật, lỗi và sử dụng, chẳng hạn như thời gian và thời lượng bạn sử dụng Galaxy Wearable, các ứng dụng do bạn cài đặt cũng như thời lượng và thời điểm bạn mở hoặc đóng ứng dụng.
+
+Chúng tôi cũng có thể thu thập những thông tin khác về bạn, Galaxy Wearable và ứng dụng của bạn, thiết bị của bạn được kết nối với Galaxy Wearable, cũng như việc bạn sử dụng Galaxy Wearable theo các cách mà chúng tôi mô tả cho bạn tại thời điểm thu thập, và bất cứ khi nào điều này là cần thiết, chúng tôi sẽ cần sự đồng ý của bạn.
+
+CHÚNG TÔI SỬ DỤNG THÔNG TIN CỦA BẠN NHƯ THẾ NÀO?
+
+• Để trợ giúp bạn đăng ký và sử dụng Galaxy Wearable. 
+• Để cung cấp các dịch vụ và tính năng bạn yêu cầu. 
+• Để trả lời các yêu cầu và câu hỏi của bạn cũng như để liên lạc với bạn về Galaxy Wearable, bao gồm hỗ trợ khi bạn yêu cầu hỗ trợ kỹ thuật liên quan đến Galaxy Wearable của bạn. 
+• Để cho phép bạn tương tác với các ứng dụng, tính năng và dịch vụ đã chọn của Samsung hoặc bên thứ ba. Ví dụ, bạn có thể sao lưu các ứng dụng và thông tin cài đặt của mình vào Samsung Cloud hoặc sử dụng Samsung Health trên Galaxy Wearable của mình.
+• Để cung cấp nội dung và dịch vụ tùy chỉnh liên quan đến Galaxy Wearable của bạn. 
+• Để cung cấp các khuyến mãi và ưu đãi thông qua truyền thông tiếp thị trực tiếp (chẳng hạn như các thông báo đẩy, email và tin nhắn văn bản), chỉ khi bạn đã cung cấp cho chúng tôi sự đồng ý riêng của bạn.
+• Để vận hành, đánh giá và cải tiến Galaxy Wearable và hoạt động kinh doanh của chúng tôi (bao gồm việc phát triển các sản phẩm và dịch vụ mới, tăng cường cũng như cải tiến các sản phẩm và dịch vụ; quản lý truyền thông; phân tích sản phẩm, dịch vụ và cơ sở khách hàng; tiến hành nghiên cứu tiếp thị; thực hiện phân tích dữ liệu; và thực hiện quy trình kế toán, kiểm toán và các chức năng nội bộ khác).
+• Để hỏi ý kiến của bạn về các sản phẩm và dịch vụ của chúng tôi và để thực hiện các khảo sát khách hàng, nếu được yêu cầu, với sự đồng ý riêng của bạn.
+• Để cung cấp các bản cập nhật phần mềm, dịch vụ bảo trì và hỗ trợ cho Galaxy Wearable của bạn.
+• Để chống lại, xác định, đồng thời ngăn ngừa gian lận và hoạt động tội phạm khác, các khiếu nại và trách nhiệm pháp lý khác.
+• Để tuân thủ và thực thi các yêu cầu pháp lý hiện hành, các tiêu chuẩn ngành liên quan và các chính sách của chúng tôi; bao gồm Thông báo Quyền riêng tư này và Chính sách Quyền riêng tư.
+
+Galaxy Wearable của bạn có thể cung cấp khả năng kết nối hoặc sử dụng các ứng dụng, dịch vụ và tính năng khác của Samsung hoặc bên thứ ba. Ví dụ, bạn có thể sử dụng Samsung Health hoặc Bixby Voice trên thiết bị Galaxy Wearable của bạn. Các ứng dụng, dịch vụ và tính năng này của Samsung và bên thứ ba có thể có thông báo quyền riêng tư của riêng họ. Hãy xem lại các thông báo và chính sách đó để đảm bảo rằng bạn hiểu cách các dịch vụ đó xử lý thông tin của bạn. Trong phạm vi mà bất cứ ứng dụng, dịch vụ hoặc tính năng nào khác được liên kết hoặc hiển thị không thuộc sở hữu hoặc kiểm soát của chúng tôi, chúng tôi không chịu trách nhiệm về nội dung, việc sử dụng hoặc những nguyên tắc về quyền riêng tư của chúng.
+
+CHÚNG TÔI CHIA SẺ THÔNG TIN CỦA BẠN VỚI AI?
+
+Chúng tôi sẽ tiết lộ thông tin của bạn trong nội bộ doanh nghiệp của chúng tôi và cho các tổ chức sau đây, nhưng chỉ với các mục đích mô tả ở trên.
+* Công ty liên kết: các công ty khác của Tập đoàn Samsung Electronics mà chúng tôi kiểm soát hoặc sở hữu;
+* Nhà cung cấp dịch vụ: các công ty được lựa chọn cẩn thận cung cấp dịch vụ cho chúng tôi hoặc thay mặt chúng tôi, chẳng hạn như máy chủ dữ liệu duy trì dữ liệu thay mặt chúng tôi. Các nhà cung cấp này cũng cam kết bảo vệ thông tin của bạn;
+* Các bên khác khi được luật pháp yêu cầu hoặc khi cần thiết để bảo vệ Galaxy Wearable: ví dụ, có thể việc tiết lộ thông tin của bạn là cần thiết theo luật pháp, thủ tục pháp lý hoặc lệnh của tòa án từ các cơ quan chính phủ. Họ cũng có thể tìm kiếm thông tin của bạn từ chúng tôi cho các mục đích hành pháp, an ninh quốc gia, chống khủng bố hoặc các vấn đề khác có liên quan đến an ninh công cộng;
+* Các bên khác liên quan đến những giao dịch của công ty: chúng tôi có thể tiết lộ thông tin của bạn cho bên thứ ba như là một phần của việc sáp nhập hoặc chuyển nhượng, mua lại hoặc bán đi, hoặc trong trường hợp phá sản; và
+* Các bên khác với sự cho phép của bạn hoặc theo yêu cầu của bạn: ngoài những tiết lộ được mô tả trong Thông báo Quyền riêng tư này, chúng tôi có thể chia sẻ thông tin về bạn với các bên thứ ba khi bạn cho phép hoặc yêu cầu riêng việc chia sẻ đó.
+
+NHỮNG CẬP NHẬT CHO THÔNG BÁO QUYỀN RIÊNG TƯ NÀY
+
+Thông báo Quyền riêng tư này có thể được cập nhật để thông báo cho bạn về những thay đổi trong cách chúng tôi thu thập và xử lý thông tin của bạn dành cho Galaxy Wearable hoặc những thay đổi trong các luật và quy định có liên quan. Ngày mà tài liệu này đã được cập nhật lần cuối sẽ được hiển thị ở đầu Thông báo Quyền riêng tư này.
+
+Version:P01.03.01

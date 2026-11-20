@@ -1,0 +1,67 @@
+﻿Galaxy Wearable Privacy Notice
+
+Effective Date: July 1, 2023
+
+At Samsung Electronics Co., Ltd. (referred to as “Samsung Electronics”, “Samsung”, or “we” in this Privacy Notice), headquartered in 129, Samsung-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do 16677, Republic of Korea, we know how important privacy is to our customers. We created this Privacy Notice to make sure you understand how we collect and use your personal information. This Galaxy Wearable Privacy Notice applies to the personal information we obtain through your Galaxy Wearable device and its connected services and features (collectively, “Galaxy Wearable”). It does not apply to information collected by other apps, websites or services provided by Samsung.
+
+Our Privacy Policy at https://account.samsung.com/membership/terms/privacypolicy also to your use of Galaxy Wearable. Our Privacy Policy contains more information about how we use your personal data. It also includes information about your rights, how to contact us and other content. Please read our Privacy Policy in addition to this Privacy Notice. However, this Privacy Notice shall always prevail over the Privacy Policy in relation to how we use your information for Galaxy Wearable and other content stated herein.
+
+BY READING AND ACCEPTING/AGREEING TO THE PROCESSING OF YOUR PERSONAL DATA AND OTHER CONTENT STATED IN THIS PRIVACY NOTICE, YOU ALSO CONFIRM THAT YOU HAVE READ, UNDERSTOOD, AND AGREED TO THE PROCESSING OF YOUR PERSONAL DATA AND OTHER CONTENT STATED IN OUR PRIVACY POLICY POSTED AT HTTPS://ACCOUNT.SAMSUNG.COM/MEMBERSHIP/TERMS/PRIVACYPOLICY MENTIONED ABOVE.
+
+WHAT INFORMATION DO WE COLLECT?
+
+Through Galaxy Wearable, we obtain and maintain information about you, including your basic personal data and sensitive personal data as defined by the law of Vietnam (hereinafter referred to as the "Applicable Law”) in various ways. 
+
+Information You Provide Directly
+
+• When you log in to Samsung account on your Galaxy Wearable device, we may collect Samsung account information, such as your Samsung account ID.
+
+Information About Your Use of Galaxy Wearable
+
+In addition to the information you provide, we will collect information about your use of our Galaxy Wearable through software on your devices and by other means. We will collect: 
+
+• Information about your devices, such as device type, device model, OS type and version, device identifiers and other unique identifiers, mobile network providers, device configurations and settings;
+• Information related to your location through, GPS, Bluetooth and Wi-Fi signals: Some features of your Galaxy Wearable require the collection of your device’s precise geolocation, and in those instances, we will collect your geolocation, but only with your permission. Your device will notify you when a Galaxy Wearable feature needs to collect your precise geolocation. Please note that if you do not allow Galaxy Wearable to collect your precise geolocation, you may not be able to use all of the features of Galaxy Wearable. 
+• If your device offers a Remote Connection feature (available on Galaxy Watch3 and earlier models), such as connecting your mobile device to your Galaxy Wearable device over Wi-Fi or mobile data rather than Bluetooth so your Galaxy Wearable can receive messages from your phone: information about apps installed on your mobile device such as notifications and content of received messages and emails (including the content of messages and media files) 
+• If you use the Backup and Restore feature: software version, sales code, list of installed and recently used apps, data and settings of installed apps, home screen settings including watch face, apps and widgets, notification settings, system settings including display, sound and vibration
+• If you have agreed to sending diagnostic data: diagnostic, technical, error, and usage information such as the time and duration of your use of your Galaxy Wearable, apps installed by you and how long and when you open or close apps
+
+We also may collect other information about you, your devices and apps, and your use of Galaxy Wearable in ways that we describe to you at the time of collection or otherwise with your consent.
+
+
+HOW DO WE USE YOUR INFORMATION?
+
+We use the information collected for the following purposes:
+
+• To help you register for and use your Galaxy Wearable
+• To provide services and features you request
+• To respond to your requests and questions, and to communicate with you about your Galaxy Wearable, including providing assistance when you request technical support related to your Galaxy Wearable 
+• To allow you to interact with selected Samsung or third-party apps, features and services. For example, you may be able to back up your apps and settings information to Samsung Cloud or use Samsung Health on your Galaxy Wearable.
+• To provide customized content and services related to your Galaxy Wearable 
+• To provide promotions and offers through direct marketing communications (such as via push notifications, emails, and text messages), only where you have given us your separate consent
+• To operate, evaluate and improve Galaxy Wearable and our business (including developing new products and services, enhancing and improving our products and services; managing our communications; analyzing our products, services and customer base; conducting marketing research; performing data analytics; and performing accounting, auditing and other internal functions)
+• To ask you for your opinions about our products and services and to perform customer surveys, if so required, with your separate consent
+• To provide software updates, maintenance services, and support for your Galaxy Wearable
+• To protect against, identify and prevent fraud and other criminal activity, claims and other liabilities
+• To comply with and enforce applicable legal requirements, relevant industry standards and our policies, including this Privacy Notice and the Privacy Policy.
+
+
+Your Galaxy Wearable may provide the ability to connect to or use other Samsung or third-party apps, services and features. For example, you may be able to use Samsung Health or Bixby on your Galaxy Wearable device. These Samsung and third-party apps, services and features may have their own privacy notices. Review them to ensure that you understand how those services process your information. To the extent that any other linked or shown app, service, or other feature is not owned or controlled by us, we are not responsible for its content, use, or privacy practices.
+
+WHO DO WE SHARE YOUR INFORMATION WITH?
+
+We will disclose your information internally within our business and to the following entities, but only for the purposes described above.
+
+• Affiliates: These are other Samsung Electronics Group companies which we control or own.
+• Service providers: These are carefully selected companies that provide services for or on behalf of us, such as AWS, GCP, SDS IDC, Bespin Global Co., Ltd., and Samsung SDS Co., Ltd. These providers are also committed to protecting your information.
+• Other parties when required by law or as necessary to protect Galaxy Wearable: For example, it may be necessary by law, legal process, or court order from governmental authorities to disclose your information. They may also seek your information from us for the purposes of law enforcement, national security, anti-terrorism, or other issues that are related to public security.
+• Other parties in connection with corporate transactions: We may disclose your information to a third party as part of a merger or transfer, acquisition or sale, or in the event of bankruptcy.
+• Other parties with your consent or at your direction: In addition to the disclosures described in this Privacy Notice, we may share information about you with third parties when you separately consent to or request such sharing.
+
+Your use of Galaxy Wearable will involve the transfer, storage, and processing of your personal information to other countries; such countries include, without limitation, the Republic of Korea, Japan, Singapore, Germany, and Ireland. All international data transfers are subject to legal requirements under the Applicable Law to ensure that your personal information is processed safely and as you would expect.
+
+UPDATES TO THIS PRIVACY NOTICE
+
+This Privacy Notice may be updated to let you know about changes in how we collect and process your information in Galaxy Wearable or changes in related laws, including the Applicable Law. The date when the document was last updated is shown at the top of this Privacy Notice.
+
+Version: P10.03.01

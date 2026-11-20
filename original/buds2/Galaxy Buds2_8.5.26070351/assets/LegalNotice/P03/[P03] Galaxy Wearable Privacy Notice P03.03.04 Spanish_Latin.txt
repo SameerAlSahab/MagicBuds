@@ -1,0 +1,106 @@
+Aviso de Privacidad de Galaxy Wearable para EE. UU.
+
+Última actualización: 31 de diciembre de 2024
+
+Samsung Electronics Co., Ltd., junto con nuestras filiales y subsidiarias (en conjunto, “Samsung”) respetan sus inquietudes sobre la privacidad. Este Aviso de Privacidad de Galaxy Wearable para EE. UU. se aplica a la información personal que obtenemos a través de su dispositivo Galaxy Wearable y sus servicios y funciones conectados (denominados en conjunto “Galaxy Wearable”). No se aplica a la información recopilada por otras aplicaciones, sitios web o servicios provistos por Samsung.
+
+Este Aviso de Privacidad complementa la Política de Privacidad de Samsung (disponible en https://www.samsung.com/us/account/privacy-policy) y proporciona información adicional sobre cómo podemos recopilar, usar y compartir su información personal en relación con nuestros servicios. En caso de que alguna parte de este Aviso de Privacidad entre en conflicto con la Política de Privacidad de Samsung, prevalecerán las disposiciones pertinentes de este Aviso de Privacidad.
+
+INFORMACIÓN QUE OBTENEMOS
+
+A través de su Galaxy Wearable, podemos recopilar y mantener información sobre usted de varias maneras.
+
+
+Información sobre el uso que usted hace de su Galaxy Wearable
+
+• Información sobre sus dispositivos, como tipo de dispositivo, modelo de dispositivo, tipo y versión de sistema operativo, identificadores de dispositivo y otros identificadores únicos, proveedores de redes móviles, configuraciones y ajustes de dispositivos;
+• Información relacionada con su ubicación a través de señales GPS, Bluetooth y Wi-Fi. Algunas funciones de su Galaxy Wearable requieren la recopilación de la ubicación geográfica precisa de su dispositivo y, en esos casos, recopilaremos su ubicación geográfica, pero solo con su permiso. Su dispositivo le notificará cuando una función de Galaxy Wearable necesita recopilar su ubicación geográfica precisa. Tenga en cuenta que si no permite que Galaxy Wearable recopile su ubicación geográfica precisa, es posible que no pueda utilizar todas las funciones de Galaxy Wearable;
+• Si su dispositivo ofrece una función de Conexión remota (disponible en Galaxy Watch3 y modelos anteriores), como conectar su dispositivo móvil a su dispositivo Galaxy Wearable a través de Wi-Fi o datos móviles en lugar de Bluetooth para que su Galaxy Wearable puede recibir mensajes desde su teléfono, información sobre aplicaciones instaladas en su dispositivo móvil, como notificaciones y contenido de mensajes y correos electrónicos recibidos (incluido el contenido de mensajes y archivos multimedia); y
+• Si ha aceptado enviar datos de diagnóstico, información técnica, de error y de uso, como el tiempo y la duración del uso de su Galaxy Wearable, las aplicaciones instaladas por usted y durante cuánto tiempo y cuándo abre o cierra aplicaciones.
+
+También podemos recopilar otra información sobre usted, su Galaxy Wearable y las aplicaciones, sus dispositivos conectados a Galaxy Wearable y su uso del Galaxy Wearable de la manera que le describimos a usted en el momento de la recopilación y siempre que sea necesario, obtendremos su consentimiento.
+
+CÓMO UTILIZAMOS LA INFORMACIÓN QUE OBTENEMOS
+
+Utilizamos la información que recopilamos para los siguientes propósitos:
+
+• Para ayudarle a registrarse y utilizar su Galaxy Wearable.
+• Para proporcionar los servicios y las funciones que usted solicite.
+• Responder a sus solicitudes y preguntas, y comunicarnos con usted acerca de su Galaxy Wearable, incluida la prestación de asistencia cuando solicite soporte técnico relacionado con su Galaxy Wearable.
+• Para permitirle interactuar con determinadas aplicaciones, funciones y servicios de Samsung o de terceros.
+• Para proporcionar contenido y servicios personalizados relacionados con su Galaxy Wearable.
+• Para proporcionar promociones y ofertas a través de comunicaciones de marketing directo (como mediante notificaciones push, correos electrónicos y mensajes de texto), solo cuando nos haya dado su consentimiento por separado.
+• Para operar, evaluar y mejorar Galaxy Wearable y nuestro negocio (lo que incluye el desarrollo de nuevos productos y servicios; la mejora de nuestros productos y servicios; la administración de nuestras comunicaciones; el análisis de nuestros productos, servicios y base de clientes; la realización de investigaciones de marketing; la realización de análisis de datos; y la realización de tareas contables, auditorías y otras funciones internas).
+• Para pedirle su opinión sobre nuestros productos y servicios y realizar encuestas a los clientes; si así se requiere, con su consentimiento por separado.
+• Para proporcionar actualizaciones de software, servicios de mantenimiento y soporte para su Galaxy Wearable.
+• Para identificar, prevenir y proteger contra fraudes y otras actividades delictivas, reclamaciones y otras responsabilidades.
+• Para cumplir y hacer cumplir los requisitos legales aplicables, los estándares del sector correspondientes y nuestras políticas, incluido este Aviso de Privacidad y la Política de Privacidad.
+
+Su Galaxy Wearable puede proporcionar la posibilidad de conectarse o utilizar otras aplicaciones, servicios y funciones de Samsung o de terceros. Por ejemplo, es posible que pueda usar Samsung Health o Bixby Voice en su dispositivo Galaxy Wearable. Estas aplicaciones, servicios y funciones de Samsung y de terceros pueden tener sus propios avisos de privacidad. Revíselos para asegurarse de que comprende cómo esos servicios procesan su información. En la medida en que cualquier otra aplicación, servicio u otra función vinculada o mostrada no sea de nuestra propiedad ni esté controlada por nosotros, no somos responsables de su contenido, uso o prácticas de privacidad.
+
+INTERCAMBIO DE INFORMACIÓN
+
+Como se indicó anteriormente, este Aviso de Privacidad complementa la Política de Privacidad de Samsung para EE. UU. (disponible en https://www.samsung.com/us/account/privacy-policy), que describe nuestras prácticas de intercambio de información.
+SECCIÓN PARA NIÑOS
+
+Esta Sección para niños describe nuestras prácticas de recopilación, uso y divulgación de información con respecto al uso que hace su hijo/a de Galaxy Watch y los servicios y funciones disponibles para su hijo/a a través del Galaxy Watch. Esta sección se suma y complementa cualquier práctica de información asociada con la Samsung account de su hijo/a. Para obtener más información sobre la cuenta infantil de Samsung, consulte la sección para niños del Aviso de Privacidad de la Samsung account.
+
+INFORMACIÓN QUE OBTENEMOS CUANDO SU HIJO/A UTILIZA EL GALAXY WATCH
+
+Samsung puede recopilar la siguiente información de o sobre su hijo/a cuando su hijo/a utiliza el Galaxy Watch:
+•	Información sobre el Galaxy Watch de su hijo/a, como los dispositivos Samsung y de terceros conectados y las aplicaciones, servicios y funciones que utilizan. También podemos recopilar identificadores de dispositivos, hardware, software, red (como conexión y Bluetooth) e información de ajustes (como la configuración a través de cualquier función de control parental), así como información de uso y registro (como cuánto tiempo o cuándo utiliza su hijo/a un dispositivo, aplicación, servicio o función de Samsung o de terceros).
+
+
+
+Para Galaxy Watch, Samsung no obliga a los niños a hacer pública su información personal.
+
+CÓMO UTILIZAMOS LA INFORMACIÓN DE SU HIJO/A
+
+Podemos utilizar la información recopilada de su hijo/a a través del Galaxy Watch para los siguientes fines:
+
+• Para identificar y autenticar a su hijo/a para que pueda usar el Galaxy Watch;
+• Para operar el Galaxy Watch y sus funciones;
+• Para mejorar y personalizar la experiencia de su hijo/a con el Galaxy Watch, como la entrega de contenidos y respuestas adaptadas a su hijo/a y a la forma en que su hijo/a interactúa con el Galaxy Watch;
+• Para permitirle a su hijo/a interactuar y usar aplicaciones y servicios de Samsung y de terceros participantes;
+• Para responder a consultas, inquietudes e instrucciones realizadas a través del Galaxy Watch;
+• Para operar, evaluar y mejorar nuestro negocio, incluido el desarrollo de nuevos productos y servicios, la gestión de nuestras comunicaciones, el análisis de nuestros servicios y base de clientes, la agregación y anonimización de datos, la realización de análisis de datos y la realización de funciones de contabilidad, auditoría y otras funciones internas;
+• Para identificar y evitar fraudes, y protegerlo contra estos y contra otras actividades delictivas, reclamaciones y otras responsabilidades; y
+• Para cumplir con los requisitos legales aplicables, los estándares del sector correspondientes y nuestras políticas.
+
+INTERCAMBIO DE INFORMACIÓN DE LOS NIÑOS
+
+Podemos compartir la información personal de su hijo/a con nuestras subsidiarias y filiales, así como con los proveedores de servicios que nos prestan servicios. No autorizamos a nuestros proveedores de servicios a usar o divulgar la información que compartimos, excepto cuando sea necesario para realizar servicios en nuestro nombre o para cumplir con los requisitos legales.
+
+Podemos compartir la información personal que recopilamos de su hijo/a a través del Galaxy Watch si usted nos lo pide, o de otro modo con su consentimiento. También podemos divulgar información sobre su hijo/a en otras circunstancias, que incluyen:
+
+• A las autoridades encargadas de la aplicación de la ley, agencias o funcionarios gubernamentales o públicos, reguladores y/o cualquier otra persona o entidad con la autoridad legal adecuada o justificación para recibir dicha información, si así lo requiere la ley o un proceso legal.
+• Cuando creemos que la divulgación es necesaria o apropiada para evitar daños físicos o pérdidas financieras, o en relación con una investigación de actividad fraudulenta o ilegal presunta o real.
+• En el caso de que podamos vender o transferir la totalidad o una parte de nuestro negocio o activos (incluso en el caso de una fusión, adquisición, empresa conjunta, reorganización, desinversión, disolución o liquidación).
+
+SUS DERECHOS COMO PADRE/MADRE
+
+En cualquier momento tiene la opción de revisar o eliminar la información personal que Samsung haya recopilado de su hijo/a a través del Galaxy Watch. Puede hacerlo enviando una solicitud aquí: https://www.samsung.com/us/privacy/rights/.
+
+También puede negarse a permitir que Samsung recopile o utilice la información personal de su hijo/a restableciendo el Galaxy Watch ingresando a los ajustes del reloj> General> Restablecer.
+AVISO PARA LOS RESIDENTES DE CALIFORNIA
+
+Los consumidores californianos pueden obtener más información sobre sus derechos de privacidad en la sección “Declaración de privacidad del consumidor de California” de la Política de Privacidad de Samsung disponible en https://www.samsung.com/us/account/privacy-policy).
+
+DERECHOS DE PRIVACIDAD DE LA LEY ESTATAL
+
+Si reside en ciertos estados, es posible que tenga derechos y opciones con respecto a su información personal. Para obtener más información sobre los derechos de privacidad que pueden estar disponibles para usted según la legislación aplicable, consulte ¿CUÁLES SON SUS DERECHOS? de la Política de Privacidad de Samsung y la sección de Derechos de Privacidad de la Ley Estatal del Complemento para EE. UU. a la Política de Privacidad de Samsung (ambas disponibles en https://www.samsung.com/us/account/privacy-policy).
+
+ACTUALIZACIONES DE ESTE AVISO DE PRIVACIDAD
+
+Actualizaremos este Aviso de Privacidad para informarle si cambiamos la forma en que recopilamos y procesamos su información para su Galaxy Wearable, si así nos lo exige la ley. La fecha de la última actualización del documento se muestra en la parte superior de este Aviso de Privacidad.
+
+CÓMO CONTACTARNOS
+
+Privacy Office
+Samsung Electronics America, Inc.
+85 Challenger Road
+Ridgefield Park, NJ 07660
+1-800-SAMSUNG (1-800-726-7864)
+https://privacypost.sea.samsung.com/ccpa/privacy-inquiries
+
+Versión: P03.03.04

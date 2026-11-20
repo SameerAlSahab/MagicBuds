@@ -1,0 +1,56 @@
+﻿Paunawa sa Privacy ng Galaxy Wearable
+
+Huling na-update noong: Agosto 1, 2021
+
+Sa Samsung Electronics Co., Ltd., alam namin kung gaano kahalaga ang privacy para sa aming mga customer. Binuo namin ang Paunawa sa Privacy na ito para matiyak na nauunawaan mo kung paano namin kinokolekta at ginagamit ang iyong personal na impormasyon. 
+
+Nalalapat din ang aming Patakaran sa Privacy - na makikita sa https://account.samsung.com/membership/terms/privacypolicy - sa paggamit mo ng Galaxy Wearable. Naglalaman ang aming Patakaran sa Privacy ng higit pang impormasyon tungkol sa paraan ng paggamit namin sa iyong data. Naglalaman din ito ng impormasyon tungkol sa kung paano kami kontakin. Pakibasa ang aming Patakaran sa Privacy bilang karagdagan sa Paunawa sa Privacy na ito. Gayunpaman, ang Paunawa sa Privacy na ito ay palaging mangingibabaw sa Patakaran sa Privacy.
+
+ANONG IMPORMASYON ANG KINOKOLEKTA NAMIN?
+
+Sa pamamagitan ng iyong Galaxy Wearable, nangongolekta at nagpapanatili kami ng impormasyon tungkol sa iyo sa iba't ibang paraan. 
+
+Impormasyong Direkta Mong Ibinibigay
+
+• Kapag nag-log in ka sa Samsung account sa iyong Galaxy Wearable device, impormasyon ng Samsung account, tulad ng iyong Samsung account ID.
+
+Impormasyon Tungkol sa Paggamit Mo ng Iyong Galaxy Wearable
+
+• Impormasyon tungkol sa iyong mga device, tulad ng uri ng device, modelo ng device, uri at bersyon ng OS, mga identifier ng device at iba pang natatanging identifier, mga provider ng mobile network, mga configuration at setting ng device;
+• Impormasyong nauugnay sa iyong lokasyon sa pamamagitan ng mga signal ng GPS, Bluetooth at WiFi. Kailangan ng ilang feature ng iyong Galaxy Wearable ang pangongolekta ng tumpak na geolocation ng iyong device, at sa mga sitwasyong iyon, kokolektahin namin ang iyong geolocation, ngunit kung may pahintulot mo lang. Aabisuhan ka ng iyong device kapag kailangang kolektahin ng isang feature ng Galaxy Wearable ang iyong tumpak na geolocation. Pakitandaang kung hindi mo papayagan ang Galaxy Wearable na kolektahin ang iyong tumpak na geolocation, posibleng hindi mo magamit ang lahat ng feature ng Galaxy Wearable; 
+• Kung nag-aalok ang iyong device ng feature ng Remote na Koneksyon (available sa Galaxy Watch3 at mga mas lumang modelo), tulad ng pagkonekta ng iyong mobile device sa iyong Galaxy Wearable device sa pamamagitan ng Wi-Fi o mobile data sa halip na Bluetooth para makatanggap ng mga mensahe mula sa iyong telepono ang Galaxy Wearable mo, impormasyon tungkol sa mga app na naka-install sa iyong mobile device tulad ng mga notification at nilalaman ng mga natanggap na mensahe at email (kabilang ang nilalaman ng mga mensahe at media file); at 
+• Kung gagamitin mo ang feature na Backup and Restore, bersyon ng software, code ng benta, listahan ng mga naka-install at kamakailang ginamit na app, data at mga setting ng mga naka-install na app, mga setting ng home screen kabilang ang mukha ng relos, mga app at widget, mga setting ng notification, mga setting ng system kabilang ang display, tunog at pag-vibrate.
+• Kung sumang-ayon ka sa pagpapadala ng data na diagnostic, diagnostic na impormasyon, teknikal na impormasyon, error, at impormasyon sa paggamit tulad ng oras at tagal ng paggamit mo sa iyong Galaxy Wearable, mga app na na-install mo at kung gaano katagal at kung kailan mo bubuksan o isasara ang mga app.
+
+Maaari rin kaming mangolekta ng iba pang impormasyon tungkol sa iyo, sa Galaxy Wearable at mga app mo, sa mga device mo na nakakonekta sa Galaxy Wearable, at paggamit mo ng iyong Galaxy Wearable sa mga paraang ilalarawan namin sa iyo sa oras ng pangongolekta, at sa tuwing kinakailangan ito, kukunin namin ang iyong pahintulot.
+
+PAANO NAMIN GINAGAMIT ANG IYONG IMPORMASYON?
+
+• Para matulungan kang irehistro at gamitin ang iyong Galaxy Wearable. 
+• Para maibigay ang mga serbisyo at feature na hinihiling mo. 
+• Para tugunan ang iyong mga kahilingan at tanong, at makipag-ugnayan sa iyo tungkol sa iyong Galaxy Wearable, pati na ang pagbibigay sa iyo ng tulong kapag humiling ka ng teknikal na suportang nauugnay sa iyong Galaxy Wearable. 
+• Para payagan kang makipag-ugnayan sa mga pinili o third party na app, feature at serbisyo ng Samsung. Halimbawa, magagawa mong mag-back up ng impormasyon ng iyong mga app at setting sa Samsung Cloud o gamitin ang Samsung Health sa iyong Galaxy Wearable.
+• Para magbigay ng naka-customize na content at mga serbisyong nauugnay sa iyong Galaxy Wearable. 
+• Para makapagbigay ng mga promosyon at alok sa pamamagitan ng mga direktang pang-marketing na komunikasyon (tulad ng sa pamamagitan ng mga push notification, email, at text message), kapag lang ibinigay mo sa amin ang iyong hiwalay na pahintulot.
+• Para patakbuhin, suriin, at pahusayin ang Galaxy Wearable at ang aming negosyo (kabilang ang pag-develop ng mga bagong produkto at serbisyo, pagpapaganda at pagpapahusay sa aming mga produkto at serbisyo; pamamahala sa aming mga komunikasyon; pagsusuri sa aming mga produkto, serbisyo at customer base; pagsasagawa ng pananaliksik sa marketing; pagsasagawa ng pagsusuri sa data; at pagsasagawa ng mga gawaing pang-accounting, pang-auditing, at iba pang panloob na gawain).
+• Para hingin ang mga opinyon mo tungkol sa aming mga produkto at serbisyo at para makapagsagawa ng mga survey sa customer; nang may hiwalay na pahintulot mo kung kailangan.
+• Para makapagbigay ng mga update sa software, serbisyo sa maintenance, at suporta para sa iyong Galaxy Wearable.
+• Para maprotektahan laban sa, matukoy at mapigilan ang panloloko at iba pang kriminal na aktibidad, mga paghahabol, at iba pang pananagutan.
+• Para sumunod sa at ipatupad ang mga naaangkop na legal na inaatas, mga nauugnay na pamantayan sa industriya at mga patakaran namin, kasama ang Paunawa sa Privacy na ito at ang Patakaran sa Privacy.
+
+Maaaring ibigay ng iyong Galaxy Wearable ang kakayahang kumonekta sa o gumamit ng iba pang app, serbisyo at feature ng Samsung o third-party. Halimbawa, posibleng magamit mo ang Samsung Health o Bixby Voice sa iyong Galaxy Wearable device. Posibleng may sariling mga paunawa sa privacy ang mga app, serbisyo at feature ng Samsung at third-party na ito. Suriin ang mga iyon para matiyak na nauunawaan mo kung paano pinoproseso ng mga serbsiyong iyon ang iyong impormasyon. Hangga't ang anupamang naka-link o ipinapakitang app, serbisyo, o iba pang feature ay hindi namin pag-aari o kinokontrol, hindi namin magiging pananagutan ang nilalaman, paggamit, o mga kasanayan sa privacy nito.
+
+KANINO NAMIN IBINABAHAGI ANG IYONG IMPORMASYON?
+
+Ihahayag namin ang iyong impormasyon sa loob ng aming negosyo at sa mga sumusunod na entity, pero para lang sa mga layuning inilalarawan sa itaas.
+* Mga affiliate: iba pang kumpanya ng Samsung Electronics Group na aming kinokontrol o pinagmamay-arian;
+* Mga service provider: mga maingat na piniling kumpanyang nagbibigay ng mga serbisyo para sa o sa ngalan namin. Nakatuon din ang mga provider na ito sa pagprotekta sa iyong impormasyon;
+* Iba pang party kapag iniaatas ng batas o kung kinakailangan para maprotektahan ang iyong Galaxy Wearable: halimbawa, maaaring iniaatas ito ng batas, legal na proseso, o utos ng hukuman mula sa mga awtoridad ng pamahalaan para ihayag ang iyong impormasyon. Maaari din nilang kunin ang iyong impormasyon mula sa amin para sa mga layunin ng pagpapatupad ng batas, pambansang seguridad, paglaban sa terorismo, o iba pang isyung may kaugnayan sa seguridad ng publiko;
+* Iba pang partido kaugnay ng mga transaksyon ng korporasyon: maaari naming ihayag ang iyong impormasyon sa isang third party bilang bahagi ng pagsasanib o paglipat, pagkuha o pagbenta, o sa kaganapan ng pagkabangkarote; at
+* Iba pang partido nang may pahintulot mo o sa utos mo: bukod sa mga paghahayag na inilalarawan sa Paunawa sa Privacy na ito, maaari kaming magbahagi ng impormasyon tungkol sa iyo sa mga third party kung magbibigay ka ng hiwalay na pahintulot o hihilingin mo ang nasabing pagbabahagi.
+
+MGA UPDATE SA PAUNAWA SA PRIVACY NA ITO
+
+Maaaring ma-update ang Paunawa sa Privacy na ito para ipaalam sa iyo ang tungkol sa mga pagbabago sa paraan namin ng pagkolekta at pagproseso ng impormasyon mo sa iyong Galaxy Wearable o mga pagbabago sa mga nauugnay na batas at regulasyon. Makikita sa itaas ng Paunawa sa Privacy na ito ang petsa kung kailan huling na-update ang dokumento.
+
+Version:P01.03.01
